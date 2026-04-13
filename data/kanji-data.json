@@ -1,0 +1,5894 @@
+[
+  {
+    "id": 1,
+    "kanji": "一",
+    "meanings": [
+      "uno"
+    ],
+    "onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "kunyomi": [
+      "ひと-"
+    ],
+    "radicals": [
+      "一"
+    ],
+    "strokeCount": 1,
+    "mnemonic": "Una sola línea horizontal: el número uno.",
+    "vocabulary": [
+      {
+        "word": "一つ",
+        "reading": "ひとつ",
+        "meaning": "uno (objeto)",
+        "example": "りんごを一つください。",
+        "exampleReading": "りんごをひとつください。",
+        "exampleTranslation": "Dame una manzana, por favor.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "一月",
+        "reading": "いちがつ",
+        "meaning": "enero",
+        "example": "一月は寒いです。",
+        "exampleReading": "いちがつはさむいです。",
+        "exampleTranslation": "Enero es frío.",
+        "containsUnknownKanji": [
+          "月",
+          "寒"
+        ]
+      },
+      {
+        "word": "一人",
+        "reading": "ひとり",
+        "meaning": "una persona, solo",
+        "example": "一人で行きます。",
+        "exampleReading": "ひとりでいきます。",
+        "exampleTranslation": "Voy solo.",
+        "containsUnknownKanji": [
+          "人",
+          "行"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "kanji": "二",
+    "meanings": [
+      "dos"
+    ],
+    "onyomi": [
+      "ニ"
+    ],
+    "kunyomi": [
+      "ふた-"
+    ],
+    "radicals": [
+      "二"
+    ],
+    "strokeCount": 2,
+    "mnemonic": "Dos líneas horizontales: el número dos.",
+    "vocabulary": [
+      {
+        "word": "二つ",
+        "reading": "ふたつ",
+        "meaning": "dos (objetos)",
+        "example": "ケーキを二つ買いました。",
+        "exampleReading": "ケーキをふたつかいました。",
+        "exampleTranslation": "Compré dos pasteles.",
+        "containsUnknownKanji": [
+          "買"
+        ]
+      },
+      {
+        "word": "二月",
+        "reading": "にがつ",
+        "meaning": "febrero",
+        "example": "二月は短いです。",
+        "exampleReading": "にがつはみじかいです。",
+        "exampleTranslation": "Febrero es corto.",
+        "containsUnknownKanji": [
+          "月",
+          "短"
+        ]
+      },
+      {
+        "word": "二人",
+        "reading": "ふたり",
+        "meaning": "dos personas",
+        "example": "二人で映画を見ました。",
+        "exampleReading": "ふたりでえいがをみました。",
+        "exampleTranslation": "Vimos una película los dos.",
+        "containsUnknownKanji": [
+          "人",
+          "映",
+          "画",
+          "見"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "kanji": "三",
+    "meanings": [
+      "tres"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "みっ-",
+      "み"
+    ],
+    "radicals": [
+      "三"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Tres líneas horizontales: el número tres.",
+    "vocabulary": [
+      {
+        "word": "三つ",
+        "reading": "みっつ",
+        "meaning": "tres (objetos)",
+        "example": "三つの箱があります。",
+        "exampleReading": "みっつのはこがあります。",
+        "exampleTranslation": "Hay tres cajas.",
+        "containsUnknownKanji": [
+          "箱"
+        ]
+      },
+      {
+        "word": "三月",
+        "reading": "さんがつ",
+        "meaning": "marzo",
+        "example": "三月に桜が咲きます。",
+        "exampleReading": "さんがつにさくらがさきます。",
+        "exampleTranslation": "En marzo florecen los cerezos.",
+        "containsUnknownKanji": [
+          "月",
+          "桜",
+          "咲"
+        ]
+      },
+      {
+        "word": "三日",
+        "reading": "みっか",
+        "meaning": "día tres, tres días",
+        "example": "三日待ってください。",
+        "exampleReading": "みっかまってください。",
+        "exampleTranslation": "Espera tres días, por favor.",
+        "containsUnknownKanji": [
+          "日",
+          "待"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "kanji": "四",
+    "meanings": [
+      "cuatro"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "よっ-",
+      "よん"
+    ],
+    "radicals": [
+      "口"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Una caja con piernas adentro: cuatro patas.",
+    "vocabulary": [
+      {
+        "word": "四つ",
+        "reading": "よっつ",
+        "meaning": "cuatro (objetos)",
+        "example": "卵が四つあります。",
+        "exampleReading": "たまごがよっつあります。",
+        "exampleTranslation": "Hay cuatro huevos.",
+        "containsUnknownKanji": [
+          "卵"
+        ]
+      },
+      {
+        "word": "四月",
+        "reading": "しがつ",
+        "meaning": "abril",
+        "example": "四月に学校が始まります。",
+        "exampleReading": "しがつにがっこうがはじまります。",
+        "exampleTranslation": "La escuela empieza en abril.",
+        "containsUnknownKanji": [
+          "月",
+          "学",
+          "校",
+          "始"
+        ]
+      },
+      {
+        "word": "四人",
+        "reading": "よにん",
+        "meaning": "cuatro personas",
+        "example": "家族は四人です。",
+        "exampleReading": "かぞくはよにんです。",
+        "exampleTranslation": "Mi familia es de cuatro.",
+        "containsUnknownKanji": [
+          "人",
+          "家",
+          "族"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "kanji": "五",
+    "meanings": [
+      "cinco"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "いつ-"
+    ],
+    "radicals": [
+      "五"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Cinco trazos cruzados: el número cinco.",
+    "vocabulary": [
+      {
+        "word": "五つ",
+        "reading": "いつつ",
+        "meaning": "cinco (objetos)",
+        "example": "りんごを五つ買いました。",
+        "exampleReading": "りんごをいつつかいました。",
+        "exampleTranslation": "Compré cinco manzanas.",
+        "containsUnknownKanji": [
+          "買"
+        ]
+      },
+      {
+        "word": "五月",
+        "reading": "ごがつ",
+        "meaning": "mayo",
+        "example": "五月は気持ちいいです。",
+        "exampleReading": "ごがつはきもちいいです。",
+        "exampleTranslation": "Mayo se siente bien.",
+        "containsUnknownKanji": [
+          "月",
+          "気",
+          "持"
+        ]
+      },
+      {
+        "word": "五分",
+        "reading": "ごふん",
+        "meaning": "cinco minutos",
+        "example": "五分待ってください。",
+        "exampleReading": "ごふんまってください。",
+        "exampleTranslation": "Espera cinco minutos.",
+        "containsUnknownKanji": [
+          "分",
+          "待"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "kanji": "六",
+    "meanings": [
+      "seis"
+    ],
+    "onyomi": [
+      "ロク"
+    ],
+    "kunyomi": [
+      "むっ-"
+    ],
+    "radicals": [
+      "亠"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una mesa de seis patas, con techo encima.",
+    "vocabulary": [
+      {
+        "word": "六つ",
+        "reading": "むっつ",
+        "meaning": "seis (objetos)",
+        "example": "本が六つあります。",
+        "exampleReading": "ほんがむっつあります。",
+        "exampleTranslation": "Hay seis libros.",
+        "containsUnknownKanji": [
+          "本"
+        ]
+      },
+      {
+        "word": "六月",
+        "reading": "ろくがつ",
+        "meaning": "junio",
+        "example": "六月は雨が多いです。",
+        "exampleReading": "ろくがつはあめがおおいです。",
+        "exampleTranslation": "Junio tiene mucha lluvia.",
+        "containsUnknownKanji": [
+          "月",
+          "雨",
+          "多"
+        ]
+      },
+      {
+        "word": "六時",
+        "reading": "ろくじ",
+        "meaning": "seis en punto",
+        "example": "六時に起きます。",
+        "exampleReading": "ろくじにおきます。",
+        "exampleTranslation": "Me levanto a las seis.",
+        "containsUnknownKanji": [
+          "時",
+          "起"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "kanji": "七",
+    "meanings": [
+      "siete"
+    ],
+    "onyomi": [
+      "シチ"
+    ],
+    "kunyomi": [
+      "なな-"
+    ],
+    "radicals": [
+      "七"
+    ],
+    "strokeCount": 2,
+    "mnemonic": "Una hoz curva: siete trazos en cosecha.",
+    "vocabulary": [
+      {
+        "word": "七つ",
+        "reading": "ななつ",
+        "meaning": "siete (objetos)",
+        "example": "星が七つ見えます。",
+        "exampleReading": "ほしがななつみえます。",
+        "exampleTranslation": "Se ven siete estrellas.",
+        "containsUnknownKanji": [
+          "星",
+          "見"
+        ]
+      },
+      {
+        "word": "七月",
+        "reading": "しちがつ",
+        "meaning": "julio",
+        "example": "七月は暑いです。",
+        "exampleReading": "しちがつはあついです。",
+        "exampleTranslation": "Julio es caluroso.",
+        "containsUnknownKanji": [
+          "月",
+          "暑"
+        ]
+      },
+      {
+        "word": "七時",
+        "reading": "しちじ",
+        "meaning": "siete en punto",
+        "example": "七時に帰ります。",
+        "exampleReading": "しちじにかえります。",
+        "exampleTranslation": "Vuelvo a las siete.",
+        "containsUnknownKanji": [
+          "時",
+          "帰"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "kanji": "八",
+    "meanings": [
+      "ocho"
+    ],
+    "onyomi": [
+      "ハチ"
+    ],
+    "kunyomi": [
+      "やっ-"
+    ],
+    "radicals": [
+      "八"
+    ],
+    "strokeCount": 2,
+    "mnemonic": "Dos trazos abriéndose: ocho como abanico.",
+    "vocabulary": [
+      {
+        "word": "八つ",
+        "reading": "やっつ",
+        "meaning": "ocho (objetos)",
+        "example": "皿が八つあります。",
+        "exampleReading": "さらがやっつあります。",
+        "exampleTranslation": "Hay ocho platos.",
+        "containsUnknownKanji": [
+          "皿"
+        ]
+      },
+      {
+        "word": "八月",
+        "reading": "はちがつ",
+        "meaning": "agosto",
+        "example": "八月に旅行します。",
+        "exampleReading": "はちがつにりょこうします。",
+        "exampleTranslation": "Viajo en agosto.",
+        "containsUnknownKanji": [
+          "月",
+          "旅",
+          "行"
+        ]
+      },
+      {
+        "word": "八時",
+        "reading": "はちじ",
+        "meaning": "ocho en punto",
+        "example": "八時に始まります。",
+        "exampleReading": "はちじにはじまります。",
+        "exampleTranslation": "Empieza a las ocho.",
+        "containsUnknownKanji": [
+          "時",
+          "始"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "kanji": "九",
+    "meanings": [
+      "nueve"
+    ],
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "ここの-"
+    ],
+    "radicals": [
+      "乙"
+    ],
+    "strokeCount": 2,
+    "mnemonic": "Un anzuelo doblado: el nueve.",
+    "vocabulary": [
+      {
+        "word": "九つ",
+        "reading": "ここのつ",
+        "meaning": "nueve (objetos)",
+        "example": "九つの夢があります。",
+        "exampleReading": "ここのつのゆめがあります。",
+        "exampleTranslation": "Tengo nueve sueños.",
+        "containsUnknownKanji": [
+          "夢"
+        ]
+      },
+      {
+        "word": "九月",
+        "reading": "くがつ",
+        "meaning": "septiembre",
+        "example": "九月は涼しいです。",
+        "exampleReading": "くがつはすずしいです。",
+        "exampleTranslation": "Septiembre es fresco.",
+        "containsUnknownKanji": [
+          "月",
+          "涼"
+        ]
+      },
+      {
+        "word": "九時",
+        "reading": "くじ",
+        "meaning": "nueve en punto",
+        "example": "九時に寝ます。",
+        "exampleReading": "くじにねます。",
+        "exampleTranslation": "Me acuesto a las nueve.",
+        "containsUnknownKanji": [
+          "時",
+          "寝"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "kanji": "十",
+    "meanings": [
+      "diez"
+    ],
+    "onyomi": [
+      "ジュウ"
+    ],
+    "kunyomi": [
+      "とお"
+    ],
+    "radicals": [
+      "十"
+    ],
+    "strokeCount": 2,
+    "mnemonic": "Una cruz: diez dedos cruzados.",
+    "vocabulary": [
+      {
+        "word": "十",
+        "reading": "じゅう",
+        "meaning": "diez",
+        "example": "十まで数えます。",
+        "exampleReading": "じゅうまでかぞえます。",
+        "exampleTranslation": "Cuento hasta diez.",
+        "containsUnknownKanji": [
+          "数"
+        ]
+      },
+      {
+        "word": "十月",
+        "reading": "じゅうがつ",
+        "meaning": "octubre",
+        "example": "十月に紅葉します。",
+        "exampleReading": "じゅうがつにこうようします。",
+        "exampleTranslation": "En octubre cambian las hojas.",
+        "containsUnknownKanji": [
+          "月",
+          "紅",
+          "葉"
+        ]
+      },
+      {
+        "word": "十分",
+        "reading": "じゅっぷん",
+        "meaning": "diez minutos",
+        "example": "十分かかります。",
+        "exampleReading": "じゅっぷんかかります。",
+        "exampleTranslation": "Toma diez minutos.",
+        "containsUnknownKanji": [
+          "分"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "kanji": "日",
+    "meanings": [
+      "sol",
+      "día"
+    ],
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "radicals": [
+      "日"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Un sol cuadrado con un punto: día.",
+    "vocabulary": [
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": "Japón",
+        "example": "日本に住んでいます。",
+        "exampleReading": "にほんにすんでいます。",
+        "exampleTranslation": "Vivo en Japón.",
+        "containsUnknownKanji": [
+          "本",
+          "住"
+        ]
+      },
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "meaning": "hoy",
+        "example": "今日は暑いです。",
+        "exampleReading": "きょうはあついです。",
+        "exampleTranslation": "Hoy hace calor.",
+        "containsUnknownKanji": [
+          "今",
+          "暑"
+        ]
+      },
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "meaning": "todos los días",
+        "example": "毎日勉強します。",
+        "exampleReading": "まいにちべんきょうします。",
+        "exampleTranslation": "Estudio todos los días.",
+        "containsUnknownKanji": [
+          "毎",
+          "勉",
+          "強"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "kanji": "月",
+    "meanings": [
+      "luna",
+      "mes"
+    ],
+    "onyomi": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kunyomi": [
+      "つき"
+    ],
+    "radicals": [
+      "月"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una luna creciente: mes lunar.",
+    "vocabulary": [
+      {
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": "lunes",
+        "example": "月曜日に会いましょう。",
+        "exampleReading": "げつようびにあいましょう。",
+        "exampleTranslation": "Vamos a vernos el lunes.",
+        "containsUnknownKanji": [
+          "曜",
+          "日",
+          "会"
+        ]
+      },
+      {
+        "word": "今月",
+        "reading": "こんげつ",
+        "meaning": "este mes",
+        "example": "今月は忙しいです。",
+        "exampleReading": "こんげつはいそがしいです。",
+        "exampleTranslation": "Este mes estoy ocupado.",
+        "containsUnknownKanji": [
+          "今",
+          "忙"
+        ]
+      },
+      {
+        "word": "毎月",
+        "reading": "まいつき",
+        "meaning": "cada mes",
+        "example": "毎月本を買います。",
+        "exampleReading": "まいつきほんをかいます。",
+        "exampleTranslation": "Compro libros cada mes.",
+        "containsUnknownKanji": [
+          "毎",
+          "本",
+          "買"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "kanji": "火",
+    "meanings": [
+      "fuego"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "ひ"
+    ],
+    "radicals": [
+      "火"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Llamas que se elevan: fuego.",
+    "vocabulary": [
+      {
+        "word": "火曜日",
+        "reading": "かようび",
+        "meaning": "martes",
+        "example": "火曜日に行きます。",
+        "exampleReading": "かようびにいきます。",
+        "exampleTranslation": "Voy el martes.",
+        "containsUnknownKanji": [
+          "曜",
+          "日",
+          "行"
+        ]
+      },
+      {
+        "word": "火事",
+        "reading": "かじ",
+        "meaning": "incendio",
+        "example": "火事に気をつけて。",
+        "exampleReading": "かじにきをつけて。",
+        "exampleTranslation": "Cuidado con los incendios.",
+        "containsUnknownKanji": [
+          "事",
+          "気"
+        ]
+      },
+      {
+        "word": "花火",
+        "reading": "はなび",
+        "meaning": "fuegos artificiales",
+        "example": "夏に花火を見ます。",
+        "exampleReading": "なつにはなびをみます。",
+        "exampleTranslation": "Veo fuegos artificiales en verano.",
+        "containsUnknownKanji": [
+          "夏",
+          "花",
+          "見"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "kanji": "水",
+    "meanings": [
+      "agua"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "みず"
+    ],
+    "radicals": [
+      "水"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Gotas de agua que fluyen.",
+    "vocabulary": [
+      {
+        "word": "水曜日",
+        "reading": "すいようび",
+        "meaning": "miércoles",
+        "example": "水曜日は休みです。",
+        "exampleReading": "すいようびはやすみです。",
+        "exampleTranslation": "El miércoles es día libre.",
+        "containsUnknownKanji": [
+          "曜",
+          "日",
+          "休"
+        ]
+      },
+      {
+        "word": "お水",
+        "reading": "おみず",
+        "meaning": "agua (cortés)",
+        "example": "お水をください。",
+        "exampleReading": "おみずをください。",
+        "exampleTranslation": "Agua, por favor.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "水着",
+        "reading": "みずぎ",
+        "meaning": "traje de baño",
+        "example": "水着を持って行きます。",
+        "exampleReading": "みずぎをもっていきます。",
+        "exampleTranslation": "Llevo el traje de baño.",
+        "containsUnknownKanji": [
+          "着",
+          "持",
+          "行"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "kanji": "木",
+    "meanings": [
+      "árbol",
+      "madera"
+    ],
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "き"
+    ],
+    "radicals": [
+      "木"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Un árbol con ramas y raíces.",
+    "vocabulary": [
+      {
+        "word": "木曜日",
+        "reading": "もくようび",
+        "meaning": "jueves",
+        "example": "木曜日に会議があります。",
+        "exampleReading": "もくようびにかいぎがあります。",
+        "exampleTranslation": "Hay reunión el jueves.",
+        "containsUnknownKanji": [
+          "曜",
+          "日",
+          "会",
+          "議"
+        ]
+      },
+      {
+        "word": "木",
+        "reading": "き",
+        "meaning": "árbol",
+        "example": "庭に木があります。",
+        "exampleReading": "にわにきがあります。",
+        "exampleTranslation": "Hay un árbol en el jardín.",
+        "containsUnknownKanji": [
+          "庭"
+        ]
+      },
+      {
+        "word": "大木",
+        "reading": "たいぼく",
+        "meaning": "árbol grande",
+        "example": "公園に大木があります。",
+        "exampleReading": "こうえんにたいぼくがあります。",
+        "exampleTranslation": "Hay un gran árbol en el parque.",
+        "containsUnknownKanji": [
+          "大",
+          "公",
+          "園"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "kanji": "金",
+    "meanings": [
+      "oro",
+      "dinero"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "kunyomi": [
+      "かね"
+    ],
+    "radicals": [
+      "金"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Un tesoro bajo techo: oro.",
+    "vocabulary": [
+      {
+        "word": "金曜日",
+        "reading": "きんようび",
+        "meaning": "viernes",
+        "example": "金曜日が楽しみです。",
+        "exampleReading": "きんようびがたのしみです。",
+        "exampleTranslation": "Espero el viernes con ganas.",
+        "containsUnknownKanji": [
+          "曜",
+          "日",
+          "楽"
+        ]
+      },
+      {
+        "word": "お金",
+        "reading": "おかね",
+        "meaning": "dinero",
+        "example": "お金がありません。",
+        "exampleReading": "おかねがありません。",
+        "exampleTranslation": "No tengo dinero.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "金色",
+        "reading": "きんいろ",
+        "meaning": "color dorado",
+        "example": "金色のリボンが好きです。",
+        "exampleReading": "きんいろのリボンがすきです。",
+        "exampleTranslation": "Me gustan los listones dorados.",
+        "containsUnknownKanji": [
+          "色",
+          "好"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "kanji": "土",
+    "meanings": [
+      "tierra"
+    ],
+    "onyomi": [
+      "ド"
+    ],
+    "kunyomi": [
+      "つち"
+    ],
+    "radicals": [
+      "土"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Una cruz sobre la tierra firme.",
+    "vocabulary": [
+      {
+        "word": "土曜日",
+        "reading": "どようび",
+        "meaning": "sábado",
+        "example": "土曜日に出かけます。",
+        "exampleReading": "どようびにでかけます。",
+        "exampleTranslation": "Salgo el sábado.",
+        "containsUnknownKanji": [
+          "曜",
+          "日",
+          "出"
+        ]
+      },
+      {
+        "word": "土地",
+        "reading": "とち",
+        "meaning": "terreno",
+        "example": "土地を買いました。",
+        "exampleReading": "とちをかいました。",
+        "exampleTranslation": "Compré un terreno.",
+        "containsUnknownKanji": [
+          "地",
+          "買"
+        ]
+      },
+      {
+        "word": "土",
+        "reading": "つち",
+        "meaning": "tierra, suelo",
+        "example": "土が湿っています。",
+        "exampleReading": "つちがしめっています。",
+        "exampleTranslation": "El suelo está húmedo.",
+        "containsUnknownKanji": [
+          "湿"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "kanji": "人",
+    "meanings": [
+      "persona"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "kunyomi": [
+      "ひと"
+    ],
+    "radicals": [
+      "人"
+    ],
+    "strokeCount": 2,
+    "mnemonic": "Dos piernas caminando: una persona.",
+    "vocabulary": [
+      {
+        "word": "人",
+        "reading": "ひと",
+        "meaning": "persona",
+        "example": "あの人は誰ですか。",
+        "exampleReading": "あのひとはだれですか。",
+        "exampleTranslation": "¿Quién es esa persona?",
+        "containsUnknownKanji": [
+          "誰"
+        ]
+      },
+      {
+        "word": "日本人",
+        "reading": "にほんじん",
+        "meaning": "japonés (persona)",
+        "example": "彼は日本人です。",
+        "exampleReading": "かれはにほんじんです。",
+        "exampleTranslation": "Él es japonés.",
+        "containsUnknownKanji": [
+          "日",
+          "本",
+          "彼"
+        ]
+      },
+      {
+        "word": "外国人",
+        "reading": "がいこくじん",
+        "meaning": "extranjero",
+        "example": "外国人が増えています。",
+        "exampleReading": "がいこくじんがふえています。",
+        "exampleTranslation": "Hay más extranjeros.",
+        "containsUnknownKanji": [
+          "外",
+          "国",
+          "増"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "kanji": "口",
+    "meanings": [
+      "boca"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "くち"
+    ],
+    "radicals": [
+      "口"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Un cuadrado: la boca abierta.",
+    "vocabulary": [
+      {
+        "word": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrada",
+        "example": "入口はあちらです。",
+        "exampleReading": "いりぐちはあちらです。",
+        "exampleTranslation": "La entrada está por allá.",
+        "containsUnknownKanji": [
+          "入"
+        ]
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "salida",
+        "example": "出口を探しています。",
+        "exampleReading": "でぐちをさがしています。",
+        "exampleTranslation": "Estoy buscando la salida.",
+        "containsUnknownKanji": [
+          "出",
+          "探"
+        ]
+      },
+      {
+        "word": "人口",
+        "reading": "じんこう",
+        "meaning": "población",
+        "example": "東京の人口は多い。",
+        "exampleReading": "とうきょうのじんこうはおおい。",
+        "exampleTranslation": "La población de Tokio es grande.",
+        "containsUnknownKanji": [
+          "人",
+          "東",
+          "京",
+          "多"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "kanji": "目",
+    "meanings": [
+      "ojo"
+    ],
+    "onyomi": [
+      "モク"
+    ],
+    "kunyomi": [
+      "め"
+    ],
+    "radicals": [
+      "目"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Un ojo vertical con párpados.",
+    "vocabulary": [
+      {
+        "word": "目",
+        "reading": "め",
+        "meaning": "ojo",
+        "example": "目が痛いです。",
+        "exampleReading": "めがいたいです。",
+        "exampleTranslation": "Me duelen los ojos.",
+        "containsUnknownKanji": [
+          "痛"
+        ]
+      },
+      {
+        "word": "一目",
+        "reading": "ひとめ",
+        "meaning": "un vistazo",
+        "example": "一目で分かりました。",
+        "exampleReading": "ひとめでわかりました。",
+        "exampleTranslation": "Lo entendí al primer vistazo.",
+        "containsUnknownKanji": [
+          "一",
+          "分"
+        ]
+      },
+      {
+        "word": "目的",
+        "reading": "もくてき",
+        "meaning": "objetivo",
+        "example": "目的は何ですか。",
+        "exampleReading": "もくてきはなんですか。",
+        "exampleTranslation": "¿Cuál es el objetivo?",
+        "containsUnknownKanji": [
+          "的",
+          "何"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "kanji": "本",
+    "meanings": [
+      "libro",
+      "origen"
+    ],
+    "onyomi": [
+      "ホン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "radicals": [
+      "木",
+      "一"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Un árbol con marca en la raíz: el origen, el libro.",
+    "vocabulary": [
+      {
+        "word": "本",
+        "reading": "ほん",
+        "meaning": "libro",
+        "example": "本を読みます。",
+        "exampleReading": "ほんをよみます。",
+        "exampleTranslation": "Leo un libro.",
+        "containsUnknownKanji": [
+          "読"
+        ]
+      },
+      {
+        "word": "日本",
+        "reading": "にほん",
+        "meaning": "Japón",
+        "example": "日本へ行きます。",
+        "exampleReading": "にほんへいきます。",
+        "exampleTranslation": "Voy a Japón.",
+        "containsUnknownKanji": [
+          "日",
+          "行"
+        ]
+      },
+      {
+        "word": "本当",
+        "reading": "ほんとう",
+        "meaning": "verdad",
+        "example": "本当ですか。",
+        "exampleReading": "ほんとうですか。",
+        "exampleTranslation": "¿En serio?",
+        "containsUnknownKanji": [
+          "当"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "kanji": "中",
+    "meanings": [
+      "centro",
+      "dentro"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "なか"
+    ],
+    "radicals": [
+      "口",
+      "丨"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una flecha atravesando el centro de un blanco.",
+    "vocabulary": [
+      {
+        "word": "中",
+        "reading": "なか",
+        "meaning": "dentro",
+        "example": "箱の中にあります。",
+        "exampleReading": "はこのなかにあります。",
+        "exampleTranslation": "Está dentro de la caja.",
+        "containsUnknownKanji": [
+          "箱"
+        ]
+      },
+      {
+        "word": "中国",
+        "reading": "ちゅうごく",
+        "meaning": "China",
+        "example": "中国へ行きました。",
+        "exampleReading": "ちゅうごくへいきました。",
+        "exampleTranslation": "Fui a China.",
+        "containsUnknownKanji": [
+          "国",
+          "行"
+        ]
+      },
+      {
+        "word": "中学",
+        "reading": "ちゅうがく",
+        "meaning": "secundaria",
+        "example": "中学の先生です。",
+        "exampleReading": "ちゅうがくのせんせいです。",
+        "exampleTranslation": "Es maestro de secundaria.",
+        "containsUnknownKanji": [
+          "学",
+          "先",
+          "生"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "kanji": "大",
+    "meanings": [
+      "grande"
+    ],
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "おお"
+    ],
+    "radicals": [
+      "大"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Una persona con brazos extendidos: grande.",
+    "vocabulary": [
+      {
+        "word": "大きい",
+        "reading": "おおきい",
+        "meaning": "grande",
+        "example": "大きい家ですね。",
+        "exampleReading": "おおきいいえですね。",
+        "exampleTranslation": "Qué casa tan grande.",
+        "containsUnknownKanji": [
+          "家"
+        ]
+      },
+      {
+        "word": "大人",
+        "reading": "おとな",
+        "meaning": "adulto",
+        "example": "大人になりました。",
+        "exampleReading": "おとなになりました。",
+        "exampleTranslation": "Me volví adulto.",
+        "containsUnknownKanji": [
+          "人"
+        ]
+      },
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "universidad",
+        "example": "大学に通っています。",
+        "exampleReading": "だいがくにかよっています。",
+        "exampleTranslation": "Voy a la universidad.",
+        "containsUnknownKanji": [
+          "学",
+          "通"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "kanji": "小",
+    "meanings": [
+      "pequeño"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ちい",
+      "こ"
+    ],
+    "radicals": [
+      "小"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Tres puntitos pequeños alrededor de un eje.",
+    "vocabulary": [
+      {
+        "word": "小さい",
+        "reading": "ちいさい",
+        "meaning": "pequeño",
+        "example": "小さい犬です。",
+        "exampleReading": "ちいさいいぬです。",
+        "exampleTranslation": "Es un perro pequeño.",
+        "containsUnknownKanji": [
+          "犬"
+        ]
+      },
+      {
+        "word": "小学校",
+        "reading": "しょうがっこう",
+        "meaning": "primaria",
+        "example": "小学校の子供。",
+        "exampleReading": "しょうがっこうのこども。",
+        "exampleTranslation": "Niños de primaria.",
+        "containsUnknownKanji": [
+          "学",
+          "校",
+          "子",
+          "供"
+        ]
+      },
+      {
+        "word": "小川",
+        "reading": "おがわ",
+        "meaning": "arroyo",
+        "example": "小川で遊びました。",
+        "exampleReading": "おがわであそびました。",
+        "exampleTranslation": "Jugué en el arroyo.",
+        "containsUnknownKanji": [
+          "川",
+          "遊"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "kanji": "山",
+    "meanings": [
+      "montaña"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "やま"
+    ],
+    "radicals": [
+      "山"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Tres picos: una cordillera.",
+    "vocabulary": [
+      {
+        "word": "山",
+        "reading": "やま",
+        "meaning": "montaña",
+        "example": "山に登ります。",
+        "exampleReading": "やまにのぼります。",
+        "exampleTranslation": "Subo la montaña.",
+        "containsUnknownKanji": [
+          "登"
+        ]
+      },
+      {
+        "word": "富士山",
+        "reading": "ふじさん",
+        "meaning": "monte Fuji",
+        "example": "富士山は美しい。",
+        "exampleReading": "ふじさんはうつくしい。",
+        "exampleTranslation": "El Fuji es hermoso.",
+        "containsUnknownKanji": [
+          "富",
+          "士",
+          "美"
+        ]
+      },
+      {
+        "word": "火山",
+        "reading": "かざん",
+        "meaning": "volcán",
+        "example": "火山が噴火した。",
+        "exampleReading": "かざんがふんかした。",
+        "exampleTranslation": "El volcán hizo erupción.",
+        "containsUnknownKanji": [
+          "火",
+          "噴"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "kanji": "川",
+    "meanings": [
+      "río"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "radicals": [
+      "川"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Tres líneas onduladas: agua que fluye.",
+    "vocabulary": [
+      {
+        "word": "川",
+        "reading": "かわ",
+        "meaning": "río",
+        "example": "川で泳ぎます。",
+        "exampleReading": "かわでおよぎます。",
+        "exampleTranslation": "Nado en el río.",
+        "containsUnknownKanji": [
+          "泳"
+        ]
+      },
+      {
+        "word": "小川",
+        "reading": "おがわ",
+        "meaning": "arroyo",
+        "example": "小川を渡る。",
+        "exampleReading": "おがわをわたる。",
+        "exampleTranslation": "Cruzo el arroyo.",
+        "containsUnknownKanji": [
+          "小",
+          "渡"
+        ]
+      },
+      {
+        "word": "川口",
+        "reading": "かわぐち",
+        "meaning": "desembocadura",
+        "example": "川口に船がある。",
+        "exampleReading": "かわぐちにふねがある。",
+        "exampleTranslation": "Hay un barco en la desembocadura.",
+        "containsUnknownKanji": [
+          "口",
+          "船"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "kanji": "田",
+    "meanings": [
+      "campo de arroz"
+    ],
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [
+      "た"
+    ],
+    "radicals": [
+      "田"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Un campo dividido en cuatro parcelas.",
+    "vocabulary": [
+      {
+        "word": "田中",
+        "reading": "たなか",
+        "meaning": "Tanaka (apellido)",
+        "example": "田中さんです。",
+        "exampleReading": "たなかさんです。",
+        "exampleTranslation": "Es el señor Tanaka.",
+        "containsUnknownKanji": [
+          "中"
+        ]
+      },
+      {
+        "word": "田んぼ",
+        "reading": "たんぼ",
+        "meaning": "arrozal",
+        "example": "田んぼを見ます。",
+        "exampleReading": "たんぼをみます。",
+        "exampleTranslation": "Veo el arrozal.",
+        "containsUnknownKanji": [
+          "見"
+        ]
+      },
+      {
+        "word": "水田",
+        "reading": "すいでん",
+        "meaning": "arrozal",
+        "example": "水田が広がる。",
+        "exampleReading": "すいでんがひろがる。",
+        "exampleTranslation": "Los arrozales se extienden.",
+        "containsUnknownKanji": [
+          "水",
+          "広"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "kanji": "男",
+    "meanings": [
+      "hombre"
+    ],
+    "onyomi": [
+      "ダン"
+    ],
+    "kunyomi": [
+      "おとこ"
+    ],
+    "radicals": [
+      "田",
+      "力"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Fuerza en el campo: el hombre que trabaja la tierra.",
+    "vocabulary": [
+      {
+        "word": "男",
+        "reading": "おとこ",
+        "meaning": "hombre",
+        "example": "男の人です。",
+        "exampleReading": "おとこのひとです。",
+        "exampleTranslation": "Es un hombre.",
+        "containsUnknownKanji": [
+          "人"
+        ]
+      },
+      {
+        "word": "男子",
+        "reading": "だんし",
+        "meaning": "chico",
+        "example": "男子トイレ。",
+        "exampleReading": "だんしトイレ。",
+        "exampleTranslation": "Baño de hombres.",
+        "containsUnknownKanji": [
+          "子"
+        ]
+      },
+      {
+        "word": "長男",
+        "reading": "ちょうなん",
+        "meaning": "hijo mayor",
+        "example": "彼は長男です。",
+        "exampleReading": "かれはちょうなんです。",
+        "exampleTranslation": "Él es el hijo mayor.",
+        "containsUnknownKanji": [
+          "長",
+          "彼"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "kanji": "女",
+    "meanings": [
+      "mujer"
+    ],
+    "onyomi": [
+      "ジョ"
+    ],
+    "kunyomi": [
+      "おんな"
+    ],
+    "radicals": [
+      "女"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Una figura con falda: mujer.",
+    "vocabulary": [
+      {
+        "word": "女",
+        "reading": "おんな",
+        "meaning": "mujer",
+        "example": "女の人です。",
+        "exampleReading": "おんなのひとです。",
+        "exampleTranslation": "Es una mujer.",
+        "containsUnknownKanji": [
+          "人"
+        ]
+      },
+      {
+        "word": "女子",
+        "reading": "じょし",
+        "meaning": "chica",
+        "example": "女子校に通う。",
+        "exampleReading": "じょしこうにかよう。",
+        "exampleTranslation": "Va a una escuela de chicas.",
+        "containsUnknownKanji": [
+          "子",
+          "校",
+          "通"
+        ]
+      },
+      {
+        "word": "少女",
+        "reading": "しょうじょ",
+        "meaning": "muchacha",
+        "example": "少女が歌う。",
+        "exampleReading": "しょうじょがうたう。",
+        "exampleTranslation": "La muchacha canta.",
+        "containsUnknownKanji": [
+          "少",
+          "歌"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "kanji": "子",
+    "meanings": [
+      "niño",
+      "hijo"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "こ"
+    ],
+    "radicals": [
+      "子"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Un bebé con cabeza grande y brazos abiertos.",
+    "vocabulary": [
+      {
+        "word": "子供",
+        "reading": "こども",
+        "meaning": "niño",
+        "example": "子供が遊ぶ。",
+        "exampleReading": "こどもがあそぶ。",
+        "exampleTranslation": "Los niños juegan.",
+        "containsUnknownKanji": [
+          "供",
+          "遊"
+        ]
+      },
+      {
+        "word": "男の子",
+        "reading": "おとこのこ",
+        "meaning": "niño",
+        "example": "男の子が走る。",
+        "exampleReading": "おとこのこがはしる。",
+        "exampleTranslation": "El niño corre.",
+        "containsUnknownKanji": [
+          "男",
+          "走"
+        ]
+      },
+      {
+        "word": "女の子",
+        "reading": "おんなのこ",
+        "meaning": "niña",
+        "example": "女の子が笑う。",
+        "exampleReading": "おんなのこがわらう。",
+        "exampleTranslation": "La niña ríe.",
+        "containsUnknownKanji": [
+          "女",
+          "笑"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "kanji": "先",
+    "meanings": [
+      "antes",
+      "previo"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "さき"
+    ],
+    "radicals": [
+      "儿"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Un pie adelantado: ir primero.",
+    "vocabulary": [
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": "maestro",
+        "example": "先生に聞く。",
+        "exampleReading": "せんせいにきく。",
+        "exampleTranslation": "Le pregunto al maestro.",
+        "containsUnknownKanji": [
+          "生",
+          "聞"
+        ]
+      },
+      {
+        "word": "先月",
+        "reading": "せんげつ",
+        "meaning": "mes pasado",
+        "example": "先月行きました。",
+        "exampleReading": "せんげつ いきました。",
+        "exampleTranslation": "Fui el mes pasado.",
+        "containsUnknownKanji": [
+          "月",
+          "行"
+        ]
+      },
+      {
+        "word": "先週",
+        "reading": "せんしゅう",
+        "meaning": "semana pasada",
+        "example": "先週は忙しかった。",
+        "exampleReading": "せんしゅうはいそがしかった。",
+        "exampleTranslation": "La semana pasada estuve ocupado.",
+        "containsUnknownKanji": [
+          "週",
+          "忙"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "kanji": "生",
+    "meanings": [
+      "vida",
+      "nacer"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "い",
+      "う"
+    ],
+    "radicals": [
+      "生"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Un brote que sale de la tierra: vida.",
+    "vocabulary": [
+      {
+        "word": "学生",
+        "reading": "がくせい",
+        "meaning": "estudiante",
+        "example": "学生です。",
+        "exampleReading": "がくせいです。",
+        "exampleTranslation": "Soy estudiante.",
+        "containsUnknownKanji": [
+          "学"
+        ]
+      },
+      {
+        "word": "生まれる",
+        "reading": "うまれる",
+        "meaning": "nacer",
+        "example": "日本で生まれた。",
+        "exampleReading": "にほんでうまれた。",
+        "exampleTranslation": "Nací en Japón.",
+        "containsUnknownKanji": [
+          "日",
+          "本"
+        ]
+      },
+      {
+        "word": "先生",
+        "reading": "せんせい",
+        "meaning": "maestro",
+        "example": "先生はやさしい。",
+        "exampleReading": "せんせいはやさしい。",
+        "exampleTranslation": "El maestro es amable.",
+        "containsUnknownKanji": [
+          "先"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "kanji": "学",
+    "meanings": [
+      "aprender"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "まな"
+    ],
+    "radicals": [
+      "子",
+      "冖"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Un niño bajo el techo del conocimiento.",
+    "vocabulary": [
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "escuela",
+        "example": "学校へ行く。",
+        "exampleReading": "がっこうへいく。",
+        "exampleTranslation": "Voy a la escuela.",
+        "containsUnknownKanji": [
+          "校",
+          "行"
+        ]
+      },
+      {
+        "word": "大学",
+        "reading": "だいがく",
+        "meaning": "universidad",
+        "example": "大学生です。",
+        "exampleReading": "だいがくせいです。",
+        "exampleTranslation": "Soy universitario.",
+        "containsUnknownKanji": [
+          "大",
+          "生"
+        ]
+      },
+      {
+        "word": "学ぶ",
+        "reading": "まなぶ",
+        "meaning": "aprender",
+        "example": "日本語を学ぶ。",
+        "exampleReading": "にほんごをまなぶ。",
+        "exampleTranslation": "Aprendo japonés.",
+        "containsUnknownKanji": [
+          "日",
+          "本",
+          "語"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "kanji": "校",
+    "meanings": [
+      "escuela"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "木",
+      "交"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Madera donde la gente se cruza: la escuela.",
+    "vocabulary": [
+      {
+        "word": "学校",
+        "reading": "がっこう",
+        "meaning": "escuela",
+        "example": "学校が好き。",
+        "exampleReading": "がっこうがすき。",
+        "exampleTranslation": "Me gusta la escuela.",
+        "containsUnknownKanji": [
+          "学",
+          "好"
+        ]
+      },
+      {
+        "word": "高校",
+        "reading": "こうこう",
+        "meaning": "preparatoria",
+        "example": "高校生です。",
+        "exampleReading": "こうこうせいです。",
+        "exampleTranslation": "Soy de prepa.",
+        "containsUnknownKanji": [
+          "高",
+          "生"
+        ]
+      },
+      {
+        "word": "校長",
+        "reading": "こうちょう",
+        "meaning": "director",
+        "example": "校長先生。",
+        "exampleReading": "こうちょうせんせい。",
+        "exampleTranslation": "El director.",
+        "containsUnknownKanji": [
+          "長",
+          "先",
+          "生"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "kanji": "年",
+    "meanings": [
+      "año"
+    ],
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [
+      "とし"
+    ],
+    "radicals": [
+      "干"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Una cosecha completa: un año.",
+    "vocabulary": [
+      {
+        "word": "今年",
+        "reading": "ことし",
+        "meaning": "este año",
+        "example": "今年は忙しい。",
+        "exampleReading": "ことしはいそがしい。",
+        "exampleTranslation": "Este año estoy ocupado.",
+        "containsUnknownKanji": [
+          "今",
+          "忙"
+        ]
+      },
+      {
+        "word": "来年",
+        "reading": "らいねん",
+        "meaning": "próximo año",
+        "example": "来年結婚する。",
+        "exampleReading": "らいねんけっこんする。",
+        "exampleTranslation": "Me caso el año próximo.",
+        "containsUnknownKanji": [
+          "来",
+          "結",
+          "婚"
+        ]
+      },
+      {
+        "word": "毎年",
+        "reading": "まいとし",
+        "meaning": "cada año",
+        "example": "毎年旅行する。",
+        "exampleReading": "まいとしりょこうする。",
+        "exampleTranslation": "Viajo cada año.",
+        "containsUnknownKanji": [
+          "毎",
+          "旅",
+          "行"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "kanji": "時",
+    "meanings": [
+      "tiempo",
+      "hora"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "とき"
+    ],
+    "radicals": [
+      "日",
+      "寺"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "El sol en el templo: marca del tiempo.",
+    "vocabulary": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "tiempo",
+        "example": "時間がない。",
+        "exampleReading": "じかんがない。",
+        "exampleTranslation": "No tengo tiempo.",
+        "containsUnknownKanji": [
+          "間"
+        ]
+      },
+      {
+        "word": "何時",
+        "reading": "なんじ",
+        "meaning": "qué hora",
+        "example": "今何時ですか。",
+        "exampleReading": "いまなんじですか。",
+        "exampleTranslation": "¿Qué hora es?",
+        "containsUnknownKanji": [
+          "何",
+          "今"
+        ]
+      },
+      {
+        "word": "時計",
+        "reading": "とけい",
+        "meaning": "reloj",
+        "example": "時計を見る。",
+        "exampleReading": "とけいをみる。",
+        "exampleTranslation": "Miro el reloj.",
+        "containsUnknownKanji": [
+          "計",
+          "見"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "kanji": "分",
+    "meanings": [
+      "minuto",
+      "dividir"
+    ],
+    "onyomi": [
+      "フン",
+      "ブン"
+    ],
+    "kunyomi": [
+      "わ"
+    ],
+    "radicals": [
+      "八",
+      "刀"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Dividir con un cuchillo en partes iguales.",
+    "vocabulary": [
+      {
+        "word": "分かる",
+        "reading": "わかる",
+        "meaning": "entender",
+        "example": "分かりました。",
+        "exampleReading": "わかりました。",
+        "exampleTranslation": "Entendí.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "十分",
+        "reading": "じゅっぷん",
+        "meaning": "diez minutos",
+        "example": "十分待つ。",
+        "exampleReading": "じゅっぷんまつ。",
+        "exampleTranslation": "Espero diez minutos.",
+        "containsUnknownKanji": [
+          "十",
+          "待"
+        ]
+      },
+      {
+        "word": "自分",
+        "reading": "じぶん",
+        "meaning": "uno mismo",
+        "example": "自分でやる。",
+        "exampleReading": "じぶんでやる。",
+        "exampleTranslation": "Lo hago yo mismo.",
+        "containsUnknownKanji": [
+          "自"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "kanji": "今",
+    "meanings": [
+      "ahora"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [
+      "いま"
+    ],
+    "radicals": [
+      "人"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una persona bajo techo: el momento presente.",
+    "vocabulary": [
+      {
+        "word": "今",
+        "reading": "いま",
+        "meaning": "ahora",
+        "example": "今食べる。",
+        "exampleReading": "いまたべる。",
+        "exampleTranslation": "Como ahora.",
+        "containsUnknownKanji": [
+          "食"
+        ]
+      },
+      {
+        "word": "今日",
+        "reading": "きょう",
+        "meaning": "hoy",
+        "example": "今日は寒い。",
+        "exampleReading": "きょうはさむい。",
+        "exampleTranslation": "Hoy hace frío.",
+        "containsUnknownKanji": [
+          "日",
+          "寒"
+        ]
+      },
+      {
+        "word": "今年",
+        "reading": "ことし",
+        "meaning": "este año",
+        "example": "今年の夏。",
+        "exampleReading": "ことしのなつ。",
+        "exampleTranslation": "Este verano.",
+        "containsUnknownKanji": [
+          "年",
+          "夏"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "kanji": "何",
+    "meanings": [
+      "qué"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "なに",
+      "なん"
+    ],
+    "radicals": [
+      "人",
+      "可"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una persona preguntando.",
+    "vocabulary": [
+      {
+        "word": "何",
+        "reading": "なに",
+        "meaning": "qué",
+        "example": "何ですか。",
+        "exampleReading": "なんですか。",
+        "exampleTranslation": "¿Qué es?",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "何時",
+        "reading": "なんじ",
+        "meaning": "qué hora",
+        "example": "何時に来る。",
+        "exampleReading": "なんじにくる。",
+        "exampleTranslation": "¿A qué hora vienes?",
+        "containsUnknownKanji": [
+          "時",
+          "来"
+        ]
+      },
+      {
+        "word": "何人",
+        "reading": "なんにん",
+        "meaning": "cuántas personas",
+        "example": "何人いますか。",
+        "exampleReading": "なんにんいますか。",
+        "exampleTranslation": "¿Cuántas personas hay?",
+        "containsUnknownKanji": [
+          "人"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "kanji": "行",
+    "meanings": [
+      "ir"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "い",
+      "おこな"
+    ],
+    "radicals": [
+      "行"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Una intersección donde se va.",
+    "vocabulary": [
+      {
+        "word": "行く",
+        "reading": "いく",
+        "meaning": "ir",
+        "example": "学校へ行く。",
+        "exampleReading": "がっこうへいく。",
+        "exampleTranslation": "Voy a la escuela.",
+        "containsUnknownKanji": [
+          "学",
+          "校"
+        ]
+      },
+      {
+        "word": "旅行",
+        "reading": "りょこう",
+        "meaning": "viaje",
+        "example": "旅行が好き。",
+        "exampleReading": "りょこうがすき。",
+        "exampleTranslation": "Me gusta viajar.",
+        "containsUnknownKanji": [
+          "旅",
+          "好"
+        ]
+      },
+      {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "meaning": "banco",
+        "example": "銀行で働く。",
+        "exampleReading": "ぎんこうではたらく。",
+        "exampleTranslation": "Trabajo en el banco.",
+        "containsUnknownKanji": [
+          "銀",
+          "働"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "kanji": "来",
+    "meanings": [
+      "venir"
+    ],
+    "onyomi": [
+      "ライ"
+    ],
+    "kunyomi": [
+      "く",
+      "き"
+    ],
+    "radicals": [
+      "木"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Trigo que llega a la mesa.",
+    "vocabulary": [
+      {
+        "word": "来る",
+        "reading": "くる",
+        "meaning": "venir",
+        "example": "明日来る。",
+        "exampleReading": "あしたくる。",
+        "exampleTranslation": "Vengo mañana.",
+        "containsUnknownKanji": [
+          "明"
+        ]
+      },
+      {
+        "word": "来週",
+        "reading": "らいしゅう",
+        "meaning": "próxima semana",
+        "example": "来週会う。",
+        "exampleReading": "らいしゅうあう。",
+        "exampleTranslation": "Nos vemos la próxima semana.",
+        "containsUnknownKanji": [
+          "週",
+          "会"
+        ]
+      },
+      {
+        "word": "来年",
+        "reading": "らいねん",
+        "meaning": "próximo año",
+        "example": "来年卒業。",
+        "exampleReading": "らいねんそつぎょう。",
+        "exampleTranslation": "Me gradúo el año próximo.",
+        "containsUnknownKanji": [
+          "年",
+          "卒",
+          "業"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "kanji": "見",
+    "meanings": [
+      "ver"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "み"
+    ],
+    "radicals": [
+      "目",
+      "儿"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Un ojo con piernas: alguien que mira.",
+    "vocabulary": [
+      {
+        "word": "見る",
+        "reading": "みる",
+        "meaning": "ver",
+        "example": "映画を見る。",
+        "exampleReading": "えいがをみる。",
+        "exampleTranslation": "Veo una película.",
+        "containsUnknownKanji": [
+          "映",
+          "画"
+        ]
+      },
+      {
+        "word": "見える",
+        "reading": "みえる",
+        "meaning": "verse",
+        "example": "海が見える。",
+        "exampleReading": "うみがみえる。",
+        "exampleTranslation": "Se ve el mar.",
+        "containsUnknownKanji": [
+          "海"
+        ]
+      },
+      {
+        "word": "意見",
+        "reading": "いけん",
+        "meaning": "opinión",
+        "example": "意見を言う。",
+        "exampleReading": "いけんをいう。",
+        "exampleTranslation": "Doy mi opinión.",
+        "containsUnknownKanji": [
+          "意",
+          "言"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "kanji": "聞",
+    "meanings": [
+      "oír",
+      "preguntar"
+    ],
+    "onyomi": [
+      "ブン"
+    ],
+    "kunyomi": [
+      "き"
+    ],
+    "radicals": [
+      "門",
+      "耳"
+    ],
+    "strokeCount": 14,
+    "mnemonic": "Una oreja en la puerta: escuchar.",
+    "vocabulary": [
+      {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning": "escuchar",
+        "example": "音楽を聞く。",
+        "exampleReading": "おんがくをきく。",
+        "exampleTranslation": "Escucho música.",
+        "containsUnknownKanji": [
+          "音",
+          "楽"
+        ]
+      },
+      {
+        "word": "聞こえる",
+        "reading": "きこえる",
+        "meaning": "oírse",
+        "example": "声が聞こえる。",
+        "exampleReading": "こえがきこえる。",
+        "exampleTranslation": "Se oye una voz.",
+        "containsUnknownKanji": [
+          "声"
+        ]
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": "periódico",
+        "example": "新聞を読む。",
+        "exampleReading": "しんぶんをよむ。",
+        "exampleTranslation": "Leo el periódico.",
+        "containsUnknownKanji": [
+          "新",
+          "読"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "kanji": "読",
+    "meanings": [
+      "leer"
+    ],
+    "onyomi": [
+      "ドク"
+    ],
+    "kunyomi": [
+      "よ"
+    ],
+    "radicals": [
+      "言",
+      "売"
+    ],
+    "strokeCount": 14,
+    "mnemonic": "Las palabras que se venden: leer.",
+    "vocabulary": [
+      {
+        "word": "読む",
+        "reading": "よむ",
+        "meaning": "leer",
+        "example": "本を読む。",
+        "exampleReading": "ほんをよむ。",
+        "exampleTranslation": "Leo un libro.",
+        "containsUnknownKanji": [
+          "本"
+        ]
+      },
+      {
+        "word": "読書",
+        "reading": "どくしょ",
+        "meaning": "lectura",
+        "example": "読書が趣味。",
+        "exampleReading": "どくしょがしゅみ。",
+        "exampleTranslation": "La lectura es mi pasatiempo.",
+        "containsUnknownKanji": [
+          "書",
+          "趣",
+          "味"
+        ]
+      },
+      {
+        "word": "音読",
+        "reading": "おんどく",
+        "meaning": "lectura en voz alta",
+        "example": "音読の練習。",
+        "exampleReading": "おんどくのれんしゅう。",
+        "exampleTranslation": "Práctica de lectura en voz alta.",
+        "containsUnknownKanji": [
+          "音",
+          "練",
+          "習"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "kanji": "書",
+    "meanings": [
+      "escribir"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "radicals": [
+      "聿",
+      "日"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Un pincel sobre el papel al sol.",
+    "vocabulary": [
+      {
+        "word": "書く",
+        "reading": "かく",
+        "meaning": "escribir",
+        "example": "手紙を書く。",
+        "exampleReading": "てがみをかく。",
+        "exampleTranslation": "Escribo una carta.",
+        "containsUnknownKanji": [
+          "手",
+          "紙"
+        ]
+      },
+      {
+        "word": "辞書",
+        "reading": "じしょ",
+        "meaning": "diccionario",
+        "example": "辞書を引く。",
+        "exampleReading": "じしょをひく。",
+        "exampleTranslation": "Consulto el diccionario.",
+        "containsUnknownKanji": [
+          "辞",
+          "引"
+        ]
+      },
+      {
+        "word": "図書館",
+        "reading": "としょかん",
+        "meaning": "biblioteca",
+        "example": "図書館で勉強。",
+        "exampleReading": "としょかんでべんきょう。",
+        "exampleTranslation": "Estudio en la biblioteca.",
+        "containsUnknownKanji": [
+          "図",
+          "館",
+          "勉",
+          "強"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "kanji": "話",
+    "meanings": [
+      "hablar",
+      "historia"
+    ],
+    "onyomi": [
+      "ワ"
+    ],
+    "kunyomi": [
+      "はな",
+      "はなし"
+    ],
+    "radicals": [
+      "言",
+      "舌"
+    ],
+    "strokeCount": 13,
+    "mnemonic": "Lengua y palabras: conversar.",
+    "vocabulary": [
+      {
+        "word": "話す",
+        "reading": "はなす",
+        "meaning": "hablar",
+        "example": "友達と話す。",
+        "exampleReading": "ともだちとはなす。",
+        "exampleTranslation": "Hablo con amigos.",
+        "containsUnknownKanji": [
+          "友",
+          "達"
+        ]
+      },
+      {
+        "word": "電話",
+        "reading": "でんわ",
+        "meaning": "teléfono",
+        "example": "電話する。",
+        "exampleReading": "でんわする。",
+        "exampleTranslation": "Llamo por teléfono.",
+        "containsUnknownKanji": [
+          "電"
+        ]
+      },
+      {
+        "word": "会話",
+        "reading": "かいわ",
+        "meaning": "conversación",
+        "example": "会話の練習。",
+        "exampleReading": "かいわのれんしゅう。",
+        "exampleTranslation": "Práctica de conversación.",
+        "containsUnknownKanji": [
+          "会",
+          "練",
+          "習"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "kanji": "食",
+    "meanings": [
+      "comer"
+    ],
+    "onyomi": [
+      "ショク"
+    ],
+    "kunyomi": [
+      "た"
+    ],
+    "radicals": [
+      "食"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Comida bajo un techo.",
+    "vocabulary": [
+      {
+        "word": "食べる",
+        "reading": "たべる",
+        "meaning": "comer",
+        "example": "ご飯を食べる。",
+        "exampleReading": "ごはんをたべる。",
+        "exampleTranslation": "Como arroz.",
+        "containsUnknownKanji": [
+          "飯"
+        ]
+      },
+      {
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning": "comida (acto)",
+        "example": "食事の時間。",
+        "exampleReading": "しょくじのじかん。",
+        "exampleTranslation": "Hora de comer.",
+        "containsUnknownKanji": [
+          "事",
+          "時",
+          "間"
+        ]
+      },
+      {
+        "word": "夕食",
+        "reading": "ゆうしょく",
+        "meaning": "cena",
+        "example": "夕食を作る。",
+        "exampleReading": "ゆうしょくをつくる。",
+        "exampleTranslation": "Preparo la cena.",
+        "containsUnknownKanji": [
+          "夕",
+          "作"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "kanji": "飲",
+    "meanings": [
+      "beber"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "の"
+    ],
+    "radicals": [
+      "食",
+      "欠"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Comida y bostezo: beber.",
+    "vocabulary": [
+      {
+        "word": "飲む",
+        "reading": "のむ",
+        "meaning": "beber",
+        "example": "水を飲む。",
+        "exampleReading": "みずをのむ。",
+        "exampleTranslation": "Bebo agua.",
+        "containsUnknownKanji": [
+          "水"
+        ]
+      },
+      {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "meaning": "bebida",
+        "example": "飲み物は何。",
+        "exampleReading": "のみものはなに。",
+        "exampleTranslation": "¿Qué bebes?",
+        "containsUnknownKanji": [
+          "物",
+          "何"
+        ]
+      },
+      {
+        "word": "飲酒",
+        "reading": "いんしゅ",
+        "meaning": "beber alcohol",
+        "example": "飲酒運転禁止。",
+        "exampleReading": "いんしゅうんてんきんし。",
+        "exampleTranslation": "Prohibido conducir bebido.",
+        "containsUnknownKanji": [
+          "酒",
+          "運",
+          "転",
+          "禁"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "kanji": "買",
+    "meanings": [
+      "comprar"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "radicals": [
+      "貝"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Una red sobre conchas: dinero para comprar.",
+    "vocabulary": [
+      {
+        "word": "買う",
+        "reading": "かう",
+        "meaning": "comprar",
+        "example": "パンを買う。",
+        "exampleReading": "パンをかう。",
+        "exampleTranslation": "Compro pan.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "買い物",
+        "reading": "かいもの",
+        "meaning": "compras",
+        "example": "買い物に行く。",
+        "exampleReading": "かいものにいく。",
+        "exampleTranslation": "Voy de compras.",
+        "containsUnknownKanji": [
+          "物",
+          "行"
+        ]
+      },
+      {
+        "word": "売買",
+        "reading": "ばいばい",
+        "meaning": "compraventa",
+        "example": "土地の売買。",
+        "exampleReading": "とちのばいばい。",
+        "exampleTranslation": "Compraventa de terrenos.",
+        "containsUnknownKanji": [
+          "売",
+          "土",
+          "地"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "kanji": "立",
+    "meanings": [
+      "pararse"
+    ],
+    "onyomi": [
+      "リツ"
+    ],
+    "kunyomi": [
+      "た"
+    ],
+    "radicals": [
+      "立"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Una persona de pie sobre la tierra.",
+    "vocabulary": [
+      {
+        "word": "立つ",
+        "reading": "たつ",
+        "meaning": "pararse",
+        "example": "ここに立つ。",
+        "exampleReading": "ここにたつ。",
+        "exampleTranslation": "Me paro aquí.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "立派",
+        "reading": "りっぱ",
+        "meaning": "espléndido",
+        "example": "立派な家。",
+        "exampleReading": "りっぱないえ。",
+        "exampleTranslation": "Casa espléndida.",
+        "containsUnknownKanji": [
+          "派",
+          "家"
+        ]
+      },
+      {
+        "word": "国立",
+        "reading": "こくりつ",
+        "meaning": "nacional",
+        "example": "国立大学。",
+        "exampleReading": "こくりつだいがく。",
+        "exampleTranslation": "Universidad nacional.",
+        "containsUnknownKanji": [
+          "国",
+          "大",
+          "学"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "kanji": "入",
+    "meanings": [
+      "entrar"
+    ],
+    "onyomi": [
+      "ニュウ"
+    ],
+    "kunyomi": [
+      "はい",
+      "い"
+    ],
+    "radicals": [
+      "入"
+    ],
+    "strokeCount": 2,
+    "mnemonic": "Una entrada con techo inclinado.",
+    "vocabulary": [
+      {
+        "word": "入る",
+        "reading": "はいる",
+        "meaning": "entrar",
+        "example": "部屋に入る。",
+        "exampleReading": "へやにはいる。",
+        "exampleTranslation": "Entro al cuarto.",
+        "containsUnknownKanji": [
+          "部",
+          "屋"
+        ]
+      },
+      {
+        "word": "入口",
+        "reading": "いりぐち",
+        "meaning": "entrada",
+        "example": "入口はどこ。",
+        "exampleReading": "いりぐちはどこ。",
+        "exampleTranslation": "¿Dónde está la entrada?",
+        "containsUnknownKanji": [
+          "口"
+        ]
+      },
+      {
+        "word": "入学",
+        "reading": "にゅうがく",
+        "meaning": "ingresar a la escuela",
+        "example": "大学に入学。",
+        "exampleReading": "だいがくににゅうがく。",
+        "exampleTranslation": "Ingreso a la universidad.",
+        "containsUnknownKanji": [
+          "大",
+          "学"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "kanji": "出",
+    "meanings": [
+      "salir"
+    ],
+    "onyomi": [
+      "シュツ"
+    ],
+    "kunyomi": [
+      "で",
+      "だ"
+    ],
+    "radicals": [
+      "山"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Una montaña sobre otra: salir hacia arriba.",
+    "vocabulary": [
+      {
+        "word": "出る",
+        "reading": "でる",
+        "meaning": "salir",
+        "example": "家を出る。",
+        "exampleReading": "いえをでる。",
+        "exampleTranslation": "Salgo de casa.",
+        "containsUnknownKanji": [
+          "家"
+        ]
+      },
+      {
+        "word": "出口",
+        "reading": "でぐち",
+        "meaning": "salida",
+        "example": "出口はあちら。",
+        "exampleReading": "でぐちはあちら。",
+        "exampleTranslation": "La salida está por allá.",
+        "containsUnknownKanji": [
+          "口"
+        ]
+      },
+      {
+        "word": "出発",
+        "reading": "しゅっぱつ",
+        "meaning": "partida",
+        "example": "出発の時間。",
+        "exampleReading": "しゅっぱつのじかん。",
+        "exampleTranslation": "Hora de partir.",
+        "containsUnknownKanji": [
+          "発",
+          "時",
+          "間"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "kanji": "会",
+    "meanings": [
+      "reunirse"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "あ"
+    ],
+    "radicals": [
+      "人",
+      "云"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Personas reunidas bajo un techo.",
+    "vocabulary": [
+      {
+        "word": "会う",
+        "reading": "あう",
+        "meaning": "encontrarse",
+        "example": "友達に会う。",
+        "exampleReading": "ともだちにあう。",
+        "exampleTranslation": "Me encuentro con amigos.",
+        "containsUnknownKanji": [
+          "友",
+          "達"
+        ]
+      },
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "empresa",
+        "example": "会社で働く。",
+        "exampleReading": "かいしゃではたらく。",
+        "exampleTranslation": "Trabajo en la empresa.",
+        "containsUnknownKanji": [
+          "社",
+          "働"
+        ]
+      },
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "reunión",
+        "example": "会議に出る。",
+        "exampleReading": "かいぎにでる。",
+        "exampleTranslation": "Asisto a la reunión.",
+        "containsUnknownKanji": [
+          "議",
+          "出"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "kanji": "社",
+    "meanings": [
+      "empresa",
+      "santuario"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ],
+    "radicals": [
+      "示",
+      "土"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Tierra sagrada del santuario.",
+    "vocabulary": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "empresa",
+        "example": "新しい会社。",
+        "exampleReading": "あたらしいかいしゃ。",
+        "exampleTranslation": "Una empresa nueva.",
+        "containsUnknownKanji": [
+          "会",
+          "新"
+        ]
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "meaning": "presidente de empresa",
+        "example": "社長と話す。",
+        "exampleReading": "しゃちょうとはなす。",
+        "exampleTranslation": "Hablo con el presidente.",
+        "containsUnknownKanji": [
+          "長",
+          "話"
+        ]
+      },
+      {
+        "word": "神社",
+        "reading": "じんじゃ",
+        "meaning": "santuario sintoísta",
+        "example": "神社へ行く。",
+        "exampleReading": "じんじゃへいく。",
+        "exampleTranslation": "Voy al santuario.",
+        "containsUnknownKanji": [
+          "神",
+          "行"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "kanji": "国",
+    "meanings": [
+      "país"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くに"
+    ],
+    "radicals": [
+      "口",
+      "玉"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Un tesoro encerrado: el país.",
+    "vocabulary": [
+      {
+        "word": "国",
+        "reading": "くに",
+        "meaning": "país",
+        "example": "国へ帰る。",
+        "exampleReading": "くににかえる。",
+        "exampleTranslation": "Vuelvo a mi país.",
+        "containsUnknownKanji": [
+          "帰"
+        ]
+      },
+      {
+        "word": "外国",
+        "reading": "がいこく",
+        "meaning": "extranjero",
+        "example": "外国に住む。",
+        "exampleReading": "がいこくにすむ。",
+        "exampleTranslation": "Vivo en el extranjero.",
+        "containsUnknownKanji": [
+          "外",
+          "住"
+        ]
+      },
+      {
+        "word": "中国",
+        "reading": "ちゅうごく",
+        "meaning": "China",
+        "example": "中国語を学ぶ。",
+        "exampleReading": "ちゅうごくごをまなぶ。",
+        "exampleTranslation": "Aprendo chino.",
+        "containsUnknownKanji": [
+          "中",
+          "語",
+          "学"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "kanji": "外",
+    "meanings": [
+      "fuera"
+    ],
+    "onyomi": [
+      "ガイ"
+    ],
+    "kunyomi": [
+      "そと",
+      "ほか"
+    ],
+    "radicals": [
+      "夕"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "La adivinación de la tarde: lo de afuera.",
+    "vocabulary": [
+      {
+        "word": "外",
+        "reading": "そと",
+        "meaning": "afuera",
+        "example": "外で遊ぶ。",
+        "exampleReading": "そとであそぶ。",
+        "exampleTranslation": "Juego afuera.",
+        "containsUnknownKanji": [
+          "遊"
+        ]
+      },
+      {
+        "word": "外国",
+        "reading": "がいこく",
+        "meaning": "extranjero",
+        "example": "外国の文化。",
+        "exampleReading": "がいこくのぶんか。",
+        "exampleTranslation": "Cultura extranjera.",
+        "containsUnknownKanji": [
+          "国",
+          "文",
+          "化"
+        ]
+      },
+      {
+        "word": "海外",
+        "reading": "かいがい",
+        "meaning": "ultramar",
+        "example": "海外旅行。",
+        "exampleReading": "かいがいりょこう。",
+        "exampleTranslation": "Viaje al extranjero.",
+        "containsUnknownKanji": [
+          "海",
+          "旅",
+          "行"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "kanji": "名",
+    "meanings": [
+      "nombre"
+    ],
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "な"
+    ],
+    "radicals": [
+      "夕",
+      "口"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Una boca en la noche llamando un nombre.",
+    "vocabulary": [
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "meaning": "nombre",
+        "example": "お名前は。",
+        "exampleReading": "おなまえは。",
+        "exampleTranslation": "¿Cómo se llama?",
+        "containsUnknownKanji": [
+          "前"
+        ]
+      },
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "meaning": "famoso",
+        "example": "有名な人。",
+        "exampleReading": "ゆうめいなひと。",
+        "exampleTranslation": "Persona famosa.",
+        "containsUnknownKanji": [
+          "有",
+          "人"
+        ]
+      },
+      {
+        "word": "名刺",
+        "reading": "めいし",
+        "meaning": "tarjeta de presentación",
+        "example": "名刺をください。",
+        "exampleReading": "めいしをください。",
+        "exampleTranslation": "Su tarjeta, por favor.",
+        "containsUnknownKanji": [
+          "刺"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "kanji": "前",
+    "meanings": [
+      "antes",
+      "frente"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まえ"
+    ],
+    "radicals": [
+      "刂",
+      "月"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Un cuchillo en la luna que avanza.",
+    "vocabulary": [
+      {
+        "word": "前",
+        "reading": "まえ",
+        "meaning": "antes, frente",
+        "example": "駅の前。",
+        "exampleReading": "えきのまえ。",
+        "exampleTranslation": "Frente a la estación.",
+        "containsUnknownKanji": [
+          "駅"
+        ]
+      },
+      {
+        "word": "午前",
+        "reading": "ごぜん",
+        "meaning": "mañana (a.m.)",
+        "example": "午前九時。",
+        "exampleReading": "ごぜんくじ。",
+        "exampleTranslation": "Las nueve de la mañana.",
+        "containsUnknownKanji": [
+          "午",
+          "九",
+          "時"
+        ]
+      },
+      {
+        "word": "名前",
+        "reading": "なまえ",
+        "meaning": "nombre",
+        "example": "名前を書く。",
+        "exampleReading": "なまえをかく。",
+        "exampleTranslation": "Escribo mi nombre.",
+        "containsUnknownKanji": [
+          "名",
+          "書"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "kanji": "後",
+    "meanings": [
+      "después",
+      "atrás"
+    ],
+    "onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "kunyomi": [
+      "あと",
+      "うし"
+    ],
+    "radicals": [
+      "彳"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Un camino que se sigue después.",
+    "vocabulary": [
+      {
+        "word": "後",
+        "reading": "あと",
+        "meaning": "después",
+        "example": "後で行く。",
+        "exampleReading": "あとでいく。",
+        "exampleTranslation": "Voy después.",
+        "containsUnknownKanji": [
+          "行"
+        ]
+      },
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "meaning": "tarde (p.m.)",
+        "example": "午後三時。",
+        "exampleReading": "ごごさんじ。",
+        "exampleTranslation": "Las tres de la tarde.",
+        "containsUnknownKanji": [
+          "午",
+          "三",
+          "時"
+        ]
+      },
+      {
+        "word": "最後",
+        "reading": "さいご",
+        "meaning": "el último",
+        "example": "最後の試合。",
+        "exampleReading": "さいごのしあい。",
+        "exampleTranslation": "El último partido.",
+        "containsUnknownKanji": [
+          "最",
+          "試",
+          "合"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "kanji": "午",
+    "meanings": [
+      "mediodía"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "十"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una cruz al mediodía.",
+    "vocabulary": [
+      {
+        "word": "午前",
+        "reading": "ごぜん",
+        "meaning": "mañana (a.m.)",
+        "example": "午前中に行く。",
+        "exampleReading": "ごぜんちゅうにいく。",
+        "exampleTranslation": "Voy en la mañana.",
+        "containsUnknownKanji": [
+          "前",
+          "中",
+          "行"
+        ]
+      },
+      {
+        "word": "午後",
+        "reading": "ごご",
+        "meaning": "tarde (p.m.)",
+        "example": "午後から会議。",
+        "exampleReading": "ごごからかいぎ。",
+        "exampleTranslation": "Reunión desde la tarde.",
+        "containsUnknownKanji": [
+          "後",
+          "会",
+          "議"
+        ]
+      },
+      {
+        "word": "正午",
+        "reading": "しょうご",
+        "meaning": "mediodía",
+        "example": "正午に食べる。",
+        "exampleReading": "しょうごにたべる。",
+        "exampleTranslation": "Como al mediodía.",
+        "containsUnknownKanji": [
+          "正",
+          "食"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "kanji": "毎",
+    "meanings": [
+      "cada"
+    ],
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "母"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Una madre que da cada día.",
+    "vocabulary": [
+      {
+        "word": "毎日",
+        "reading": "まいにち",
+        "meaning": "todos los días",
+        "example": "毎日勉強。",
+        "exampleReading": "まいにちべんきょう。",
+        "exampleTranslation": "Estudio todos los días.",
+        "containsUnknownKanji": [
+          "日",
+          "勉",
+          "強"
+        ]
+      },
+      {
+        "word": "毎週",
+        "reading": "まいしゅう",
+        "meaning": "cada semana",
+        "example": "毎週会う。",
+        "exampleReading": "まいしゅうあう。",
+        "exampleTranslation": "Nos vemos cada semana.",
+        "containsUnknownKanji": [
+          "週",
+          "会"
+        ]
+      },
+      {
+        "word": "毎年",
+        "reading": "まいとし",
+        "meaning": "cada año",
+        "example": "毎年祭がある。",
+        "exampleReading": "まいとしまつりがある。",
+        "exampleTranslation": "Hay festival cada año.",
+        "containsUnknownKanji": [
+          "年",
+          "祭"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "kanji": "週",
+    "meanings": [
+      "semana"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "辶"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "El ciclo que se camina cada siete días.",
+    "vocabulary": [
+      {
+        "word": "今週",
+        "reading": "こんしゅう",
+        "meaning": "esta semana",
+        "example": "今週は休み。",
+        "exampleReading": "こんしゅうはやすみ。",
+        "exampleTranslation": "Esta semana descanso.",
+        "containsUnknownKanji": [
+          "今",
+          "休"
+        ]
+      },
+      {
+        "word": "先週",
+        "reading": "せんしゅう",
+        "meaning": "semana pasada",
+        "example": "先週来た。",
+        "exampleReading": "せんしゅうきた。",
+        "exampleTranslation": "Vino la semana pasada.",
+        "containsUnknownKanji": [
+          "先",
+          "来"
+        ]
+      },
+      {
+        "word": "週末",
+        "reading": "しゅうまつ",
+        "meaning": "fin de semana",
+        "example": "週末に会う。",
+        "exampleReading": "しゅうまつにあう。",
+        "exampleTranslation": "Nos vemos el fin de semana.",
+        "containsUnknownKanji": [
+          "末",
+          "会"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "kanji": "曜",
+    "meanings": [
+      "día de la semana"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "日"
+    ],
+    "strokeCount": 18,
+    "mnemonic": "El sol que marca el día.",
+    "vocabulary": [
+      {
+        "word": "月曜日",
+        "reading": "げつようび",
+        "meaning": "lunes",
+        "example": "月曜日に来る。",
+        "exampleReading": "げつようびにくる。",
+        "exampleTranslation": "Vengo el lunes.",
+        "containsUnknownKanji": [
+          "月",
+          "日",
+          "来"
+        ]
+      },
+      {
+        "word": "日曜日",
+        "reading": "にちようび",
+        "meaning": "domingo",
+        "example": "日曜日は休み。",
+        "exampleReading": "にちようびはやすみ。",
+        "exampleTranslation": "El domingo descanso.",
+        "containsUnknownKanji": [
+          "日",
+          "休"
+        ]
+      },
+      {
+        "word": "何曜日",
+        "reading": "なんようび",
+        "meaning": "qué día",
+        "example": "今日は何曜日。",
+        "exampleReading": "きょうはなんようび。",
+        "exampleTranslation": "¿Qué día es hoy?",
+        "containsUnknownKanji": [
+          "何",
+          "今",
+          "日"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "kanji": "半",
+    "meanings": [
+      "mitad"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "なか"
+    ],
+    "radicals": [
+      "十"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Algo dividido por la mitad.",
+    "vocabulary": [
+      {
+        "word": "半分",
+        "reading": "はんぶん",
+        "meaning": "mitad",
+        "example": "半分ください。",
+        "exampleReading": "はんぶんください。",
+        "exampleTranslation": "La mitad, por favor.",
+        "containsUnknownKanji": [
+          "分"
+        ]
+      },
+      {
+        "word": "半年",
+        "reading": "はんとし",
+        "meaning": "medio año",
+        "example": "半年待つ。",
+        "exampleReading": "はんとしまつ。",
+        "exampleTranslation": "Espero medio año.",
+        "containsUnknownKanji": [
+          "年",
+          "待"
+        ]
+      },
+      {
+        "word": "三時半",
+        "reading": "さんじはん",
+        "meaning": "tres y media",
+        "example": "三時半に会う。",
+        "exampleReading": "さんじはんにあう。",
+        "exampleTranslation": "Nos vemos a las tres y media.",
+        "containsUnknownKanji": [
+          "三",
+          "時",
+          "会"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "kanji": "百",
+    "meanings": [
+      "cien"
+    ],
+    "onyomi": [
+      "ヒャク"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "白"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Un blanco con marca: cien.",
+    "vocabulary": [
+      {
+        "word": "百",
+        "reading": "ひゃく",
+        "meaning": "cien",
+        "example": "百円です。",
+        "exampleReading": "ひゃくえんです。",
+        "exampleTranslation": "Son cien yenes.",
+        "containsUnknownKanji": [
+          "円"
+        ]
+      },
+      {
+        "word": "百円",
+        "reading": "ひゃくえん",
+        "meaning": "cien yenes",
+        "example": "百円玉。",
+        "exampleReading": "ひゃくえんだま。",
+        "exampleTranslation": "Moneda de cien yenes.",
+        "containsUnknownKanji": [
+          "円",
+          "玉"
+        ]
+      },
+      {
+        "word": "百貨店",
+        "reading": "ひゃっかてん",
+        "meaning": "tienda departamental",
+        "example": "百貨店で買う。",
+        "exampleReading": "ひゃっかてんでかう。",
+        "exampleTranslation": "Compro en la tienda.",
+        "containsUnknownKanji": [
+          "貨",
+          "店",
+          "買"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "kanji": "千",
+    "meanings": [
+      "mil"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "ち"
+    ],
+    "radicals": [
+      "十"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Una persona con mil ideas.",
+    "vocabulary": [
+      {
+        "word": "千",
+        "reading": "せん",
+        "meaning": "mil",
+        "example": "千円札。",
+        "exampleReading": "せんえんさつ。",
+        "exampleTranslation": "Billete de mil yenes.",
+        "containsUnknownKanji": [
+          "円",
+          "札"
+        ]
+      },
+      {
+        "word": "千円",
+        "reading": "せんえん",
+        "meaning": "mil yenes",
+        "example": "千円ください。",
+        "exampleReading": "せんえんください。",
+        "exampleTranslation": "Mil yenes, por favor.",
+        "containsUnknownKanji": [
+          "円"
+        ]
+      },
+      {
+        "word": "三千",
+        "reading": "さんぜん",
+        "meaning": "tres mil",
+        "example": "三千人来た。",
+        "exampleReading": "さんぜんにんきた。",
+        "exampleTranslation": "Vinieron tres mil.",
+        "containsUnknownKanji": [
+          "三",
+          "人",
+          "来"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "kanji": "万",
+    "meanings": [
+      "diez mil"
+    ],
+    "onyomi": [
+      "マン"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "一"
+    ],
+    "strokeCount": 3,
+    "mnemonic": "Un número enorme de cosas: diez mil.",
+    "vocabulary": [
+      {
+        "word": "一万",
+        "reading": "いちまん",
+        "meaning": "diez mil",
+        "example": "一万円。",
+        "exampleReading": "いちまんえん。",
+        "exampleTranslation": "Diez mil yenes.",
+        "containsUnknownKanji": [
+          "一",
+          "円"
+        ]
+      },
+      {
+        "word": "百万",
+        "reading": "ひゃくまん",
+        "meaning": "un millón",
+        "example": "百万円ある。",
+        "exampleReading": "ひゃくまんえんある。",
+        "exampleTranslation": "Tengo un millón de yenes.",
+        "containsUnknownKanji": [
+          "百",
+          "円"
+        ]
+      },
+      {
+        "word": "万年筆",
+        "reading": "まんねんひつ",
+        "meaning": "pluma fuente",
+        "example": "万年筆で書く。",
+        "exampleReading": "まんねんひつでかく。",
+        "exampleTranslation": "Escribo con pluma fuente.",
+        "containsUnknownKanji": [
+          "年",
+          "筆",
+          "書"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "kanji": "円",
+    "meanings": [
+      "yen",
+      "círculo"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "まる"
+    ],
+    "radicals": [
+      "冂"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una moneda redonda: el yen.",
+    "vocabulary": [
+      {
+        "word": "円",
+        "reading": "えん",
+        "meaning": "yen",
+        "example": "千円です。",
+        "exampleReading": "せんえんです。",
+        "exampleTranslation": "Son mil yenes.",
+        "containsUnknownKanji": [
+          "千"
+        ]
+      },
+      {
+        "word": "一万円",
+        "reading": "いちまんえん",
+        "meaning": "diez mil yenes",
+        "example": "一万円札。",
+        "exampleReading": "いちまんえんさつ。",
+        "exampleTranslation": "Billete de diez mil yenes.",
+        "containsUnknownKanji": [
+          "一",
+          "万",
+          "札"
+        ]
+      },
+      {
+        "word": "円い",
+        "reading": "まるい",
+        "meaning": "redondo",
+        "example": "円い皿。",
+        "exampleReading": "まるいさら。",
+        "exampleTranslation": "Plato redondo.",
+        "containsUnknownKanji": [
+          "皿"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "kanji": "白",
+    "meanings": [
+      "blanco"
+    ],
+    "onyomi": [
+      "ハク"
+    ],
+    "kunyomi": [
+      "しろ"
+    ],
+    "radicals": [
+      "白"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Un rayo de sol: blanco brillante.",
+    "vocabulary": [
+      {
+        "word": "白い",
+        "reading": "しろい",
+        "meaning": "blanco",
+        "example": "白いシャツ。",
+        "exampleReading": "しろいシャツ。",
+        "exampleTranslation": "Camisa blanca.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "白",
+        "reading": "しろ",
+        "meaning": "blanco",
+        "example": "白が好き。",
+        "exampleReading": "しろがすき。",
+        "exampleTranslation": "Me gusta el blanco.",
+        "containsUnknownKanji": [
+          "好"
+        ]
+      },
+      {
+        "word": "面白い",
+        "reading": "おもしろい",
+        "meaning": "interesante",
+        "example": "面白い本。",
+        "exampleReading": "おもしろいほん。",
+        "exampleTranslation": "Libro interesante.",
+        "containsUnknownKanji": [
+          "面",
+          "本"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "kanji": "赤",
+    "meanings": [
+      "rojo"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "あか"
+    ],
+    "radicals": [
+      "赤"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una persona junto al fuego: rojo.",
+    "vocabulary": [
+      {
+        "word": "赤い",
+        "reading": "あかい",
+        "meaning": "rojo",
+        "example": "赤い花。",
+        "exampleReading": "あかいはな。",
+        "exampleTranslation": "Flor roja.",
+        "containsUnknownKanji": [
+          "花"
+        ]
+      },
+      {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "meaning": "bebé",
+        "example": "赤ちゃんが泣く。",
+        "exampleReading": "あかちゃんがなく。",
+        "exampleTranslation": "El bebé llora.",
+        "containsUnknownKanji": [
+          "泣"
+        ]
+      },
+      {
+        "word": "赤色",
+        "reading": "あかいろ",
+        "meaning": "color rojo",
+        "example": "赤色のペン。",
+        "exampleReading": "あかいろのペン。",
+        "exampleTranslation": "Pluma roja.",
+        "containsUnknownKanji": [
+          "色"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "kanji": "青",
+    "meanings": [
+      "azul"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "あお"
+    ],
+    "radicals": [
+      "青"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "El verde del bosque y el azul del cielo joven.",
+    "vocabulary": [
+      {
+        "word": "青い",
+        "reading": "あおい",
+        "meaning": "azul",
+        "example": "青い空。",
+        "exampleReading": "あおいそら。",
+        "exampleTranslation": "Cielo azul.",
+        "containsUnknownKanji": [
+          "空"
+        ]
+      },
+      {
+        "word": "青",
+        "reading": "あお",
+        "meaning": "azul",
+        "example": "青が好き。",
+        "exampleReading": "あおがすき。",
+        "exampleTranslation": "Me gusta el azul.",
+        "containsUnknownKanji": [
+          "好"
+        ]
+      },
+      {
+        "word": "青年",
+        "reading": "せいねん",
+        "meaning": "joven",
+        "example": "青年たち。",
+        "exampleReading": "せいねんたち。",
+        "exampleTranslation": "Los jóvenes.",
+        "containsUnknownKanji": [
+          "年"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "kanji": "黒",
+    "meanings": [
+      "negro"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ"
+    ],
+    "radicals": [
+      "黒"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Hollín del fuego: negro.",
+    "vocabulary": [
+      {
+        "word": "黒い",
+        "reading": "くろい",
+        "meaning": "negro",
+        "example": "黒い猫。",
+        "exampleReading": "くろいねこ。",
+        "exampleTranslation": "Gato negro.",
+        "containsUnknownKanji": [
+          "猫"
+        ]
+      },
+      {
+        "word": "黒板",
+        "reading": "こくばん",
+        "meaning": "pizarrón",
+        "example": "黒板に書く。",
+        "exampleReading": "こくばんにかく。",
+        "exampleTranslation": "Escribo en el pizarrón.",
+        "containsUnknownKanji": [
+          "板",
+          "書"
+        ]
+      },
+      {
+        "word": "黒",
+        "reading": "くろ",
+        "meaning": "negro",
+        "example": "黒の靴。",
+        "exampleReading": "くろのくつ。",
+        "exampleTranslation": "Zapatos negros.",
+        "containsUnknownKanji": [
+          "靴"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "kanji": "色",
+    "meanings": [
+      "color"
+    ],
+    "onyomi": [
+      "ショク"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "radicals": [
+      "色"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Personas y abrazos: las pasiones de colores.",
+    "vocabulary": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "meaning": "color",
+        "example": "好きな色。",
+        "exampleReading": "すきないろ。",
+        "exampleTranslation": "Color favorito.",
+        "containsUnknownKanji": [
+          "好"
+        ]
+      },
+      {
+        "word": "黄色",
+        "reading": "きいろ",
+        "meaning": "amarillo",
+        "example": "黄色い花。",
+        "exampleReading": "きいろいはな。",
+        "exampleTranslation": "Flor amarilla.",
+        "containsUnknownKanji": [
+          "黄",
+          "花"
+        ]
+      },
+      {
+        "word": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "marrón",
+        "example": "茶色の犬。",
+        "exampleReading": "ちゃいろのいぬ。",
+        "exampleTranslation": "Perro marrón.",
+        "containsUnknownKanji": [
+          "茶",
+          "犬"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "kanji": "天",
+    "meanings": [
+      "cielo"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "あま"
+    ],
+    "radicals": [
+      "大"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Lo que está sobre lo grande: el cielo.",
+    "vocabulary": [
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "meaning": "clima",
+        "example": "天気がいい。",
+        "exampleReading": "てんきがいい。",
+        "exampleTranslation": "Hace buen clima.",
+        "containsUnknownKanji": [
+          "気"
+        ]
+      },
+      {
+        "word": "天才",
+        "reading": "てんさい",
+        "meaning": "genio",
+        "example": "彼は天才だ。",
+        "exampleReading": "かれはてんさいだ。",
+        "exampleTranslation": "Él es un genio.",
+        "containsUnknownKanji": [
+          "才",
+          "彼"
+        ]
+      },
+      {
+        "word": "天国",
+        "reading": "てんごく",
+        "meaning": "cielo (paraíso)",
+        "example": "天国のよう。",
+        "exampleReading": "てんごくのよう。",
+        "exampleTranslation": "Como el paraíso.",
+        "containsUnknownKanji": [
+          "国"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "kanji": "気",
+    "meanings": [
+      "ánimo",
+      "aire"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "气"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Vapor que se eleva: el espíritu.",
+    "vocabulary": [
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "saludable",
+        "example": "元気ですか。",
+        "exampleReading": "げんきですか。",
+        "exampleTranslation": "¿Cómo estás?",
+        "containsUnknownKanji": [
+          "元"
+        ]
+      },
+      {
+        "word": "天気",
+        "reading": "てんき",
+        "meaning": "clima",
+        "example": "いい天気。",
+        "exampleReading": "いいてんき。",
+        "exampleTranslation": "Buen clima.",
+        "containsUnknownKanji": [
+          "天"
+        ]
+      },
+      {
+        "word": "人気",
+        "reading": "にんき",
+        "meaning": "popularidad",
+        "example": "人気がある。",
+        "exampleReading": "にんきがある。",
+        "exampleTranslation": "Es popular.",
+        "containsUnknownKanji": [
+          "人"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "kanji": "雨",
+    "meanings": [
+      "lluvia"
+    ],
+    "onyomi": [
+      "ウ"
+    ],
+    "kunyomi": [
+      "あめ"
+    ],
+    "radicals": [
+      "雨"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Gotas que caen del cielo.",
+    "vocabulary": [
+      {
+        "word": "雨",
+        "reading": "あめ",
+        "meaning": "lluvia",
+        "example": "雨が降る。",
+        "exampleReading": "あめがふる。",
+        "exampleTranslation": "Llueve.",
+        "containsUnknownKanji": [
+          "降"
+        ]
+      },
+      {
+        "word": "大雨",
+        "reading": "おおあめ",
+        "meaning": "lluvia fuerte",
+        "example": "大雨注意。",
+        "exampleReading": "おおあめちゅうい。",
+        "exampleTranslation": "Cuidado con la lluvia fuerte.",
+        "containsUnknownKanji": [
+          "大",
+          "注",
+          "意"
+        ]
+      },
+      {
+        "word": "雨天",
+        "reading": "うてん",
+        "meaning": "día lluvioso",
+        "example": "雨天中止。",
+        "exampleReading": "うてんちゅうし。",
+        "exampleTranslation": "Cancelado por lluvia.",
+        "containsUnknownKanji": [
+          "天",
+          "中",
+          "止"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "kanji": "電",
+    "meanings": [
+      "electricidad"
+    ],
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "雨",
+      "田"
+    ],
+    "strokeCount": 13,
+    "mnemonic": "Lluvia y campo: el rayo eléctrico.",
+    "vocabulary": [
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "tren",
+        "example": "電車に乗る。",
+        "exampleReading": "でんしゃにのる。",
+        "exampleTranslation": "Subo al tren.",
+        "containsUnknownKanji": [
+          "車",
+          "乗"
+        ]
+      },
+      {
+        "word": "電話",
+        "reading": "でんわ",
+        "meaning": "teléfono",
+        "example": "電話する。",
+        "exampleReading": "でんわする。",
+        "exampleTranslation": "Llamo por teléfono.",
+        "containsUnknownKanji": [
+          "話"
+        ]
+      },
+      {
+        "word": "電気",
+        "reading": "でんき",
+        "meaning": "electricidad",
+        "example": "電気をつける。",
+        "exampleReading": "でんきをつける。",
+        "exampleTranslation": "Enciendo la luz.",
+        "containsUnknownKanji": [
+          "気"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "kanji": "車",
+    "meanings": [
+      "coche",
+      "vehículo"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "くるま"
+    ],
+    "radicals": [
+      "車"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Un carro visto desde arriba con sus ruedas.",
+    "vocabulary": [
+      {
+        "word": "車",
+        "reading": "くるま",
+        "meaning": "coche",
+        "example": "車で行く。",
+        "exampleReading": "くるまでいく。",
+        "exampleTranslation": "Voy en coche.",
+        "containsUnknownKanji": [
+          "行"
+        ]
+      },
+      {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "meaning": "tren",
+        "example": "電車を待つ。",
+        "exampleReading": "でんしゃをまつ。",
+        "exampleTranslation": "Espero el tren.",
+        "containsUnknownKanji": [
+          "電",
+          "待"
+        ]
+      },
+      {
+        "word": "自動車",
+        "reading": "じどうしゃ",
+        "meaning": "automóvil",
+        "example": "自動車工場。",
+        "exampleReading": "じどうしゃこうじょう。",
+        "exampleTranslation": "Fábrica de autos.",
+        "containsUnknownKanji": [
+          "自",
+          "動",
+          "工",
+          "場"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "kanji": "駅",
+    "meanings": [
+      "estación"
+    ],
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "馬"
+    ],
+    "strokeCount": 14,
+    "mnemonic": "Donde el caballo descansaba: la estación.",
+    "vocabulary": [
+      {
+        "word": "駅",
+        "reading": "えき",
+        "meaning": "estación",
+        "example": "駅に着く。",
+        "exampleReading": "えきにつく。",
+        "exampleTranslation": "Llego a la estación.",
+        "containsUnknownKanji": [
+          "着"
+        ]
+      },
+      {
+        "word": "駅前",
+        "reading": "えきまえ",
+        "meaning": "frente a la estación",
+        "example": "駅前のカフェ。",
+        "exampleReading": "えきまえのカフェ。",
+        "exampleTranslation": "Café frente a la estación.",
+        "containsUnknownKanji": [
+          "前"
+        ]
+      },
+      {
+        "word": "東京駅",
+        "reading": "とうきょうえき",
+        "meaning": "estación de Tokio",
+        "example": "東京駅で会う。",
+        "exampleReading": "とうきょうえきであう。",
+        "exampleTranslation": "Nos vemos en la estación de Tokio.",
+        "containsUnknownKanji": [
+          "東",
+          "京",
+          "会"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "kanji": "道",
+    "meanings": [
+      "camino"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "みち"
+    ],
+    "radicals": [
+      "辶"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Un camino que se recorre con la cabeza alta.",
+    "vocabulary": [
+      {
+        "word": "道",
+        "reading": "みち",
+        "meaning": "camino",
+        "example": "道を歩く。",
+        "exampleReading": "みちをあるく。",
+        "exampleTranslation": "Camino por la calle.",
+        "containsUnknownKanji": [
+          "歩"
+        ]
+      },
+      {
+        "word": "北海道",
+        "reading": "ほっかいどう",
+        "meaning": "Hokkaidō",
+        "example": "北海道に住む。",
+        "exampleReading": "ほっかいどうにすむ。",
+        "exampleTranslation": "Vivo en Hokkaidō.",
+        "containsUnknownKanji": [
+          "北",
+          "海",
+          "住"
+        ]
+      },
+      {
+        "word": "道路",
+        "reading": "どうろ",
+        "meaning": "carretera",
+        "example": "道路が広い。",
+        "exampleReading": "どうろがひろい。",
+        "exampleTranslation": "La carretera es ancha.",
+        "containsUnknownKanji": [
+          "路",
+          "広"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "kanji": "店",
+    "meanings": [
+      "tienda"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "みせ"
+    ],
+    "radicals": [
+      "广"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Un techo donde se adivina el negocio.",
+    "vocabulary": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "meaning": "tienda",
+        "example": "店を開く。",
+        "exampleReading": "みせをひらく。",
+        "exampleTranslation": "Abro la tienda.",
+        "containsUnknownKanji": [
+          "開"
+        ]
+      },
+      {
+        "word": "本屋",
+        "reading": "ほんや",
+        "meaning": "librería",
+        "example": "本屋で買う。",
+        "exampleReading": "ほんやでかう。",
+        "exampleTranslation": "Compro en la librería.",
+        "containsUnknownKanji": [
+          "本",
+          "屋",
+          "買"
+        ]
+      },
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "meaning": "dependiente",
+        "example": "店員に聞く。",
+        "exampleReading": "てんいんにきく。",
+        "exampleTranslation": "Pregunto al dependiente.",
+        "containsUnknownKanji": [
+          "員",
+          "聞"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "kanji": "家",
+    "meanings": [
+      "casa"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "うち"
+    ],
+    "radicals": [
+      "宀",
+      "豕"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Cerdo bajo techo: la casa antigua.",
+    "vocabulary": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "meaning": "casa",
+        "example": "家に帰る。",
+        "exampleReading": "いえにかえる。",
+        "exampleTranslation": "Vuelvo a casa.",
+        "containsUnknownKanji": [
+          "帰"
+        ]
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "familia",
+        "example": "家族と住む。",
+        "exampleReading": "かぞくとすむ。",
+        "exampleTranslation": "Vivo con mi familia.",
+        "containsUnknownKanji": [
+          "族",
+          "住"
+        ]
+      },
+      {
+        "word": "作家",
+        "reading": "さっか",
+        "meaning": "escritor",
+        "example": "彼は作家。",
+        "exampleReading": "かれはさっか。",
+        "exampleTranslation": "Él es escritor.",
+        "containsUnknownKanji": [
+          "作",
+          "彼"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "kanji": "族",
+    "meanings": [
+      "familia",
+      "tribu"
+    ],
+    "onyomi": [
+      "ゾク"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "方"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Estandarte que reúne a la familia.",
+    "vocabulary": [
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "familia",
+        "example": "家族写真。",
+        "exampleReading": "かぞくしゃしん。",
+        "exampleTranslation": "Foto familiar.",
+        "containsUnknownKanji": [
+          "家",
+          "写",
+          "真"
+        ]
+      },
+      {
+        "word": "民族",
+        "reading": "みんぞく",
+        "meaning": "etnia",
+        "example": "少数民族。",
+        "exampleReading": "しょうすうみんぞく。",
+        "exampleTranslation": "Minoría étnica.",
+        "containsUnknownKanji": [
+          "民",
+          "少",
+          "数"
+        ]
+      },
+      {
+        "word": "貴族",
+        "reading": "きぞく",
+        "meaning": "nobleza",
+        "example": "貴族の城。",
+        "exampleReading": "きぞくのしろ。",
+        "exampleTranslation": "Castillo de la nobleza.",
+        "containsUnknownKanji": [
+          "貴",
+          "城"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "kanji": "父",
+    "meanings": [
+      "padre"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "ちち"
+    ],
+    "radicals": [
+      "父"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una mano que sostiene la familia.",
+    "vocabulary": [
+      {
+        "word": "父",
+        "reading": "ちち",
+        "meaning": "mi padre",
+        "example": "父は医者。",
+        "exampleReading": "ちちはいしゃ。",
+        "exampleTranslation": "Mi padre es médico.",
+        "containsUnknownKanji": [
+          "医",
+          "者"
+        ]
+      },
+      {
+        "word": "お父さん",
+        "reading": "おとうさん",
+        "meaning": "padre (cortés)",
+        "example": "お父さん、ただいま。",
+        "exampleReading": "おとうさん、ただいま。",
+        "exampleTranslation": "Papá, ya volví.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "父母",
+        "reading": "ふぼ",
+        "meaning": "padres",
+        "example": "父母に感謝。",
+        "exampleReading": "ふぼにかんしゃ。",
+        "exampleTranslation": "Agradezco a mis padres.",
+        "containsUnknownKanji": [
+          "母",
+          "感",
+          "謝"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "kanji": "母",
+    "meanings": [
+      "madre"
+    ],
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "はは"
+    ],
+    "radicals": [
+      "母"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Pechos que alimentan: madre.",
+    "vocabulary": [
+      {
+        "word": "母",
+        "reading": "はは",
+        "meaning": "mi madre",
+        "example": "母は優しい。",
+        "exampleReading": "はははやさしい。",
+        "exampleTranslation": "Mi madre es amable.",
+        "containsUnknownKanji": [
+          "優"
+        ]
+      },
+      {
+        "word": "お母さん",
+        "reading": "おかあさん",
+        "meaning": "madre (cortés)",
+        "example": "お母さん、おはよう。",
+        "exampleReading": "おかあさん、おはよう。",
+        "exampleTranslation": "Mamá, buenos días.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "母校",
+        "reading": "ぼこう",
+        "meaning": "alma máter",
+        "example": "母校を訪ねる。",
+        "exampleReading": "ぼこうをたずねる。",
+        "exampleTranslation": "Visito mi alma máter.",
+        "containsUnknownKanji": [
+          "校",
+          "訪"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "kanji": "兄",
+    "meanings": [
+      "hermano mayor"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "radicals": [
+      "儿",
+      "口"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Boca con piernas: el que da órdenes.",
+    "vocabulary": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "mi hermano mayor",
+        "example": "兄がいる。",
+        "exampleReading": "あにがいる。",
+        "exampleTranslation": "Tengo un hermano mayor.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "お兄さん",
+        "reading": "おにいさん",
+        "meaning": "hermano mayor (cortés)",
+        "example": "お兄さんは元気。",
+        "exampleReading": "おにいさんはげんき。",
+        "exampleTranslation": "Tu hermano está bien.",
+        "containsUnknownKanji": [
+          "元",
+          "気"
+        ]
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "hermanos",
+        "example": "兄弟が三人。",
+        "exampleReading": "きょうだいがさんにん。",
+        "exampleTranslation": "Tres hermanos.",
+        "containsUnknownKanji": [
+          "弟",
+          "三",
+          "人"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "kanji": "姉",
+    "meanings": [
+      "hermana mayor"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね"
+    ],
+    "radicals": [
+      "女"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "La mujer que mercadea: la hermana mayor.",
+    "vocabulary": [
+      {
+        "word": "姉",
+        "reading": "あね",
+        "meaning": "mi hermana mayor",
+        "example": "姉は教師。",
+        "exampleReading": "あねはきょうし。",
+        "exampleTranslation": "Mi hermana es maestra.",
+        "containsUnknownKanji": [
+          "教",
+          "師"
+        ]
+      },
+      {
+        "word": "お姉さん",
+        "reading": "おねえさん",
+        "meaning": "hermana mayor (cortés)",
+        "example": "お姉さん、こんにちは。",
+        "exampleReading": "おねえさん、こんにちは。",
+        "exampleTranslation": "Hola, hermana.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "姉妹",
+        "reading": "しまい",
+        "meaning": "hermanas",
+        "example": "姉妹で旅行。",
+        "exampleReading": "しまいでりょこう。",
+        "exampleTranslation": "Viaje de hermanas.",
+        "containsUnknownKanji": [
+          "妹",
+          "旅",
+          "行"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "kanji": "弟",
+    "meanings": [
+      "hermano menor"
+    ],
+    "onyomi": [
+      "ダイ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "radicals": [
+      "弓"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "El menor con el arco: hermano menor.",
+    "vocabulary": [
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "mi hermano menor",
+        "example": "弟が二人。",
+        "exampleReading": "おとうとがふたり。",
+        "exampleTranslation": "Dos hermanos menores.",
+        "containsUnknownKanji": [
+          "二",
+          "人"
+        ]
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "hermanos",
+        "example": "兄弟仲がいい。",
+        "exampleReading": "きょうだいなかがいい。",
+        "exampleTranslation": "Los hermanos se llevan bien.",
+        "containsUnknownKanji": [
+          "兄",
+          "仲"
+        ]
+      },
+      {
+        "word": "弟子",
+        "reading": "でし",
+        "meaning": "discípulo",
+        "example": "彼の弟子。",
+        "exampleReading": "かれのでし。",
+        "exampleTranslation": "Su discípulo.",
+        "containsUnknownKanji": [
+          "子",
+          "彼"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "kanji": "妹",
+    "meanings": [
+      "hermana menor"
+    ],
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "radicals": [
+      "女"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "La menor de las mujeres: hermana menor.",
+    "vocabulary": [
+      {
+        "word": "妹",
+        "reading": "いもうと",
+        "meaning": "mi hermana menor",
+        "example": "妹は学生。",
+        "exampleReading": "いもうとはがくせい。",
+        "exampleTranslation": "Mi hermana es estudiante.",
+        "containsUnknownKanji": [
+          "学",
+          "生"
+        ]
+      },
+      {
+        "word": "姉妹",
+        "reading": "しまい",
+        "meaning": "hermanas",
+        "example": "三姉妹。",
+        "exampleReading": "さんしまい。",
+        "exampleTranslation": "Tres hermanas.",
+        "containsUnknownKanji": [
+          "姉",
+          "三"
+        ]
+      },
+      {
+        "word": "義妹",
+        "reading": "ぎまい",
+        "meaning": "cuñada menor",
+        "example": "義妹が来る。",
+        "exampleReading": "ぎまいがくる。",
+        "exampleTranslation": "Mi cuñada viene.",
+        "containsUnknownKanji": [
+          "義",
+          "来"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "kanji": "友",
+    "meanings": [
+      "amigo"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "radicals": [
+      "又"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Dos manos cruzadas: amistad.",
+    "vocabulary": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": "amigo",
+        "example": "友達と会う。",
+        "exampleReading": "ともだちとあう。",
+        "exampleTranslation": "Me veo con un amigo.",
+        "containsUnknownKanji": [
+          "達",
+          "会"
+        ]
+      },
+      {
+        "word": "親友",
+        "reading": "しんゆう",
+        "meaning": "mejor amigo",
+        "example": "親友がいる。",
+        "exampleReading": "しんゆうがいる。",
+        "exampleTranslation": "Tengo un mejor amigo.",
+        "containsUnknownKanji": [
+          "親"
+        ]
+      },
+      {
+        "word": "友人",
+        "reading": "ゆうじん",
+        "meaning": "amigo",
+        "example": "古い友人。",
+        "exampleReading": "ふるいゆうじん。",
+        "exampleTranslation": "Viejo amigo.",
+        "containsUnknownKanji": [
+          "古",
+          "人"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "kanji": "達",
+    "meanings": [
+      "alcanzar",
+      "plural"
+    ],
+    "onyomi": [
+      "タツ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "辶"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Caminar hasta alcanzar a los demás.",
+    "vocabulary": [
+      {
+        "word": "友達",
+        "reading": "ともだち",
+        "meaning": "amigo",
+        "example": "新しい友達。",
+        "exampleReading": "あたらしいともだち。",
+        "exampleTranslation": "Nuevo amigo.",
+        "containsUnknownKanji": [
+          "友",
+          "新"
+        ]
+      },
+      {
+        "word": "私達",
+        "reading": "わたしたち",
+        "meaning": "nosotros",
+        "example": "私達は学生。",
+        "exampleReading": "わたしたちはがくせい。",
+        "exampleTranslation": "Nosotros somos estudiantes.",
+        "containsUnknownKanji": [
+          "私",
+          "学",
+          "生"
+        ]
+      },
+      {
+        "word": "達成",
+        "reading": "たっせい",
+        "meaning": "logro",
+        "example": "目標達成。",
+        "exampleReading": "もくひょうたっせい。",
+        "exampleTranslation": "Meta alcanzada.",
+        "containsUnknownKanji": [
+          "成",
+          "目",
+          "標"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "kanji": "私",
+    "meanings": [
+      "yo"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "わたし"
+    ],
+    "radicals": [
+      "禾",
+      "厶"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "El grano que se guarda para uno: yo.",
+    "vocabulary": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "yo",
+        "example": "私は学生です。",
+        "exampleReading": "わたしはがくせいです。",
+        "exampleTranslation": "Soy estudiante.",
+        "containsUnknownKanji": [
+          "学",
+          "生"
+        ]
+      },
+      {
+        "word": "私達",
+        "reading": "わたしたち",
+        "meaning": "nosotros",
+        "example": "私達も行く。",
+        "exampleReading": "わたしたちもいく。",
+        "exampleTranslation": "Nosotros también vamos.",
+        "containsUnknownKanji": [
+          "達",
+          "行"
+        ]
+      },
+      {
+        "word": "私立",
+        "reading": "しりつ",
+        "meaning": "privado",
+        "example": "私立学校。",
+        "exampleReading": "しりつがっこう。",
+        "exampleTranslation": "Escuela privada.",
+        "containsUnknownKanji": [
+          "立",
+          "学",
+          "校"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "kanji": "好",
+    "meanings": [
+      "gustar"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "す"
+    ],
+    "radicals": [
+      "女",
+      "子"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Mujer y niño: lo que se quiere.",
+    "vocabulary": [
+      {
+        "word": "好き",
+        "reading": "すき",
+        "meaning": "gustar",
+        "example": "音楽が好き。",
+        "exampleReading": "おんがくがすき。",
+        "exampleTranslation": "Me gusta la música.",
+        "containsUnknownKanji": [
+          "音",
+          "楽"
+        ]
+      },
+      {
+        "word": "大好き",
+        "reading": "だいすき",
+        "meaning": "encantar",
+        "example": "犬が大好き。",
+        "exampleReading": "いぬがだいすき。",
+        "exampleTranslation": "Me encantan los perros.",
+        "containsUnknownKanji": [
+          "大",
+          "犬"
+        ]
+      },
+      {
+        "word": "好む",
+        "reading": "このむ",
+        "meaning": "preferir",
+        "example": "静けさを好む。",
+        "exampleReading": "しずけさをこのむ。",
+        "exampleTranslation": "Prefiero el silencio.",
+        "containsUnknownKanji": [
+          "静"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "kanji": "高",
+    "meanings": [
+      "alto",
+      "caro"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "たか"
+    ],
+    "radicals": [
+      "高"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Una torre alta con dos pisos.",
+    "vocabulary": [
+      {
+        "word": "高い",
+        "reading": "たかい",
+        "meaning": "alto, caro",
+        "example": "高い山。",
+        "exampleReading": "たかいやま。",
+        "exampleTranslation": "Montaña alta.",
+        "containsUnknownKanji": [
+          "山"
+        ]
+      },
+      {
+        "word": "高校",
+        "reading": "こうこう",
+        "meaning": "preparatoria",
+        "example": "高校生。",
+        "exampleReading": "こうこうせい。",
+        "exampleTranslation": "Estudiante de prepa.",
+        "containsUnknownKanji": [
+          "校",
+          "生"
+        ]
+      },
+      {
+        "word": "最高",
+        "reading": "さいこう",
+        "meaning": "lo máximo",
+        "example": "最高の日。",
+        "exampleReading": "さいこうのひ。",
+        "exampleTranslation": "El mejor día.",
+        "containsUnknownKanji": [
+          "最",
+          "日"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "kanji": "安",
+    "meanings": [
+      "barato",
+      "tranquilo"
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やす"
+    ],
+    "radicals": [
+      "宀",
+      "女"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Mujer bajo techo: tranquilidad y bajo costo.",
+    "vocabulary": [
+      {
+        "word": "安い",
+        "reading": "やすい",
+        "meaning": "barato",
+        "example": "安い店。",
+        "exampleReading": "やすいみせ。",
+        "exampleTranslation": "Tienda barata.",
+        "containsUnknownKanji": [
+          "店"
+        ]
+      },
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "tranquilidad",
+        "example": "安心して。",
+        "exampleReading": "あんしんして。",
+        "exampleTranslation": "Tranquilízate.",
+        "containsUnknownKanji": [
+          "心"
+        ]
+      },
+      {
+        "word": "安全",
+        "reading": "あんぜん",
+        "meaning": "seguridad",
+        "example": "安全第一。",
+        "exampleReading": "あんぜんだいいち。",
+        "exampleTranslation": "La seguridad primero.",
+        "containsUnknownKanji": [
+          "全",
+          "第",
+          "一"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "kanji": "新",
+    "meanings": [
+      "nuevo"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたら"
+    ],
+    "radicals": [
+      "斤",
+      "木"
+    ],
+    "strokeCount": 13,
+    "mnemonic": "Madera recién cortada con hacha.",
+    "vocabulary": [
+      {
+        "word": "新しい",
+        "reading": "あたらしい",
+        "meaning": "nuevo",
+        "example": "新しい本。",
+        "exampleReading": "あたらしいほん。",
+        "exampleTranslation": "Libro nuevo.",
+        "containsUnknownKanji": [
+          "本"
+        ]
+      },
+      {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "meaning": "periódico",
+        "example": "新聞を読む。",
+        "exampleReading": "しんぶんをよむ。",
+        "exampleTranslation": "Leo el periódico.",
+        "containsUnknownKanji": [
+          "聞",
+          "読"
+        ]
+      },
+      {
+        "word": "新年",
+        "reading": "しんねん",
+        "meaning": "año nuevo",
+        "example": "新年おめでとう。",
+        "exampleReading": "しんねんおめでとう。",
+        "exampleTranslation": "Feliz año nuevo.",
+        "containsUnknownKanji": [
+          "年"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "kanji": "古",
+    "meanings": [
+      "viejo",
+      "antiguo"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふる"
+    ],
+    "radicals": [
+      "十",
+      "口"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Diez bocas que han contado historias antiguas.",
+    "vocabulary": [
+      {
+        "word": "古い",
+        "reading": "ふるい",
+        "meaning": "viejo",
+        "example": "古い家。",
+        "exampleReading": "ふるいいえ。",
+        "exampleTranslation": "Casa vieja.",
+        "containsUnknownKanji": [
+          "家"
+        ]
+      },
+      {
+        "word": "中古",
+        "reading": "ちゅうこ",
+        "meaning": "de segunda mano",
+        "example": "中古車。",
+        "exampleReading": "ちゅうこしゃ。",
+        "exampleTranslation": "Coche usado.",
+        "containsUnknownKanji": [
+          "中",
+          "車"
+        ]
+      },
+      {
+        "word": "古典",
+        "reading": "こてん",
+        "meaning": "clásico",
+        "example": "古典文学。",
+        "exampleReading": "こてんぶんがく。",
+        "exampleTranslation": "Literatura clásica.",
+        "containsUnknownKanji": [
+          "典",
+          "文",
+          "学"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "kanji": "長",
+    "meanings": [
+      "largo",
+      "jefe"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "なが"
+    ],
+    "radicals": [
+      "長"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Cabello largo y bastón: el anciano jefe.",
+    "vocabulary": [
+      {
+        "word": "長い",
+        "reading": "ながい",
+        "meaning": "largo",
+        "example": "長い道。",
+        "exampleReading": "ながいみち。",
+        "exampleTranslation": "Camino largo.",
+        "containsUnknownKanji": [
+          "道"
+        ]
+      },
+      {
+        "word": "社長",
+        "reading": "しゃちょう",
+        "meaning": "presidente",
+        "example": "社長と会う。",
+        "exampleReading": "しゃちょうとあう。",
+        "exampleTranslation": "Veo al presidente.",
+        "containsUnknownKanji": [
+          "社",
+          "会"
+        ]
+      },
+      {
+        "word": "校長",
+        "reading": "こうちょう",
+        "meaning": "director",
+        "example": "校長先生。",
+        "exampleReading": "こうちょうせんせい。",
+        "exampleTranslation": "El director.",
+        "containsUnknownKanji": [
+          "校",
+          "先",
+          "生"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "kanji": "短",
+    "meanings": [
+      "corto"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "みじか"
+    ],
+    "radicals": [
+      "矢"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Una flecha corta junto a un objeto.",
+    "vocabulary": [
+      {
+        "word": "短い",
+        "reading": "みじかい",
+        "meaning": "corto",
+        "example": "短い話。",
+        "exampleReading": "みじかいはなし。",
+        "exampleTranslation": "Historia corta.",
+        "containsUnknownKanji": [
+          "話"
+        ]
+      },
+      {
+        "word": "短期",
+        "reading": "たんき",
+        "meaning": "corto plazo",
+        "example": "短期留学。",
+        "exampleReading": "たんきりゅうがく。",
+        "exampleTranslation": "Estudio corto en el extranjero.",
+        "containsUnknownKanji": [
+          "期",
+          "留",
+          "学"
+        ]
+      },
+      {
+        "word": "短所",
+        "reading": "たんしょ",
+        "meaning": "defecto",
+        "example": "短所を直す。",
+        "exampleReading": "たんしょをなおす。",
+        "exampleTranslation": "Corrijo mis defectos.",
+        "containsUnknownKanji": [
+          "所",
+          "直"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "kanji": "多",
+    "meanings": [
+      "mucho"
+    ],
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おお"
+    ],
+    "radicals": [
+      "夕"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Dos noches juntas: muchas.",
+    "vocabulary": [
+      {
+        "word": "多い",
+        "reading": "おおい",
+        "meaning": "mucho",
+        "example": "人が多い。",
+        "exampleReading": "ひとがおおい。",
+        "exampleTranslation": "Hay mucha gente.",
+        "containsUnknownKanji": [
+          "人"
+        ]
+      },
+      {
+        "word": "多分",
+        "reading": "たぶん",
+        "meaning": "tal vez",
+        "example": "多分行く。",
+        "exampleReading": "たぶんいく。",
+        "exampleTranslation": "Tal vez vaya.",
+        "containsUnknownKanji": [
+          "分",
+          "行"
+        ]
+      },
+      {
+        "word": "多数",
+        "reading": "たすう",
+        "meaning": "mayoría",
+        "example": "多数決。",
+        "exampleReading": "たすうけつ。",
+        "exampleTranslation": "Decisión por mayoría.",
+        "containsUnknownKanji": [
+          "数",
+          "決"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "kanji": "少",
+    "meanings": [
+      "poco"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく",
+      "すこ"
+    ],
+    "radicals": [
+      "小"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Pequeño con un trazo extra: poco.",
+    "vocabulary": [
+      {
+        "word": "少ない",
+        "reading": "すくない",
+        "meaning": "poco",
+        "example": "人が少ない。",
+        "exampleReading": "ひとがすくない。",
+        "exampleTranslation": "Hay poca gente.",
+        "containsUnknownKanji": [
+          "人"
+        ]
+      },
+      {
+        "word": "少し",
+        "reading": "すこし",
+        "meaning": "un poco",
+        "example": "少し待つ。",
+        "exampleReading": "すこしまつ。",
+        "exampleTranslation": "Espero un poco.",
+        "containsUnknownKanji": [
+          "待"
+        ]
+      },
+      {
+        "word": "少年",
+        "reading": "しょうねん",
+        "meaning": "muchacho",
+        "example": "少年時代。",
+        "exampleReading": "しょうねんじだい。",
+        "exampleTranslation": "Época de la niñez.",
+        "containsUnknownKanji": [
+          "年",
+          "時",
+          "代"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "kanji": "早",
+    "meanings": [
+      "temprano"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はや"
+    ],
+    "radicals": [
+      "日",
+      "十"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "El sol que sale temprano.",
+    "vocabulary": [
+      {
+        "word": "早い",
+        "reading": "はやい",
+        "meaning": "temprano",
+        "example": "朝が早い。",
+        "exampleReading": "あさがはやい。",
+        "exampleTranslation": "Es temprano en la mañana.",
+        "containsUnknownKanji": [
+          "朝"
+        ]
+      },
+      {
+        "word": "早く",
+        "reading": "はやく",
+        "meaning": "rápido",
+        "example": "早く来て。",
+        "exampleReading": "はやくきて。",
+        "exampleTranslation": "Ven rápido.",
+        "containsUnknownKanji": [
+          "来"
+        ]
+      },
+      {
+        "word": "早朝",
+        "reading": "そうちょう",
+        "meaning": "madrugada",
+        "example": "早朝の散歩。",
+        "exampleReading": "そうちょうのさんぽ。",
+        "exampleTranslation": "Paseo matutino.",
+        "containsUnknownKanji": [
+          "朝",
+          "散",
+          "歩"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "kanji": "明",
+    "meanings": [
+      "brillante"
+    ],
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "あか",
+      "あ"
+    ],
+    "radicals": [
+      "日",
+      "月"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Sol y luna juntos: claridad.",
+    "vocabulary": [
+      {
+        "word": "明日",
+        "reading": "あした",
+        "meaning": "mañana",
+        "example": "明日来る。",
+        "exampleReading": "あしたくる。",
+        "exampleTranslation": "Vengo mañana.",
+        "containsUnknownKanji": [
+          "日",
+          "来"
+        ]
+      },
+      {
+        "word": "明るい",
+        "reading": "あかるい",
+        "meaning": "brillante",
+        "example": "明るい部屋。",
+        "exampleReading": "あかるいへや。",
+        "exampleTranslation": "Cuarto luminoso.",
+        "containsUnknownKanji": [
+          "部",
+          "屋"
+        ]
+      },
+      {
+        "word": "説明",
+        "reading": "せつめい",
+        "meaning": "explicación",
+        "example": "説明してください。",
+        "exampleReading": "せつめいしてください。",
+        "exampleTranslation": "Explica, por favor.",
+        "containsUnknownKanji": [
+          "説"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "kanji": "暗",
+    "meanings": [
+      "oscuro"
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "くら"
+    ],
+    "radicals": [
+      "日",
+      "音"
+    ],
+    "strokeCount": 13,
+    "mnemonic": "El sol cubierto por sonido: oscuridad.",
+    "vocabulary": [
+      {
+        "word": "暗い",
+        "reading": "くらい",
+        "meaning": "oscuro",
+        "example": "部屋が暗い。",
+        "exampleReading": "へやがくらい。",
+        "exampleTranslation": "El cuarto está oscuro.",
+        "containsUnknownKanji": [
+          "部",
+          "屋"
+        ]
+      },
+      {
+        "word": "暗記",
+        "reading": "あんき",
+        "meaning": "memorizar",
+        "example": "単語を暗記。",
+        "exampleReading": "たんごをあんき。",
+        "exampleTranslation": "Memorizo vocabulario.",
+        "containsUnknownKanji": [
+          "記",
+          "単",
+          "語"
+        ]
+      },
+      {
+        "word": "暗号",
+        "reading": "あんごう",
+        "meaning": "código",
+        "example": "暗号を解く。",
+        "exampleReading": "あんごうをとく。",
+        "exampleTranslation": "Descifro el código.",
+        "containsUnknownKanji": [
+          "号",
+          "解"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "kanji": "間",
+    "meanings": [
+      "entre",
+      "intervalo"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "あいだ",
+      "ま"
+    ],
+    "radicals": [
+      "門"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Sol entre puertas: el espacio.",
+    "vocabulary": [
+      {
+        "word": "時間",
+        "reading": "じかん",
+        "meaning": "tiempo",
+        "example": "時間がない。",
+        "exampleReading": "じかんがない。",
+        "exampleTranslation": "No hay tiempo.",
+        "containsUnknownKanji": [
+          "時"
+        ]
+      },
+      {
+        "word": "人間",
+        "reading": "にんげん",
+        "meaning": "ser humano",
+        "example": "人間関係。",
+        "exampleReading": "にんげんかんけい。",
+        "exampleTranslation": "Relaciones humanas.",
+        "containsUnknownKanji": [
+          "人",
+          "関",
+          "係"
+        ]
+      },
+      {
+        "word": "間",
+        "reading": "あいだ",
+        "meaning": "entre",
+        "example": "木の間。",
+        "exampleReading": "きのあいだ。",
+        "exampleTranslation": "Entre los árboles.",
+        "containsUnknownKanji": [
+          "木"
+        ]
+      }
+    ]
+  }
+]
