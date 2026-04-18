@@ -38,7 +38,7 @@ export default function HomePage() {
       <div className="w-full max-w-xl text-center">
         <div className="mb-2 text-6xl">漢</div>
         <h1 className="text-4xl font-bold tracking-tight mb-2">Kanji para Kari</h1>
-        <p className="text-gray-500 mb-10">180 kanjis del JLPT N5 · Lección por lección</p>
+        <p className="text-gray-500 mb-10">175 kanjis N5 y N4 · Lección por lección</p>
 
         <div className="mb-8">
           <div className="flex justify-between text-sm text-gray-500 mb-2">
