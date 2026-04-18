@@ -51,7 +51,8 @@
           "行"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 2,
@@ -108,7 +109,8 @@
           "見"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 3,
@@ -165,7 +167,8 @@
           "待"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 4,
@@ -224,7 +227,8 @@
           "族"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 5,
@@ -280,7 +284,8 @@
           "待"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 6,
@@ -336,7 +341,8 @@
           "起"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 7,
@@ -392,7 +398,8 @@
           "帰"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 8,
@@ -448,7 +455,8 @@
           "始"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 9,
@@ -504,7 +512,8 @@
           "寝"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 10,
@@ -559,7 +568,8 @@
           "分"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 11,
@@ -620,7 +630,8 @@
           "強"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 12,
@@ -680,7 +691,8 @@
           "買"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 13,
@@ -738,7 +750,8 @@
           "見"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 14,
@@ -793,7 +806,8 @@
           "行"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 15,
@@ -853,7 +867,8 @@
           "園"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 16,
@@ -908,7 +923,8 @@
           "好"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 17,
@@ -964,7 +980,8 @@
           "湿"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 18,
@@ -1022,7 +1039,8 @@
           "増"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 19,
@@ -1079,7 +1097,8 @@
           "多"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 20,
@@ -1134,7 +1153,8 @@
           "何"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 21,
@@ -1190,7 +1210,8 @@
           "当"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 22,
@@ -1248,7 +1269,8 @@
           "生"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 23,
@@ -1303,7 +1325,8 @@
           "通"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 24,
@@ -1361,7 +1384,8 @@
           "遊"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 25,
@@ -1417,7 +1441,8 @@
           "噴"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 26,
@@ -1472,7 +1497,8 @@
           "船"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 27,
@@ -1526,7 +1552,8 @@
           "広"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 28,
@@ -1581,7 +1608,8 @@
           "彼"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 29,
@@ -1637,7 +1665,8 @@
           "歌"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 30,
@@ -1694,7 +1723,8 @@
           "笑"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 31,
@@ -1751,7 +1781,8 @@
           "忙"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 32,
@@ -1807,7 +1838,8 @@
           "先"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 33,
@@ -1865,7 +1897,8 @@
           "語"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 34,
@@ -1921,7 +1954,8 @@
           "生"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 35,
@@ -1979,7 +2013,8 @@
           "行"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 36,
@@ -2036,7 +2071,8 @@
           "見"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 37,
@@ -2091,7 +2127,8 @@
           "自"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 38,
@@ -2146,7 +2183,8 @@
           "夏"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 39,
@@ -2200,7 +2238,8 @@
           "人"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 40,
@@ -2257,7 +2296,8 @@
           "働"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 41,
@@ -2314,7 +2354,8 @@
           "業"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 42,
@@ -2370,7 +2411,8 @@
           "言"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 43,
@@ -2427,7 +2469,8 @@
           "読"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 44,
@@ -2485,7 +2528,8 @@
           "習"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 45,
@@ -2544,7 +2588,8 @@
           "強"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 46,
@@ -2603,7 +2648,8 @@
           "習"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 47,
@@ -2659,7 +2705,8 @@
           "作"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 48,
@@ -2717,7 +2764,8 @@
           "禁"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 49,
@@ -2771,7 +2819,8 @@
           "地"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 50,
@@ -2825,7 +2874,8 @@
           "学"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 51,
@@ -2881,7 +2931,8 @@
           "学"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 52,
@@ -2937,7 +2988,8 @@
           "間"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 53,
@@ -2994,7 +3046,8 @@
           "出"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 54,
@@ -3052,7 +3105,8 @@
           "行"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 55,
@@ -3109,7 +3163,8 @@
           "学"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 56,
@@ -3167,7 +3222,8 @@
           "行"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 57,
@@ -3222,7 +3278,8 @@
           "刺"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 58,
@@ -3280,7 +3337,8 @@
           "書"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 59,
@@ -3340,7 +3398,8 @@
           "合"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 60,
@@ -3396,7 +3455,8 @@
           "食"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 61,
@@ -3451,7 +3511,8 @@
           "祭"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 62,
@@ -3505,7 +3566,8 @@
           "会"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 63,
@@ -3561,7 +3623,8 @@
           "日"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 64,
@@ -3617,7 +3680,8 @@
           "会"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 65,
@@ -3671,7 +3735,8 @@
           "買"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 66,
@@ -3727,7 +3792,8 @@
           "来"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 67,
@@ -3782,7 +3848,8 @@
           "書"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 68,
@@ -3838,7 +3905,8 @@
           "皿"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 69,
@@ -3890,7 +3958,8 @@
           "本"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 70,
@@ -3943,7 +4012,8 @@
           "色"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 71,
@@ -3996,7 +4066,8 @@
           "年"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 72,
@@ -4050,7 +4121,8 @@
           "靴"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 73,
@@ -4105,7 +4177,8 @@
           "犬"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 74,
@@ -4159,7 +4232,8 @@
           "国"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 75,
@@ -4211,7 +4285,8 @@
           "人"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 76,
@@ -4268,7 +4343,8 @@
           "止"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 77,
@@ -4321,7 +4397,8 @@
           "気"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 78,
@@ -4379,7 +4456,8 @@
           "場"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 79,
@@ -4432,7 +4510,8 @@
           "会"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 80,
@@ -4488,7 +4567,8 @@
           "広"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 81,
@@ -4544,7 +4624,8 @@
           "聞"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 82,
@@ -4601,7 +4682,8 @@
           "彼"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 83,
@@ -4658,7 +4740,8 @@
           "城"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 84,
@@ -4712,7 +4795,8 @@
           "謝"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 85,
@@ -4764,7 +4848,8 @@
           "訪"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 86,
@@ -4819,7 +4904,8 @@
           "人"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 87,
@@ -4873,7 +4959,8 @@
           "行"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 88,
@@ -4929,7 +5016,8 @@
           "彼"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 89,
@@ -4985,7 +5073,8 @@
           "来"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 90,
@@ -5040,7 +5129,8 @@
           "人"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 91,
@@ -5097,7 +5187,8 @@
           "標"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 92,
@@ -5155,7 +5246,8 @@
           "校"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 93,
@@ -5211,7 +5303,8 @@
           "静"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 94,
@@ -5267,7 +5360,8 @@
           "日"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 95,
@@ -5324,7 +5418,8 @@
           "一"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 96,
@@ -5379,7 +5474,8 @@
           "年"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 97,
@@ -5437,7 +5533,8 @@
           "学"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 98,
@@ -5494,7 +5591,8 @@
           "生"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 99,
@@ -5550,7 +5648,8 @@
           "直"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 100,
@@ -5605,7 +5704,8 @@
           "決"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 101,
@@ -5661,7 +5761,8 @@
           "代"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 102,
@@ -5717,7 +5818,8 @@
           "歩"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 103,
@@ -5774,7 +5876,8 @@
           "説"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 104,
@@ -5832,7 +5935,8 @@
           "解"
         ]
       }
-    ]
+    ],
+    "level": "N5"
   },
   {
     "id": 105,
@@ -5888,6 +5992,6049 @@
         "containsUnknownKanji": [
           "木"
         ]
+      }
+    ],
+    "level": "N5"
+  },
+  {
+    "id": 106,
+    "kanji": "会",
+    "level": "N4",
+    "meanings": [
+      "reunirse",
+      "encontrarse"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [
+      "あ"
+    ],
+    "radicals": [
+      "人",
+      "云"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Personas reunidas bajo un techo para conversar.",
+    "vocabulary": [
+      {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "meaning": "empresa",
+        "example": "来週から新しい会社で働きます。",
+        "exampleReading": "らいしゅうからあたらしいかいしゃではたらきます。",
+        "exampleTranslation": "Desde la próxima semana trabajaré en una empresa nueva.",
+        "containsUnknownKanji": [
+          "来",
+          "週",
+          "新",
+          "働"
+        ]
+      },
+      {
+        "word": "会議",
+        "reading": "かいぎ",
+        "meaning": "reunión, junta",
+        "example": "明日の会議に出なければなりません。",
+        "exampleReading": "あしたのかいぎにでなければなりません。",
+        "exampleTranslation": "Tengo que asistir a la reunión de mañana.",
+        "containsUnknownKanji": [
+          "明",
+          "出"
+        ]
+      },
+      {
+        "word": "都会",
+        "reading": "とかい",
+        "meaning": "ciudad grande",
+        "example": "都会の生活は便利ですが、疲れます。",
+        "exampleReading": "とかいのせいかつはべんりですが、つかれます。",
+        "exampleTranslation": "La vida en la ciudad es cómoda pero agotadora.",
+        "containsUnknownKanji": [
+          "都",
+          "生",
+          "活",
+          "便",
+          "利",
+          "疲"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "明日の会議は何時からですか。",
+          "reading": "あしたのかいぎはなんじからですか。",
+          "translation": "¿A qué hora empieza la reunión de mañana?"
+        },
+        {
+          "speaker": "B",
+          "text": "午後二時からです。会社の三階の会議室で行います。",
+          "reading": "ごごにじからです。かいしゃのさんかいのかいぎしつでおこないます。",
+          "translation": "A partir de las dos de la tarde. Se hará en la sala del tercer piso de la empresa."
+        },
+        {
+          "speaker": "A",
+          "text": "分かりました。少し早めに行きます。",
+          "reading": "わかりました。すこしはやめにいきます。",
+          "translation": "Entendido. Iré un poco antes."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "田中さんの会社はどこですか。",
+        "reading": "たなかさんのかいしゃはどこですか。",
+        "question": "¿Qué se pregunta sobre el señor Tanaka?",
+        "answer": "dónde está su empresa",
+        "answerType": "meaning"
+      },
+      {
+        "audio": "会議は三時に始まります。",
+        "reading": "かいぎはさんじにはじまります。",
+        "question": "¿A qué hora empieza la reunión?",
+        "answer": "三時",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "kanji": "働",
+    "level": "N4",
+    "meanings": [
+      "trabajar"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "はたら"
+    ],
+    "radicals": [
+      "人",
+      "動"
+    ],
+    "strokeCount": 13,
+    "mnemonic": "Una persona en movimiento: trabajar.",
+    "vocabulary": [
+      {
+        "word": "働く",
+        "reading": "はたらく",
+        "meaning": "trabajar",
+        "example": "父は毎日遅くまで働いています。",
+        "exampleReading": "ちちはまいにちおそくまではたらいています。",
+        "exampleTranslation": "Mi padre trabaja todos los días hasta tarde.",
+        "containsUnknownKanji": [
+          "父",
+          "毎",
+          "遅"
+        ]
+      },
+      {
+        "word": "労働",
+        "reading": "ろうどう",
+        "meaning": "trabajo, labor",
+        "example": "労働時間が長すぎます。",
+        "exampleReading": "ろうどうじかんがながすぎます。",
+        "exampleTranslation": "Las horas de trabajo son demasiadas.",
+        "containsUnknownKanji": [
+          "労",
+          "時"
+        ]
+      },
+      {
+        "word": "共働き",
+        "reading": "ともばたらき",
+        "meaning": "ambos cónyuges trabajan",
+        "example": "私たちは共働きです。",
+        "exampleReading": "わたしたちはともばたらきです。",
+        "exampleTranslation": "Nosotros dos trabajamos.",
+        "containsUnknownKanji": [
+          "共",
+          "私"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "毎日何時間ぐらい働いていますか。",
+          "reading": "まいにちなんじかんぐらいはたらいていますか。",
+          "translation": "¿Cuántas horas trabajas al día aproximadamente?"
+        },
+        {
+          "speaker": "B",
+          "text": "八時間です。でも、忙しい時は残業もあります。",
+          "reading": "はちじかんです。でも、いそがしいときはざんぎょうもあります。",
+          "translation": "Ocho horas. Pero cuando estoy ocupado también hago horas extra."
+        },
+        {
+          "speaker": "A",
+          "text": "大変ですね。体に気をつけてください。",
+          "reading": "たいへんですね。からだにきをつけてください。",
+          "translation": "Qué difícil. Cuídate mucho."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "銀行で働いています。",
+        "reading": "ぎんこうではたらいています。",
+        "question": "¿Dónde trabaja?",
+        "answer": "銀行",
+        "answerType": "kanji"
+      },
+      {
+        "audio": "週末は働きません。",
+        "reading": "しゅうまつははたらきません。",
+        "question": "¿Cuándo no trabaja?",
+        "answer": "fin de semana",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "kanji": "持",
+    "level": "N4",
+    "meanings": [
+      "tener",
+      "sostener"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "も"
+    ],
+    "radicals": [
+      "扌",
+      "寺"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Una mano en el templo sosteniendo una ofrenda.",
+    "vocabulary": [
+      {
+        "word": "持つ",
+        "reading": "もつ",
+        "meaning": "tener, sostener",
+        "example": "傘を持って行った方がいいですよ。",
+        "exampleReading": "かさをもっていったほうがいいですよ。",
+        "exampleTranslation": "Es mejor que lleves paraguas.",
+        "containsUnknownKanji": [
+          "傘",
+          "行",
+          "方"
+        ]
+      },
+      {
+        "word": "気持ち",
+        "reading": "きもち",
+        "meaning": "sentimiento, ánimo",
+        "example": "あなたの気持ちがよく分かります。",
+        "exampleReading": "あなたのきもちがよくわかります。",
+        "exampleTranslation": "Entiendo bien lo que sientes.",
+        "containsUnknownKanji": [
+          "分"
+        ]
+      },
+      {
+        "word": "持参",
+        "reading": "じさん",
+        "meaning": "traer consigo",
+        "example": "お弁当は各自持参してください。",
+        "exampleReading": "おべんとうはかくじじさんしてください。",
+        "exampleTranslation": "Traigan su propio almuerzo.",
+        "containsUnknownKanji": [
+          "弁",
+          "当",
+          "各",
+          "自"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "旅行にカメラを持って行きますか。",
+          "reading": "りょこうにカメラをもっていきますか。",
+          "translation": "¿Vas a llevar cámara al viaje?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、持って行きます。写真をたくさん撮りたいんです。",
+          "reading": "はい、もっていきます。しゃしんをたくさんとりたいんです。",
+          "translation": "Sí, la voy a llevar. Quiero tomar muchas fotos."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "お金をあまり持っていません。",
+        "reading": "おかねをあまりもっていません。",
+        "question": "¿Qué dice sobre el dinero?",
+        "answer": "no tiene mucho",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "kanji": "待",
+    "level": "N4",
+    "meanings": [
+      "esperar"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "ま"
+    ],
+    "radicals": [
+      "彳",
+      "寺"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Caminar hasta el templo requiere esperar con paciencia.",
+    "vocabulary": [
+      {
+        "word": "待つ",
+        "reading": "まつ",
+        "meaning": "esperar",
+        "example": "駅の前で三十分も待ちました。",
+        "exampleReading": "えきのまえでさんじっぷんもまちました。",
+        "exampleTranslation": "Esperé treinta minutos frente a la estación.",
+        "containsUnknownKanji": [
+          "駅",
+          "前",
+          "分"
+        ]
+      },
+      {
+        "word": "招待",
+        "reading": "しょうたい",
+        "meaning": "invitación",
+        "example": "結婚式に招待されました。",
+        "exampleReading": "けっこんしきにしょうたいされました。",
+        "exampleTranslation": "Me invitaron a la boda.",
+        "containsUnknownKanji": [
+          "招",
+          "結",
+          "婚",
+          "式"
+        ]
+      },
+      {
+        "word": "期待",
+        "reading": "きたい",
+        "meaning": "expectativa",
+        "example": "新しい映画に期待しています。",
+        "exampleReading": "あたらしいえいがにきたいしています。",
+        "exampleTranslation": "Tengo expectativas con la nueva película.",
+        "containsUnknownKanji": [
+          "期",
+          "新",
+          "映",
+          "画"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "ごめん、遅くなった。長く待たせた?",
+          "reading": "ごめん、おそくなった。ながくまたせた?",
+          "translation": "Perdón por llegar tarde. ¿Te hice esperar mucho?"
+        },
+        {
+          "speaker": "B",
+          "text": "ううん、私も今着いたところ。",
+          "reading": "ううん、わたしもいまついたところ。",
+          "translation": "No, yo también acabo de llegar."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "ここで待っていてください。",
+        "reading": "ここでまっていてください。",
+        "question": "¿Qué le piden hacer?",
+        "answer": "esperar aquí",
+        "answerType": "meaning"
+      },
+      {
+        "audio": "友達を待っています。",
+        "reading": "ともだちをまっています。",
+        "question": "¿A quién espera?",
+        "answer": "友達",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "kanji": "歩",
+    "level": "N4",
+    "meanings": [
+      "caminar"
+    ],
+    "onyomi": [
+      "ホ"
+    ],
+    "kunyomi": [
+      "ある",
+      "あゆ"
+    ],
+    "radicals": [
+      "止",
+      "少"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Parar un poco después de cada paso: caminar.",
+    "vocabulary": [
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": "caminar",
+        "example": "駅まで歩いて十分ぐらいかかります。",
+        "exampleReading": "えきまであるいてじっぷんぐらいかかります。",
+        "exampleTranslation": "Toma unos diez minutos caminando hasta la estación.",
+        "containsUnknownKanji": [
+          "駅",
+          "分"
+        ]
+      },
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "meaning": "paseo",
+        "example": "毎朝犬と散歩します。",
+        "exampleReading": "まいあさいぬとさんぽします。",
+        "exampleTranslation": "Paseo con el perro cada mañana.",
+        "containsUnknownKanji": [
+          "毎",
+          "朝",
+          "犬"
+        ]
+      },
+      {
+        "word": "歩道",
+        "reading": "ほどう",
+        "meaning": "acera",
+        "example": "歩道を歩いてください。",
+        "exampleReading": "ほどうをあるいてください。",
+        "exampleTranslation": "Camina por la acera, por favor.",
+        "containsUnknownKanji": [
+          "道"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "駅までバスで行きますか、歩きますか。",
+          "reading": "えきまでバスでいきますか、あるきますか。",
+          "translation": "¿Vas en autobús a la estación o caminando?"
+        },
+        {
+          "speaker": "B",
+          "text": "天気がいいので、歩いて行こうと思います。",
+          "reading": "てんきがいいので、あるいていこうとおもいます。",
+          "translation": "Como hace buen tiempo, pienso ir caminando."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "公園を散歩しましょう。",
+        "reading": "こうえんをさんぽしましょう。",
+        "question": "¿Qué propone?",
+        "answer": "pasear por el parque",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "kanji": "走",
+    "level": "N4",
+    "meanings": [
+      "correr"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はし"
+    ],
+    "radicals": [
+      "土",
+      "龰"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una persona inclinada hacia adelante con piernas en movimiento: correr.",
+    "vocabulary": [
+      {
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": "correr",
+        "example": "毎朝公園を走っています。",
+        "exampleReading": "まいあさこうえんをはしっています。",
+        "exampleTranslation": "Todas las mañanas corro por el parque.",
+        "containsUnknownKanji": [
+          "毎",
+          "朝",
+          "公",
+          "園"
+        ]
+      },
+      {
+        "word": "走者",
+        "reading": "そうしゃ",
+        "meaning": "corredor",
+        "example": "一番の走者が転んだ。",
+        "exampleReading": "いちばんのそうしゃがころんだ。",
+        "exampleTranslation": "El primer corredor se cayó.",
+        "containsUnknownKanji": [
+          "番",
+          "転"
+        ]
+      },
+      {
+        "word": "脱走",
+        "reading": "だっそう",
+        "meaning": "fuga, escape",
+        "example": "犯人が脱走した。",
+        "exampleReading": "はんにんがだっそうした。",
+        "exampleTranslation": "El delincuente se fugó.",
+        "containsUnknownKanji": [
+          "脱",
+          "犯"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "どうして走っているんですか。",
+          "reading": "どうしてはしっているんですか。",
+          "translation": "¿Por qué estás corriendo?"
+        },
+        {
+          "speaker": "B",
+          "text": "電車に遅れそうなんです。",
+          "reading": "でんしゃにおくれそうなんです。",
+          "translation": "Es que parece que voy a perder el tren."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "子供が公園で走っています。",
+        "reading": "こどもがこうえんではしっています。",
+        "question": "¿Dónde corren los niños?",
+        "answer": "公園",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "kanji": "休",
+    "level": "N4",
+    "meanings": [
+      "descansar"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "やす"
+    ],
+    "radicals": [
+      "人",
+      "木"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Una persona descansando junto a un árbol.",
+    "vocabulary": [
+      {
+        "word": "休む",
+        "reading": "やすむ",
+        "meaning": "descansar, faltar",
+        "example": "今日は風邪で学校を休みます。",
+        "exampleReading": "きょうはかぜでがっこうをやすみます。",
+        "exampleTranslation": "Hoy falto a la escuela por un resfriado.",
+        "containsUnknownKanji": [
+          "今",
+          "日",
+          "風",
+          "邪",
+          "学",
+          "校"
+        ]
+      },
+      {
+        "word": "休み",
+        "reading": "やすみ",
+        "meaning": "descanso, vacaciones",
+        "example": "夏休みに沖縄へ行きたいです。",
+        "exampleReading": "なつやすみにおきなわへいきたいです。",
+        "exampleTranslation": "Quiero ir a Okinawa en las vacaciones de verano.",
+        "containsUnknownKanji": [
+          "夏",
+          "沖",
+          "縄",
+          "行"
+        ]
+      },
+      {
+        "word": "休憩",
+        "reading": "きゅうけい",
+        "meaning": "pausa, descanso",
+        "example": "少し休憩しましょう。",
+        "exampleReading": "すこしきゅうけいしましょう。",
+        "exampleTranslation": "Tomemos una pausa breve.",
+        "containsUnknownKanji": [
+          "憩",
+          "少"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "明日は休みですか。",
+          "reading": "あしたはやすみですか。",
+          "translation": "¿Mañana descansas?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、久しぶりの休みなのでゆっくりします。",
+          "reading": "はい、ひさしぶりのやすみなのでゆっくりします。",
+          "translation": "Sí, como hace mucho que no descansaba, voy a relajarme."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "疲れたから少し休みたい。",
+        "reading": "つかれたからすこしやすみたい。",
+        "question": "¿Qué quiere hacer?",
+        "answer": "descansar un poco",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "kanji": "忙",
+    "level": "N4",
+    "meanings": [
+      "ocupado"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "kunyomi": [
+      "いそが"
+    ],
+    "radicals": [
+      "忄",
+      "亡"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "El corazón que pierde la paz: estar ocupado.",
+    "vocabulary": [
+      {
+        "word": "忙しい",
+        "reading": "いそがしい",
+        "meaning": "ocupado",
+        "example": "最近仕事がとても忙しいです。",
+        "exampleReading": "さいきんしごとがとてもいそがしいです。",
+        "exampleTranslation": "Últimamente estoy muy ocupado con el trabajo.",
+        "containsUnknownKanji": [
+          "最",
+          "近",
+          "仕",
+          "事"
+        ]
+      },
+      {
+        "word": "多忙",
+        "reading": "たぼう",
+        "meaning": "muy ocupado (formal)",
+        "example": "社長は多忙な方です。",
+        "exampleReading": "しゃちょうはたぼうなかたです。",
+        "exampleTranslation": "El presidente es una persona muy ocupada.",
+        "containsUnknownKanji": [
+          "社",
+          "長",
+          "多",
+          "方"
+        ]
+      },
+      {
+        "word": "忙殺",
+        "reading": "ぼうさつ",
+        "meaning": "estar abrumado de trabajo",
+        "example": "仕事に忙殺されています。",
+        "exampleReading": "しごとにぼうさつされています。",
+        "exampleTranslation": "Estoy abrumado de trabajo.",
+        "containsUnknownKanji": [
+          "仕",
+          "事",
+          "殺"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "今週末、映画を見に行きませんか。",
+          "reading": "こんしゅうまつ、えいがをみにいきませんか。",
+          "translation": "¿Qué tal si vamos al cine este fin de semana?"
+        },
+        {
+          "speaker": "B",
+          "text": "ごめんなさい、今週はとても忙しくて時間がないんです。",
+          "reading": "ごめんなさい、こんしゅうはとてもいそがしくてじかんがないんです。",
+          "translation": "Lo siento, esta semana estoy tan ocupado que no tengo tiempo."
+        },
+        {
+          "speaker": "A",
+          "text": "じゃあ、来週はどうですか。",
+          "reading": "じゃあ、らいしゅうはどうですか。",
+          "translation": "Entonces, ¿qué tal la próxima semana?"
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "今日は忙しくて昼ご飯も食べられませんでした。",
+        "reading": "きょうはいそがしくてひるごはんもたべられませんでした。",
+        "question": "¿Qué no pudo hacer hoy?",
+        "answer": "comer el almuerzo",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "kanji": "疲",
+    "level": "N4",
+    "meanings": [
+      "cansarse"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "つか"
+    ],
+    "radicals": [
+      "疒",
+      "皮"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "La piel enferma del cuerpo cansado.",
+    "vocabulary": [
+      {
+        "word": "疲れる",
+        "reading": "つかれる",
+        "meaning": "cansarse",
+        "example": "仕事で疲れました。",
+        "exampleReading": "しごとでつかれました。",
+        "exampleTranslation": "Me cansé con el trabajo.",
+        "containsUnknownKanji": [
+          "仕",
+          "事"
+        ]
+      },
+      {
+        "word": "疲労",
+        "reading": "ひろう",
+        "meaning": "fatiga",
+        "example": "疲労が溜まっています。",
+        "exampleReading": "ひろうがたまっています。",
+        "exampleTranslation": "Tengo fatiga acumulada.",
+        "containsUnknownKanji": [
+          "労",
+          "溜"
+        ]
+      },
+      {
+        "word": "お疲れ様",
+        "reading": "おつかれさま",
+        "meaning": "buen trabajo (saludo)",
+        "example": "お疲れ様でした。",
+        "exampleReading": "おつかれさまでした。",
+        "exampleTranslation": "Buen trabajo (al despedirse).",
+        "containsUnknownKanji": [
+          "様"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "顔色が悪いですね。大丈夫ですか。",
+          "reading": "かおいろがわるいですね。だいじょうぶですか。",
+          "translation": "Tienes mala cara. ¿Estás bien?"
+        },
+        {
+          "speaker": "B",
+          "text": "ちょっと疲れているだけです。今晩早く寝ます。",
+          "reading": "ちょっとつかれているだけです。こんばんはやくねます。",
+          "translation": "Solo estoy un poco cansado. Esta noche me acostaré temprano."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "長い旅行で疲れました。",
+        "reading": "ながいりょこうでつかれました。",
+        "question": "¿Por qué se cansó?",
+        "answer": "por un viaje largo",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "kanji": "起",
+    "level": "N4",
+    "meanings": [
+      "levantarse",
+      "ocurrir"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "お"
+    ],
+    "radicals": [
+      "走",
+      "己"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Empezar a correr: levantarse.",
+    "vocabulary": [
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "levantarse, despertar",
+        "example": "毎朝六時に起きます。",
+        "exampleReading": "まいあさろくじにおきます。",
+        "exampleTranslation": "Me levanto a las seis todas las mañanas.",
+        "containsUnknownKanji": [
+          "毎",
+          "朝",
+          "時"
+        ]
+      },
+      {
+        "word": "起こす",
+        "reading": "おこす",
+        "meaning": "despertar (a alguien)",
+        "example": "明日七時に起こしてください。",
+        "exampleReading": "あしたしちじにおこしてください。",
+        "exampleTranslation": "Despiértame a las siete mañana, por favor.",
+        "containsUnknownKanji": [
+          "明",
+          "時"
+        ]
+      },
+      {
+        "word": "起源",
+        "reading": "きげん",
+        "meaning": "origen",
+        "example": "この祭りの起源は古いです。",
+        "exampleReading": "このまつりのきげんはふるいです。",
+        "exampleTranslation": "El origen de este festival es antiguo.",
+        "containsUnknownKanji": [
+          "祭",
+          "古"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "いつも何時に起きますか。",
+          "reading": "いつもなんじにおきますか。",
+          "translation": "¿A qué hora te levantas normalmente?"
+        },
+        {
+          "speaker": "B",
+          "text": "平日は六時半、週末は九時ごろです。",
+          "reading": "へいじつはろくじはん、しゅうまつはくじごろです。",
+          "translation": "Entre semana a las seis y media, los fines de semana alrededor de las nueve."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "昨日は早く起きました。",
+        "reading": "きのうははやくおきました。",
+        "question": "¿Cuándo se levantó?",
+        "answer": "temprano",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "kanji": "寝",
+    "level": "N4",
+    "meanings": [
+      "dormir"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ね"
+    ],
+    "radicals": [
+      "宀",
+      "爿"
+    ],
+    "strokeCount": 13,
+    "mnemonic": "Bajo el techo, sobre la cama: dormir.",
+    "vocabulary": [
+      {
+        "word": "寝る",
+        "reading": "ねる",
+        "meaning": "dormir, acostarse",
+        "example": "昨日は十二時に寝ました。",
+        "exampleReading": "きのうはじゅうにじにねました。",
+        "exampleTranslation": "Ayer me acosté a las doce.",
+        "containsUnknownKanji": [
+          "昨",
+          "日",
+          "時"
+        ]
+      },
+      {
+        "word": "寝室",
+        "reading": "しんしつ",
+        "meaning": "dormitorio",
+        "example": "寝室は二階にあります。",
+        "exampleReading": "しんしつはにかいにあります。",
+        "exampleTranslation": "El dormitorio está en el segundo piso.",
+        "containsUnknownKanji": [
+          "室",
+          "階"
+        ]
+      },
+      {
+        "word": "昼寝",
+        "reading": "ひるね",
+        "meaning": "siesta",
+        "example": "日曜日によく昼寝をします。",
+        "exampleReading": "にちようびによくひるねをします。",
+        "exampleTranslation": "Los domingos suelo tomar siesta.",
+        "containsUnknownKanji": [
+          "昼",
+          "日",
+          "曜"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "最近よく眠れますか。",
+          "reading": "さいきんよくねむれますか。",
+          "translation": "¿Últimamente duermes bien?"
+        },
+        {
+          "speaker": "B",
+          "text": "いえ、仕事が多くてあまり寝ていません。",
+          "reading": "いえ、しごとがおおくてあまりねていません。",
+          "translation": "No, tengo mucho trabajo y no duermo mucho."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "もう遅いから寝ましょう。",
+        "reading": "もうおそいからねましょう。",
+        "question": "¿Qué propone?",
+        "answer": "irse a dormir",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "kanji": "使",
+    "level": "N4",
+    "meanings": [
+      "usar"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "つか"
+    ],
+    "radicals": [
+      "人",
+      "吏"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Una persona que emplea a otra: usar.",
+    "vocabulary": [
+      {
+        "word": "使う",
+        "reading": "つかう",
+        "meaning": "usar",
+        "example": "この漢字はあまり使いません。",
+        "exampleReading": "このかんじはあまりつかいません。",
+        "exampleTranslation": "Este kanji no se usa mucho.",
+        "containsUnknownKanji": [
+          "漢",
+          "字"
+        ]
+      },
+      {
+        "word": "使用",
+        "reading": "しよう",
+        "meaning": "uso (formal)",
+        "example": "この部屋は使用中です。",
+        "exampleReading": "このへやはしようちゅうです。",
+        "exampleTranslation": "Esta sala está en uso.",
+        "containsUnknownKanji": [
+          "部",
+          "屋",
+          "中"
+        ]
+      },
+      {
+        "word": "大使館",
+        "reading": "たいしかん",
+        "meaning": "embajada",
+        "example": "日本大使館はどこですか。",
+        "exampleReading": "にほんたいしかんはどこですか。",
+        "exampleTranslation": "¿Dónde está la embajada de Japón?",
+        "containsUnknownKanji": [
+          "大",
+          "館",
+          "日",
+          "本"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "このアプリ、使ったことがありますか。",
+          "reading": "このアプリ、つかったことがありますか。",
+          "translation": "¿Has usado esta aplicación?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、毎日使っています。とても便利ですよ。",
+          "reading": "はい、まいにちつかっています。とてもべんりですよ。",
+          "translation": "Sí, la uso todos los días. Es muy útil."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "箸の使い方を教えてください。",
+        "reading": "はしのつかいかたをおしえてください。",
+        "question": "¿Qué pide que le enseñen?",
+        "answer": "cómo usar los palillos",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "kanji": "作",
+    "level": "N4",
+    "meanings": [
+      "hacer",
+      "fabricar"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "kunyomi": [
+      "つく"
+    ],
+    "radicals": [
+      "人",
+      "乍"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una persona fabricando algo con sus manos.",
+    "vocabulary": [
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "meaning": "hacer, preparar",
+        "example": "母が美味しい料理を作ってくれました。",
+        "exampleReading": "ははがおいしいりょうりをつくってくれました。",
+        "exampleTranslation": "Mi madre me preparó una comida deliciosa.",
+        "containsUnknownKanji": [
+          "母",
+          "美",
+          "味",
+          "料",
+          "理"
+        ]
+      },
+      {
+        "word": "作品",
+        "reading": "さくひん",
+        "meaning": "obra (artística)",
+        "example": "この作品が一番好きです。",
+        "exampleReading": "このさくひんがいちばんすきです。",
+        "exampleTranslation": "Esta obra es mi favorita.",
+        "containsUnknownKanji": [
+          "品",
+          "番",
+          "好"
+        ]
+      },
+      {
+        "word": "作家",
+        "reading": "さっか",
+        "meaning": "escritor, autor",
+        "example": "有名な作家の本を読んでいます。",
+        "exampleReading": "ゆうめいなさっかのほんをよんでいます。",
+        "exampleTranslation": "Estoy leyendo un libro de un autor famoso.",
+        "containsUnknownKanji": [
+          "有",
+          "名",
+          "本",
+          "読"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "何を作っているんですか。",
+          "reading": "なにをつくっているんですか。",
+          "translation": "¿Qué estás preparando?"
+        },
+        {
+          "speaker": "B",
+          "text": "カレーです。よかったら一緒に食べませんか。",
+          "reading": "カレーです。よかったらいっしょにたべませんか。",
+          "translation": "Curry. Si quieres, ¿comemos juntos?"
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "手紙を作りました。",
+        "reading": "てがみをつくりました。",
+        "question": "¿Qué preparó?",
+        "answer": "una carta",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "kanji": "住",
+    "level": "N4",
+    "meanings": [
+      "vivir",
+      "residir"
+    ],
+    "onyomi": [
+      "ジュウ"
+    ],
+    "kunyomi": [
+      "す"
+    ],
+    "radicals": [
+      "人",
+      "主"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una persona como dueño: residir.",
+    "vocabulary": [
+      {
+        "word": "住む",
+        "reading": "すむ",
+        "meaning": "vivir, residir",
+        "example": "東京に十年住んでいます。",
+        "exampleReading": "とうきょうにじゅうねんすんでいます。",
+        "exampleTranslation": "Llevo diez años viviendo en Tokio.",
+        "containsUnknownKanji": [
+          "東",
+          "京",
+          "年"
+        ]
+      },
+      {
+        "word": "住所",
+        "reading": "じゅうしょ",
+        "meaning": "dirección",
+        "example": "住所を教えてください。",
+        "exampleReading": "じゅうしょをおしえてください。",
+        "exampleTranslation": "Dame tu dirección, por favor.",
+        "containsUnknownKanji": [
+          "所",
+          "教"
+        ]
+      },
+      {
+        "word": "住民",
+        "reading": "じゅうみん",
+        "meaning": "residente",
+        "example": "町の住民が集まりました。",
+        "exampleReading": "まちのじゅうみんがあつまりました。",
+        "exampleTranslation": "Los residentes del pueblo se reunieron.",
+        "containsUnknownKanji": [
+          "町",
+          "民",
+          "集"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "どちらに住んでいらっしゃいますか。",
+          "reading": "どちらにすんでいらっしゃいますか。",
+          "translation": "¿Dónde vive usted?"
+        },
+        {
+          "speaker": "B",
+          "text": "横浜に住んでいます。駅の近くです。",
+          "reading": "よこはまにすんでいます。えきのちかくです。",
+          "translation": "Vivo en Yokohama. Cerca de la estación."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "以前は京都に住んでいました。",
+        "reading": "いぜんはきょうとにすんでいました。",
+        "question": "¿Dónde vivía antes?",
+        "answer": "京都",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "kanji": "借",
+    "level": "N4",
+    "meanings": [
+      "pedir prestado"
+    ],
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "radicals": [
+      "人",
+      "昔"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Una persona en tiempos pasados pedía prestado.",
+    "vocabulary": [
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "meaning": "pedir prestado",
+        "example": "図書館で本を借りました。",
+        "exampleReading": "としょかんでほんをかりました。",
+        "exampleTranslation": "Pedí prestado un libro en la biblioteca.",
+        "containsUnknownKanji": [
+          "図",
+          "書",
+          "館",
+          "本"
+        ]
+      },
+      {
+        "word": "借金",
+        "reading": "しゃっきん",
+        "meaning": "deuda",
+        "example": "借金を返しました。",
+        "exampleReading": "しゃっきんをかえしました。",
+        "exampleTranslation": "Pagué la deuda.",
+        "containsUnknownKanji": [
+          "金",
+          "返"
+        ]
+      },
+      {
+        "word": "借家",
+        "reading": "しゃくや",
+        "meaning": "casa alquilada",
+        "example": "ここは借家です。",
+        "exampleReading": "ここはしゃくやです。",
+        "exampleTranslation": "Esta es una casa alquilada.",
+        "containsUnknownKanji": [
+          "家"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "すみません、ペンを借りてもいいですか。",
+          "reading": "すみません、ペンをかりてもいいですか。",
+          "translation": "Disculpe, ¿puedo pedirle prestada una pluma?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、どうぞ。使ったら返してください。",
+          "reading": "はい、どうぞ。つかったらかえしてください。",
+          "translation": "Sí, adelante. Cuando la use, devuélvala."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "友達からお金を借りました。",
+        "reading": "ともだちからおかねをかりました。",
+        "question": "¿Qué pidió prestado?",
+        "answer": "dinero",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "kanji": "貸",
+    "level": "N4",
+    "meanings": [
+      "prestar"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "か"
+    ],
+    "radicals": [
+      "貝",
+      "代"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Dar dinero como intercambio: prestar.",
+    "vocabulary": [
+      {
+        "word": "貸す",
+        "reading": "かす",
+        "meaning": "prestar",
+        "example": "傘を貸してくれませんか。",
+        "exampleReading": "かさをかしてくれませんか。",
+        "exampleTranslation": "¿Me prestas un paraguas?",
+        "containsUnknownKanji": [
+          "傘"
+        ]
+      },
+      {
+        "word": "貸し出し",
+        "reading": "かしだし",
+        "meaning": "préstamo (servicio)",
+        "example": "本の貸し出しは二週間です。",
+        "exampleReading": "ほんのかしだしはにしゅうかんです。",
+        "exampleTranslation": "El préstamo de libros es por dos semanas.",
+        "containsUnknownKanji": [
+          "出",
+          "本",
+          "週",
+          "間"
+        ]
+      },
+      {
+        "word": "賃貸",
+        "reading": "ちんたい",
+        "meaning": "alquiler",
+        "example": "賃貸アパートを探しています。",
+        "exampleReading": "ちんたいアパートをさがしています。",
+        "exampleTranslation": "Estoy buscando un apartamento de alquiler.",
+        "containsUnknownKanji": [
+          "賃",
+          "探"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この本、とても面白いですよ。貸しましょうか。",
+          "reading": "このほん、とてもおもしろいですよ。かしましょうか。",
+          "translation": "Este libro es muy interesante. ¿Te lo presto?"
+        },
+        {
+          "speaker": "B",
+          "text": "本当ですか。ぜひお願いします。",
+          "reading": "ほんとうですか。ぜひおねがいします。",
+          "translation": "¿De verdad? Por favor."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "辞書を貸してあげました。",
+        "reading": "じしょをかしてあげました。",
+        "question": "¿Qué prestó?",
+        "answer": "un diccionario",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "kanji": "返",
+    "level": "N4",
+    "meanings": [
+      "devolver",
+      "regresar"
+    ],
+    "onyomi": [
+      "ヘン"
+    ],
+    "kunyomi": [
+      "かえ"
+    ],
+    "radicals": [
+      "辶",
+      "反"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Caminar hacia atrás para devolver algo.",
+    "vocabulary": [
+      {
+        "word": "返す",
+        "reading": "かえす",
+        "meaning": "devolver",
+        "example": "来週までに本を返します。",
+        "exampleReading": "らいしゅうまでにほんをかえします。",
+        "exampleTranslation": "Devolveré el libro para la próxima semana.",
+        "containsUnknownKanji": [
+          "来",
+          "週",
+          "本"
+        ]
+      },
+      {
+        "word": "返事",
+        "reading": "へんじ",
+        "meaning": "respuesta",
+        "example": "メールの返事をまだもらっていません。",
+        "exampleReading": "メールのへんじをまだもらっていません。",
+        "exampleTranslation": "Todavía no he recibido respuesta al correo.",
+        "containsUnknownKanji": [
+          "事"
+        ]
+      },
+      {
+        "word": "返却",
+        "reading": "へんきゃく",
+        "meaning": "devolución (formal)",
+        "example": "本の返却期限を過ぎました。",
+        "exampleReading": "ほんのへんきゃくきげんをすぎました。",
+        "exampleTranslation": "Pasé el plazo de devolución del libro.",
+        "containsUnknownKanji": [
+          "却",
+          "本",
+          "期",
+          "限",
+          "過"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "先週借りた傘、返すのを忘れていました。ごめんなさい。",
+          "reading": "せんしゅうかりたかさ、かえすのをわすれていました。ごめんなさい。",
+          "translation": "Se me olvidó devolver el paraguas que te presté la semana pasada. Perdón."
+        },
+        {
+          "speaker": "B",
+          "text": "大丈夫ですよ。いつでもいいです。",
+          "reading": "だいじょうぶですよ。いつでもいいです。",
+          "translation": "Tranquilo. Cuando puedas."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "まだ返事をもらっていません。",
+        "reading": "まだへんじをもらっていません。",
+        "question": "¿Qué aún no ha recibido?",
+        "answer": "respuesta",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "kanji": "教",
+    "level": "N4",
+    "meanings": [
+      "enseñar"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おし",
+      "おそ"
+    ],
+    "radicals": [
+      "攵",
+      "孝"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Guiar al niño con cuidado: enseñar.",
+    "vocabulary": [
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "enseñar",
+        "example": "日本語を教えています。",
+        "exampleReading": "にほんごをおしえています。",
+        "exampleTranslation": "Enseño japonés.",
+        "containsUnknownKanji": [
+          "日",
+          "本",
+          "語"
+        ]
+      },
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "aula",
+        "example": "教室は三階にあります。",
+        "exampleReading": "きょうしつはさんかいにあります。",
+        "exampleTranslation": "El aula está en el tercer piso.",
+        "containsUnknownKanji": [
+          "室",
+          "階"
+        ]
+      },
+      {
+        "word": "宗教",
+        "reading": "しゅうきょう",
+        "meaning": "religión",
+        "example": "宗教に興味があります。",
+        "exampleReading": "しゅうきょうにきょうみがあります。",
+        "exampleTranslation": "Tengo interés en la religión.",
+        "containsUnknownKanji": [
+          "宗",
+          "興",
+          "味"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この漢字の読み方を教えてもらえますか。",
+          "reading": "このかんじのよみかたをおしえてもらえますか。",
+          "translation": "¿Me puedes enseñar cómo se lee este kanji?"
+        },
+        {
+          "speaker": "B",
+          "text": "いいですよ。これは「桜」で、「さくら」と読みます。",
+          "reading": "いいですよ。これは「さくら」で、「さくら」とよみます。",
+          "translation": "Claro. Este es 桜 y se lee sakura."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "先生が数学を教えてくれます。",
+        "reading": "せんせいがすうがくをおしえてくれます。",
+        "question": "¿Qué le enseña el maestro?",
+        "answer": "matemáticas",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "kanji": "勉",
+    "level": "N4",
+    "meanings": [
+      "esforzarse"
+    ],
+    "onyomi": [
+      "ベン"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "力",
+      "免"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Poner fuerza para liberarse de la ignorancia: esforzarse.",
+    "vocabulary": [
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "estudio",
+        "example": "日本語の勉強は楽しいです。",
+        "exampleReading": "にほんごのべんきょうはたのしいです。",
+        "exampleTranslation": "Estudiar japonés es divertido.",
+        "containsUnknownKanji": [
+          "日",
+          "本",
+          "語",
+          "強",
+          "楽"
+        ]
+      },
+      {
+        "word": "勉強する",
+        "reading": "べんきょうする",
+        "meaning": "estudiar",
+        "example": "毎日二時間勉強しています。",
+        "exampleReading": "まいにちにじかんべんきょうしています。",
+        "exampleTranslation": "Estudio dos horas al día.",
+        "containsUnknownKanji": [
+          "毎",
+          "日",
+          "時",
+          "間",
+          "強"
+        ]
+      },
+      {
+        "word": "勤勉",
+        "reading": "きんべん",
+        "meaning": "diligencia",
+        "example": "彼は勤勉な学生です。",
+        "exampleReading": "かれはきんべんながくせいです。",
+        "exampleTranslation": "Él es un estudiante diligente.",
+        "containsUnknownKanji": [
+          "勤",
+          "彼",
+          "学",
+          "生"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "試験のために毎日勉強しているんですか。",
+          "reading": "しけんのためにまいにちべんきょうしているんですか。",
+          "translation": "¿Estudias todos los días para el examen?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、合格するまで頑張ります。",
+          "reading": "はい、ごうかくするまでがんばります。",
+          "translation": "Sí, voy a esforzarme hasta aprobar."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "図書館で勉強しています。",
+        "reading": "としょかんでべんきょうしています。",
+        "question": "¿Dónde estudia?",
+        "answer": "図書館",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "kanji": "強",
+    "level": "N4",
+    "meanings": [
+      "fuerte"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "つよ"
+    ],
+    "radicals": [
+      "弓",
+      "虫"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Un arco tenso listo para disparar: fuerte.",
+    "vocabulary": [
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "fuerte",
+        "example": "彼はとても強い選手です。",
+        "exampleReading": "かれはとてもつよいせんしゅです。",
+        "exampleTranslation": "Él es un jugador muy fuerte.",
+        "containsUnknownKanji": [
+          "彼",
+          "選",
+          "手"
+        ]
+      },
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "estudio",
+        "example": "今夜勉強します。",
+        "exampleReading": "こんやべんきょうします。",
+        "exampleTranslation": "Voy a estudiar esta noche.",
+        "containsUnknownKanji": [
+          "今",
+          "夜",
+          "勉"
+        ]
+      },
+      {
+        "word": "強調",
+        "reading": "きょうちょう",
+        "meaning": "énfasis",
+        "example": "先生はその点を強調しました。",
+        "exampleReading": "せんせいはそのてんをきょうちょうしました。",
+        "exampleTranslation": "El profesor enfatizó ese punto.",
+        "containsUnknownKanji": [
+          "先",
+          "生",
+          "点",
+          "調"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "今日は風が強いですね。",
+          "reading": "きょうはかぜがつよいですね。",
+          "translation": "Hoy hace mucho viento, ¿verdad?"
+        },
+        {
+          "speaker": "B",
+          "text": "本当ですね。帽子が飛びそうです。",
+          "reading": "ほんとうですね。ぼうしがとびそうです。",
+          "translation": "De verdad. Parece que se va a volar el sombrero."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "雨が強くなってきました。",
+        "reading": "あめがつよくなってきました。",
+        "question": "¿Qué está pasando con la lluvia?",
+        "answer": "está arreciando",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "kanji": "弱",
+    "level": "N4",
+    "meanings": [
+      "débil"
+    ],
+    "onyomi": [
+      "ジャク"
+    ],
+    "kunyomi": [
+      "よわ"
+    ],
+    "radicals": [
+      "弓"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Dos arcos rotos: debilidad.",
+    "vocabulary": [
+      {
+        "word": "弱い",
+        "reading": "よわい",
+        "meaning": "débil",
+        "example": "今日は体が弱くて、走れません。",
+        "exampleReading": "きょうはからだがよわくて、はしれません。",
+        "exampleTranslation": "Hoy me siento débil y no puedo correr.",
+        "containsUnknownKanji": [
+          "今",
+          "日",
+          "体",
+          "走"
+        ]
+      },
+      {
+        "word": "弱点",
+        "reading": "じゃくてん",
+        "meaning": "debilidad, punto débil",
+        "example": "数学が私の弱点です。",
+        "exampleReading": "すうがくがわたしのじゃくてんです。",
+        "exampleTranslation": "Las matemáticas son mi punto débil.",
+        "containsUnknownKanji": [
+          "数",
+          "学",
+          "私",
+          "点"
+        ]
+      },
+      {
+        "word": "弱虫",
+        "reading": "よわむし",
+        "meaning": "cobarde",
+        "example": "弱虫と呼ばれたくない。",
+        "exampleReading": "よわむしとよばれたくない。",
+        "exampleTranslation": "No quiero que me llamen cobarde.",
+        "containsUnknownKanji": [
+          "虫",
+          "呼"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "電波が弱いですね。",
+          "reading": "でんぱがよわいですね。",
+          "translation": "La señal está débil, ¿no?"
+        },
+        {
+          "speaker": "B",
+          "text": "ええ、ここは電波が届きにくい場所なんです。",
+          "reading": "ええ、ここはでんぱがとどきにくいばしょなんです。",
+          "translation": "Sí, aquí es un lugar donde llega mal la señal."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "風邪で体が弱っています。",
+        "reading": "かぜでからだがよわっています。",
+        "question": "¿Por qué está débil?",
+        "answer": "por un resfriado",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "kanji": "重",
+    "level": "N4",
+    "meanings": [
+      "pesado",
+      "importante"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "おも",
+      "かさ"
+    ],
+    "radicals": [
+      "里"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Mil kilos sobre el pueblo: lo pesado.",
+    "vocabulary": [
+      {
+        "word": "重い",
+        "reading": "おもい",
+        "meaning": "pesado",
+        "example": "この荷物はとても重いです。",
+        "exampleReading": "このにもつはとてもおもいです。",
+        "exampleTranslation": "Este equipaje es muy pesado.",
+        "containsUnknownKanji": [
+          "荷",
+          "物"
+        ]
+      },
+      {
+        "word": "重要",
+        "reading": "じゅうよう",
+        "meaning": "importante",
+        "example": "これは重要な問題です。",
+        "exampleReading": "これはじゅうようなもんだいです。",
+        "exampleTranslation": "Este es un problema importante.",
+        "containsUnknownKanji": [
+          "要",
+          "問",
+          "題"
+        ]
+      },
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "meaning": "peso corporal",
+        "example": "体重が少し増えました。",
+        "exampleReading": "たいじゅうがすこしふえました。",
+        "exampleTranslation": "Subí un poco de peso.",
+        "containsUnknownKanji": [
+          "体",
+          "少",
+          "増"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "そのスーツケース、手伝いましょうか。重そうですね。",
+          "reading": "そのスーツケース、てつだいましょうか。おもそうですね。",
+          "translation": "¿Te ayudo con esa maleta? Parece pesada."
+        },
+        {
+          "speaker": "B",
+          "text": "ありがとうございます。本当に重いんです。",
+          "reading": "ありがとうございます。ほんとうにおもいんです。",
+          "translation": "Gracias. De verdad está pesada."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "重要な会議があります。",
+        "reading": "じゅうようなかいぎがあります。",
+        "question": "¿Qué tipo de reunión hay?",
+        "answer": "importante",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "kanji": "軽",
+    "level": "N4",
+    "meanings": [
+      "ligero"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "かる"
+    ],
+    "radicals": [
+      "車",
+      "圣"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Un coche que apenas pesa: ligero.",
+    "vocabulary": [
+      {
+        "word": "軽い",
+        "reading": "かるい",
+        "meaning": "ligero",
+        "example": "このカバンは軽くて便利です。",
+        "exampleReading": "このカバンはかるくてべんりです。",
+        "exampleTranslation": "Esta bolsa es ligera y práctica.",
+        "containsUnknownKanji": [
+          "便",
+          "利"
+        ]
+      },
+      {
+        "word": "軽食",
+        "reading": "けいしょく",
+        "meaning": "comida ligera",
+        "example": "カフェで軽食を取りました。",
+        "exampleReading": "カフェでけいしょくをとりました。",
+        "exampleTranslation": "Tomé una comida ligera en el café.",
+        "containsUnknownKanji": [
+          "食",
+          "取"
+        ]
+      },
+      {
+        "word": "軽自動車",
+        "reading": "けいじどうしゃ",
+        "meaning": "coche compacto",
+        "example": "軽自動車を買いました。",
+        "exampleReading": "けいじどうしゃをかいました。",
+        "exampleTranslation": "Compré un coche compacto.",
+        "containsUnknownKanji": [
+          "自",
+          "動",
+          "車",
+          "買"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "このパソコン、軽いですね。",
+          "reading": "このパソコン、かるいですね。",
+          "translation": "Esta laptop es ligera, ¿no?"
+        },
+        {
+          "speaker": "B",
+          "text": "ええ、出張が多いので軽いのを選びました。",
+          "reading": "ええ、しゅっちょうがおおいのでかるいのをえらびました。",
+          "translation": "Sí, como viajo mucho por trabajo, elegí una ligera."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "朝は軽いものしか食べません。",
+        "reading": "あさはかるいものしかたべません。",
+        "question": "¿Qué come en la mañana?",
+        "answer": "solo cosas ligeras",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "kanji": "広",
+    "level": "N4",
+    "meanings": [
+      "ancho",
+      "amplio"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ"
+    ],
+    "radicals": [
+      "广",
+      "厶"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Un techo que se extiende mucho: amplio.",
+    "vocabulary": [
+      {
+        "word": "広い",
+        "reading": "ひろい",
+        "meaning": "amplio, espacioso",
+        "example": "新しい家はとても広いです。",
+        "exampleReading": "あたらしいいえはとてもひろいです。",
+        "exampleTranslation": "La casa nueva es muy espaciosa.",
+        "containsUnknownKanji": [
+          "新",
+          "家"
+        ]
+      },
+      {
+        "word": "広場",
+        "reading": "ひろば",
+        "meaning": "plaza",
+        "example": "広場で子供たちが遊んでいます。",
+        "exampleReading": "ひろばでこどもたちがあそんでいます。",
+        "exampleTranslation": "Los niños juegan en la plaza.",
+        "containsUnknownKanji": [
+          "場",
+          "子",
+          "供",
+          "遊"
+        ]
+      },
+      {
+        "word": "広告",
+        "reading": "こうこく",
+        "meaning": "anuncio, publicidad",
+        "example": "テレビの広告が多すぎます。",
+        "exampleReading": "テレビのこうこくがおおすぎます。",
+        "exampleTranslation": "Hay demasiados anuncios en la tele.",
+        "containsUnknownKanji": [
+          "告",
+          "多"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この公園、広くて気持ちいいですね。",
+          "reading": "このこうえん、ひろくてきもちいいですね。",
+          "translation": "Este parque es amplio y se siente bien."
+        },
+        {
+          "speaker": "B",
+          "text": "週末はよくここで散歩します。",
+          "reading": "しゅうまつはよくここでさんぽします。",
+          "translation": "Los fines de semana suelo pasear aquí."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "もっと広い部屋が欲しいです。",
+        "reading": "もっとひろいへやがほしいです。",
+        "question": "¿Qué quiere?",
+        "answer": "un cuarto más amplio",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "kanji": "狭",
+    "level": "N4",
+    "meanings": [
+      "estrecho"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "せま"
+    ],
+    "radicals": [
+      "犭",
+      "夾"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Un perro atrapado entre paredes: estrecho.",
+    "vocabulary": [
+      {
+        "word": "狭い",
+        "reading": "せまい",
+        "meaning": "estrecho",
+        "example": "この道は狭いので気をつけて。",
+        "exampleReading": "このみちはせまいのできをつけて。",
+        "exampleTranslation": "Esta calle es estrecha, ten cuidado.",
+        "containsUnknownKanji": [
+          "道",
+          "気"
+        ]
+      },
+      {
+        "word": "狭小",
+        "reading": "きょうしょう",
+        "meaning": "estrechez",
+        "example": "狭小住宅が増えています。",
+        "exampleReading": "きょうしょうじゅうたくがふえています。",
+        "exampleTranslation": "Están aumentando las casas pequeñas.",
+        "containsUnknownKanji": [
+          "小",
+          "住",
+          "宅",
+          "増"
+        ]
+      },
+      {
+        "word": "手狭",
+        "reading": "てぜま",
+        "meaning": "demasiado pequeño (para uso)",
+        "example": "家が手狭になりました。",
+        "exampleReading": "いえがてぜまになりました。",
+        "exampleTranslation": "La casa se nos quedó chica.",
+        "containsUnknownKanji": [
+          "手",
+          "家"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この部屋、ちょっと狭くないですか。",
+          "reading": "このへや、ちょっとせまくないですか。",
+          "translation": "Este cuarto es un poco estrecho, ¿no?"
+        },
+        {
+          "speaker": "B",
+          "text": "そうですね。もっと大きい部屋を探しましょう。",
+          "reading": "そうですね。もっとおおきいへやをさがしましょう。",
+          "translation": "Sí. Busquemos un cuarto más grande."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "東京のアパートは狭いです。",
+        "reading": "とうきょうのアパートはせまいです。",
+        "question": "¿Cómo son los apartamentos en Tokio?",
+        "answer": "estrechos",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "kanji": "便",
+    "level": "N4",
+    "meanings": [
+      "conveniente",
+      "correo"
+    ],
+    "onyomi": [
+      "ベン",
+      "ビン"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "人",
+      "更"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Una persona que hace las cosas fáciles: conveniente.",
+    "vocabulary": [
+      {
+        "word": "便利",
+        "reading": "べんり",
+        "meaning": "conveniente",
+        "example": "駅が近くて便利です。",
+        "exampleReading": "えきがちかくてべんりです。",
+        "exampleTranslation": "La estación está cerca y es conveniente.",
+        "containsUnknownKanji": [
+          "駅",
+          "近",
+          "利"
+        ]
+      },
+      {
+        "word": "不便",
+        "reading": "ふべん",
+        "meaning": "inconveniente",
+        "example": "田舎は不便なこともあります。",
+        "exampleReading": "いなかはふべんなこともあります。",
+        "exampleTranslation": "El campo también tiene sus inconvenientes.",
+        "containsUnknownKanji": [
+          "不",
+          "田",
+          "舎"
+        ]
+      },
+      {
+        "word": "航空便",
+        "reading": "こうくうびん",
+        "meaning": "correo aéreo",
+        "example": "航空便で送ってください。",
+        "exampleReading": "こうくうびんでおくってください。",
+        "exampleTranslation": "Envíelo por correo aéreo, por favor.",
+        "containsUnknownKanji": [
+          "航",
+          "空",
+          "送"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "このアプリ、本当に便利ですよ。",
+          "reading": "このアプリ、ほんとうにべんりですよ。",
+          "translation": "Esta aplicación es realmente útil."
+        },
+        {
+          "speaker": "B",
+          "text": "そうですか。じゃあ、私もダウンロードしてみます。",
+          "reading": "そうですか。じゃあ、わたしもダウンロードしてみます。",
+          "translation": "¿Ah sí? Entonces yo también la voy a descargar."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "コンビニは24時間開いていて便利です。",
+        "reading": "コンビニはにじゅうよじかんあいていてべんりです。",
+        "question": "¿Por qué es conveniente el konbini?",
+        "answer": "abre 24 horas",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "kanji": "利",
+    "level": "N4",
+    "meanings": [
+      "beneficio",
+      "ventaja"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "き"
+    ],
+    "radicals": [
+      "禾",
+      "刂"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Cortar el grano para obtener beneficio.",
+    "vocabulary": [
+      {
+        "word": "便利",
+        "reading": "べんり",
+        "meaning": "conveniente",
+        "example": "インターネットは便利です。",
+        "exampleReading": "インターネットはべんりです。",
+        "exampleTranslation": "Internet es conveniente.",
+        "containsUnknownKanji": [
+          "便"
+        ]
+      },
+      {
+        "word": "利用",
+        "reading": "りよう",
+        "meaning": "uso, utilización",
+        "example": "図書館を利用しています。",
+        "exampleReading": "としょかんをりようしています。",
+        "exampleTranslation": "Uso la biblioteca.",
+        "containsUnknownKanji": [
+          "図",
+          "書",
+          "館"
+        ]
+      },
+      {
+        "word": "権利",
+        "reading": "けんり",
+        "meaning": "derecho",
+        "example": "人には休む権利があります。",
+        "exampleReading": "ひとにはやすむけんりがあります。",
+        "exampleTranslation": "Las personas tienen derecho a descansar.",
+        "containsUnknownKanji": [
+          "権",
+          "休"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "電車とバス、どちらが便利ですか。",
+          "reading": "でんしゃとバス、どちらがべんりですか。",
+          "translation": "¿Qué es más conveniente, el tren o el autobús?"
+        },
+        {
+          "speaker": "B",
+          "text": "電車の方が早いので、電車を利用する人が多いです。",
+          "reading": "でんしゃのほうがはやいので、でんしゃをりようするひとがおおいです。",
+          "translation": "El tren es más rápido, así que mucha gente lo usa."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "バスを利用しています。",
+        "reading": "バスをりようしています。",
+        "question": "¿Qué medio usa?",
+        "answer": "el autobús",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "kanji": "質",
+    "level": "N4",
+    "meanings": [
+      "calidad",
+      "pregunta"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "貝",
+      "斤"
+    ],
+    "strokeCount": 15,
+    "mnemonic": "Dos hachas sobre un tesoro: evaluar la calidad.",
+    "vocabulary": [
+      {
+        "word": "質問",
+        "reading": "しつもん",
+        "meaning": "pregunta",
+        "example": "質問があります。",
+        "exampleReading": "しつもんがあります。",
+        "exampleTranslation": "Tengo una pregunta.",
+        "containsUnknownKanji": [
+          "問"
+        ]
+      },
+      {
+        "word": "品質",
+        "reading": "ひんしつ",
+        "meaning": "calidad",
+        "example": "この商品の品質はいいです。",
+        "exampleReading": "このしょうひんのひんしつはいいです。",
+        "exampleTranslation": "La calidad de este producto es buena.",
+        "containsUnknownKanji": [
+          "品",
+          "商"
+        ]
+      },
+      {
+        "word": "性質",
+        "reading": "せいしつ",
+        "meaning": "naturaleza, carácter",
+        "example": "彼の性質は優しい。",
+        "exampleReading": "かれのせいしつはやさしい。",
+        "exampleTranslation": "Su carácter es amable.",
+        "containsUnknownKanji": [
+          "性",
+          "彼",
+          "優"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "授業の後で質問してもいいですか。",
+          "reading": "じゅぎょうのあとでしつもんしてもいいですか。",
+          "translation": "¿Puedo hacer una pregunta después de la clase?"
+        },
+        {
+          "speaker": "B",
+          "text": "もちろんです。何でも聞いてください。",
+          "reading": "もちろんです。なんでもきいてください。",
+          "translation": "Por supuesto. Pregunta lo que quieras."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "先生に質問しました。",
+        "reading": "せんせいにしつもんしました。",
+        "question": "¿A quién le preguntó?",
+        "answer": "al maestro",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "kanji": "問",
+    "level": "N4",
+    "meanings": [
+      "preguntar",
+      "problema"
+    ],
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "と"
+    ],
+    "radicals": [
+      "門",
+      "口"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Una boca en la puerta: preguntar desde afuera.",
+    "vocabulary": [
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problema, asunto",
+        "example": "この問題は難しいです。",
+        "exampleReading": "このもんだいはむずかしいです。",
+        "exampleTranslation": "Este problema es difícil.",
+        "containsUnknownKanji": [
+          "題",
+          "難"
+        ]
+      },
+      {
+        "word": "質問",
+        "reading": "しつもん",
+        "meaning": "pregunta",
+        "example": "先生に質問しました。",
+        "exampleReading": "せんせいにしつもんしました。",
+        "exampleTranslation": "Le pregunté al profesor.",
+        "containsUnknownKanji": [
+          "質",
+          "先",
+          "生"
+        ]
+      },
+      {
+        "word": "訪問",
+        "reading": "ほうもん",
+        "meaning": "visita",
+        "example": "社長の家を訪問しました。",
+        "exampleReading": "しゃちょうのいえをほうもんしました。",
+        "exampleTranslation": "Visité la casa del presidente.",
+        "containsUnknownKanji": [
+          "訪",
+          "社",
+          "長",
+          "家"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "何か問題がありましたか。",
+          "reading": "なにかもんだいがありましたか。",
+          "translation": "¿Hubo algún problema?"
+        },
+        {
+          "speaker": "B",
+          "text": "いいえ、特に問題はありません。",
+          "reading": "いいえ、とくにもんだいはありません。",
+          "translation": "No, no hay ningún problema en particular."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "問題を解いてください。",
+        "reading": "もんだいをといてください。",
+        "question": "¿Qué le piden hacer?",
+        "answer": "resolver el problema",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "kanji": "答",
+    "level": "N4",
+    "meanings": [
+      "responder"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こた"
+    ],
+    "radicals": [
+      "⺮",
+      "合"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Bajo el bambú todo encaja: la respuesta correcta.",
+    "vocabulary": [
+      {
+        "word": "答える",
+        "reading": "こたえる",
+        "meaning": "responder",
+        "example": "質問に答えてください。",
+        "exampleReading": "しつもんにこたえてください。",
+        "exampleTranslation": "Responde a la pregunta, por favor.",
+        "containsUnknownKanji": [
+          "質",
+          "問"
+        ]
+      },
+      {
+        "word": "答え",
+        "reading": "こたえ",
+        "meaning": "respuesta",
+        "example": "答えが分かりません。",
+        "exampleReading": "こたえがわかりません。",
+        "exampleTranslation": "No sé la respuesta.",
+        "containsUnknownKanji": [
+          "分"
+        ]
+      },
+      {
+        "word": "回答",
+        "reading": "かいとう",
+        "meaning": "respuesta (formal)",
+        "example": "アンケートに回答しました。",
+        "exampleReading": "アンケートにかいとうしました。",
+        "exampleTranslation": "Respondí la encuesta.",
+        "containsUnknownKanji": [
+          "回"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この問題の答えが分かりますか。",
+          "reading": "このもんだいのこたえがわかりますか。",
+          "translation": "¿Sabes la respuesta de este problema?"
+        },
+        {
+          "speaker": "B",
+          "text": "少し考えさせてください。",
+          "reading": "すこしかんがえさせてください。",
+          "translation": "Déjame pensar un momento."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "メールに答えました。",
+        "reading": "メールにこたえました。",
+        "question": "¿A qué respondió?",
+        "answer": "a un correo",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "kanji": "考",
+    "level": "N4",
+    "meanings": [
+      "pensar",
+      "considerar"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かんが"
+    ],
+    "radicals": [
+      "耂"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Un anciano con experiencia: pensar profundamente.",
+    "vocabulary": [
+      {
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "pensar, considerar",
+        "example": "将来について考えています。",
+        "exampleReading": "しょうらいについてかんがえています。",
+        "exampleTranslation": "Estoy pensando en el futuro.",
+        "containsUnknownKanji": [
+          "将",
+          "来"
+        ]
+      },
+      {
+        "word": "考え",
+        "reading": "かんがえ",
+        "meaning": "idea, pensamiento",
+        "example": "いい考えがあります。",
+        "exampleReading": "いいかんがえがあります。",
+        "exampleTranslation": "Tengo una buena idea.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "参考",
+        "reading": "さんこう",
+        "meaning": "referencia",
+        "example": "この本を参考にしてください。",
+        "exampleReading": "このほんをさんこうにしてください。",
+        "exampleTranslation": "Usa este libro como referencia.",
+        "containsUnknownKanji": [
+          "参",
+          "本"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "どう思いますか。",
+          "reading": "どうおもいますか。",
+          "translation": "¿Qué piensas?"
+        },
+        {
+          "speaker": "B",
+          "text": "ちょっと考えさせてください。すぐには答えられません。",
+          "reading": "ちょっとかんがえさせてください。すぐにはこたえられません。",
+          "translation": "Déjame pensarlo un poco. No puedo responder de inmediato."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "よく考えてから決めます。",
+        "reading": "よくかんがえてからきめます。",
+        "question": "¿Qué hará antes de decidir?",
+        "answer": "pensarlo bien",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "kanji": "思",
+    "level": "N4",
+    "meanings": [
+      "pensar",
+      "creer"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "おも"
+    ],
+    "radicals": [
+      "田",
+      "心"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "El campo del corazón donde nacen los pensamientos.",
+    "vocabulary": [
+      {
+        "word": "思う",
+        "reading": "おもう",
+        "meaning": "pensar, creer",
+        "example": "彼は来ないと思います。",
+        "exampleReading": "かれはこないとおもいます。",
+        "exampleTranslation": "Creo que no va a venir.",
+        "containsUnknownKanji": [
+          "彼",
+          "来"
+        ]
+      },
+      {
+        "word": "思い出",
+        "reading": "おもいで",
+        "meaning": "recuerdo",
+        "example": "子供の頃の思い出です。",
+        "exampleReading": "こどものころのおもいでです。",
+        "exampleTranslation": "Es un recuerdo de la infancia.",
+        "containsUnknownKanji": [
+          "子",
+          "供",
+          "頃",
+          "出"
+        ]
+      },
+      {
+        "word": "不思議",
+        "reading": "ふしぎ",
+        "meaning": "misterioso",
+        "example": "不思議な話を聞きました。",
+        "exampleReading": "ふしぎなはなしをききました。",
+        "exampleTranslation": "Escuché una historia misteriosa.",
+        "containsUnknownKanji": [
+          "不",
+          "議",
+          "話",
+          "聞"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この映画、どう思いましたか。",
+          "reading": "このえいが、どうおもいましたか。",
+          "translation": "¿Qué te pareció esta película?"
+        },
+        {
+          "speaker": "B",
+          "text": "とても面白いと思いました。友達にもすすめたいです。",
+          "reading": "とてもおもしろいとおもいました。ともだちにもすすめたいです。",
+          "translation": "Me pareció muy interesante. Quiero recomendársela a mis amigos también."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "明日は雨が降ると思います。",
+        "reading": "あしたはあめがふるとおもいます。",
+        "question": "¿Qué cree que pasará mañana?",
+        "answer": "que lloverá",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "kanji": "知",
+    "level": "N4",
+    "meanings": [
+      "saber",
+      "conocer"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "し"
+    ],
+    "radicals": [
+      "矢",
+      "口"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Una flecha que sale de la boca: transmitir conocimiento.",
+    "vocabulary": [
+      {
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "saber, conocer",
+        "example": "その話は知りませんでした。",
+        "exampleReading": "そのはなしはしりませんでした。",
+        "exampleTranslation": "No sabía esa historia.",
+        "containsUnknownKanji": [
+          "話"
+        ]
+      },
+      {
+        "word": "知り合い",
+        "reading": "しりあい",
+        "meaning": "conocido",
+        "example": "彼は私の知り合いです。",
+        "exampleReading": "かれはわたしのしりあいです。",
+        "exampleTranslation": "Él es un conocido mío.",
+        "containsUnknownKanji": [
+          "彼",
+          "私",
+          "合"
+        ]
+      },
+      {
+        "word": "知識",
+        "reading": "ちしき",
+        "meaning": "conocimiento",
+        "example": "彼女は知識が豊富です。",
+        "exampleReading": "かのじょはちしきがほうふです。",
+        "exampleTranslation": "Ella tiene mucho conocimiento.",
+        "containsUnknownKanji": [
+          "識",
+          "彼",
+          "女",
+          "豊",
+          "富"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "田中さんを知っていますか。",
+          "reading": "たなかさんをしっていますか。",
+          "translation": "¿Conoces al señor Tanaka?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、同じ会社で働いています。",
+          "reading": "はい、おなじかいしゃではたらいています。",
+          "translation": "Sí, trabajamos en la misma empresa."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "その言葉の意味を知りません。",
+        "reading": "そのことばのいみをしりません。",
+        "question": "¿Qué no sabe?",
+        "answer": "el significado de esa palabra",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "kanji": "忘",
+    "level": "N4",
+    "meanings": [
+      "olvidar"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "kunyomi": [
+      "わす"
+    ],
+    "radicals": [
+      "心",
+      "亡"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "El corazón pierde la memoria: olvidar.",
+    "vocabulary": [
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "olvidar",
+        "example": "家に鍵を忘れました。",
+        "exampleReading": "いえにかぎをわすれました。",
+        "exampleTranslation": "Olvidé las llaves en casa.",
+        "containsUnknownKanji": [
+          "家",
+          "鍵"
+        ]
+      },
+      {
+        "word": "忘れ物",
+        "reading": "わすれもの",
+        "meaning": "cosa olvidada",
+        "example": "電車に忘れ物をしました。",
+        "exampleReading": "でんしゃにわすれものをしました。",
+        "exampleTranslation": "Olvidé algo en el tren.",
+        "containsUnknownKanji": [
+          "電",
+          "車",
+          "物"
+        ]
+      },
+      {
+        "word": "忘年会",
+        "reading": "ぼうねんかい",
+        "meaning": "fiesta de fin de año",
+        "example": "今晩、会社の忘年会です。",
+        "exampleReading": "こんばん、かいしゃのぼうねんかいです。",
+        "exampleTranslation": "Esta noche es la fiesta de fin de año de la empresa.",
+        "containsUnknownKanji": [
+          "今",
+          "晩",
+          "会",
+          "社",
+          "年"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "宿題を忘れてしまいました。",
+          "reading": "しゅくだいをわすれてしまいました。",
+          "translation": "Olvidé la tarea."
+        },
+        {
+          "speaker": "B",
+          "text": "明日必ず持ってきてくださいね。",
+          "reading": "あしたかならずもってきてくださいね。",
+          "translation": "Tráela sin falta mañana."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "傘を忘れないでください。",
+        "reading": "かさをわすれないでください。",
+        "question": "¿Qué le piden no olvidar?",
+        "answer": "el paraguas",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "kanji": "覚",
+    "level": "N4",
+    "meanings": [
+      "recordar",
+      "despertar"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "kunyomi": [
+      "おぼ",
+      "さ"
+    ],
+    "radicals": [
+      "覀",
+      "見"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Ver con claridad: recordar o despertar.",
+    "vocabulary": [
+      {
+        "word": "覚える",
+        "reading": "おぼえる",
+        "meaning": "memorizar, recordar",
+        "example": "新しい単語を覚えました。",
+        "exampleReading": "あたらしいたんごをおぼえました。",
+        "exampleTranslation": "Memoricé palabras nuevas.",
+        "containsUnknownKanji": [
+          "新",
+          "単",
+          "語"
+        ]
+      },
+      {
+        "word": "目覚まし",
+        "reading": "めざまし",
+        "meaning": "despertador",
+        "example": "目覚まし時計を六時にセットした。",
+        "exampleReading": "めざましどけいをろくじにセットした。",
+        "exampleTranslation": "Puse el despertador a las seis.",
+        "containsUnknownKanji": [
+          "目",
+          "時",
+          "計"
+        ]
+      },
+      {
+        "word": "感覚",
+        "reading": "かんかく",
+        "meaning": "sensación",
+        "example": "手の感覚がなくなった。",
+        "exampleReading": "てのかんかくがなくなった。",
+        "exampleTranslation": "Perdí la sensibilidad de la mano.",
+        "containsUnknownKanji": [
+          "感",
+          "手"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "漢字を覚えるのは難しいですね。",
+          "reading": "かんじをおぼえるのはむずかしいですね。",
+          "translation": "Memorizar kanjis es difícil, ¿verdad?"
+        },
+        {
+          "speaker": "B",
+          "text": "毎日少しずつ練習すれば覚えられますよ。",
+          "reading": "まいにちすこしずつれんしゅうすればおぼえられますよ。",
+          "translation": "Si practicas un poco cada día, los podrás memorizar."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "名前を覚えていません。",
+        "reading": "なまえをおぼえていません。",
+        "question": "¿Qué no recuerda?",
+        "answer": "el nombre",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "kanji": "体",
+    "level": "N4",
+    "meanings": [
+      "cuerpo"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "からだ"
+    ],
+    "radicals": [
+      "人",
+      "本"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "La raíz de la persona: el cuerpo.",
+    "vocabulary": [
+      {
+        "word": "体",
+        "reading": "からだ",
+        "meaning": "cuerpo",
+        "example": "体に気をつけてください。",
+        "exampleReading": "からだにきをつけてください。",
+        "exampleTranslation": "Cuida tu cuerpo, por favor.",
+        "containsUnknownKanji": [
+          "気"
+        ]
+      },
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "meaning": "peso corporal",
+        "example": "最近体重が増えました。",
+        "exampleReading": "さいきんたいじゅうがふえました。",
+        "exampleTranslation": "Últimamente subí de peso.",
+        "containsUnknownKanji": [
+          "最",
+          "近",
+          "重",
+          "増"
+        ]
+      },
+      {
+        "word": "体育",
+        "reading": "たいいく",
+        "meaning": "educación física",
+        "example": "体育の授業が好きです。",
+        "exampleReading": "たいいくのじゅぎょうがすきです。",
+        "exampleTranslation": "Me gusta la clase de educación física.",
+        "containsUnknownKanji": [
+          "育",
+          "授",
+          "業",
+          "好"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "最近、体の調子はどうですか。",
+          "reading": "さいきん、からだのちょうしはどうですか。",
+          "translation": "¿Cómo te has sentido del cuerpo últimamente?"
+        },
+        {
+          "speaker": "B",
+          "text": "少し疲れやすくなりました。運動不足かもしれません。",
+          "reading": "すこしつかれやすくなりました。うんどうぶそくかもしれません。",
+          "translation": "Me canso con más facilidad. Tal vez me falta ejercicio."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "体が温かくなりました。",
+        "reading": "からだがあたたかくなりました。",
+        "question": "¿Qué le pasó al cuerpo?",
+        "answer": "se calentó",
+        "answerType": "meaning"
+      },
+      {
+        "audio": "体を大切にしてください。",
+        "reading": "からだをたいせつにしてください。",
+        "question": "¿Qué le piden?",
+        "answer": "que cuide su cuerpo",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "kanji": "頭",
+    "level": "N4",
+    "meanings": [
+      "cabeza"
+    ],
+    "onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "あたま"
+    ],
+    "radicals": [
+      "頁",
+      "豆"
+    ],
+    "strokeCount": 16,
+    "mnemonic": "La página principal de la persona: la cabeza.",
+    "vocabulary": [
+      {
+        "word": "頭",
+        "reading": "あたま",
+        "meaning": "cabeza",
+        "example": "頭が痛いです。",
+        "exampleReading": "あたまがいたいです。",
+        "exampleTranslation": "Me duele la cabeza.",
+        "containsUnknownKanji": [
+          "痛"
+        ]
+      },
+      {
+        "word": "頭痛",
+        "reading": "ずつう",
+        "meaning": "dolor de cabeza",
+        "example": "頭痛がひどいので薬を飲みました。",
+        "exampleReading": "ずつうがひどいのでくすりをのみました。",
+        "exampleTranslation": "Tomé medicina porque el dolor de cabeza era fuerte.",
+        "containsUnknownKanji": [
+          "痛",
+          "薬",
+          "飲"
+        ]
+      },
+      {
+        "word": "頭がいい",
+        "reading": "あたまがいい",
+        "meaning": "inteligente",
+        "example": "彼女はとても頭がいいです。",
+        "exampleReading": "かのじょはとてもあたまがいいです。",
+        "exampleTranslation": "Ella es muy inteligente.",
+        "containsUnknownKanji": [
+          "彼",
+          "女"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "顔色が悪いですけど、大丈夫ですか。",
+          "reading": "かおいろがわるいですけど、だいじょうぶですか。",
+          "translation": "Tienes mala cara, ¿estás bien?"
+        },
+        {
+          "speaker": "B",
+          "text": "朝から頭が痛くて。薬を飲んだんですが。",
+          "reading": "あさからあたまがいたくて。くすりをのんだんですが。",
+          "translation": "Desde la mañana me duele la cabeza. Ya tomé medicina."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "頭を使う仕事です。",
+        "reading": "あたまをつかうしごとです。",
+        "question": "¿Qué tipo de trabajo es?",
+        "answer": "un trabajo que requiere pensar",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "kanji": "顔",
+    "level": "N4",
+    "meanings": [
+      "cara",
+      "rostro"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "かお"
+    ],
+    "radicals": [
+      "頁",
+      "彦"
+    ],
+    "strokeCount": 18,
+    "mnemonic": "La página bonita de una persona: su cara.",
+    "vocabulary": [
+      {
+        "word": "顔",
+        "reading": "かお",
+        "meaning": "cara",
+        "example": "朝起きて顔を洗います。",
+        "exampleReading": "あさおきてかおをあらいます。",
+        "exampleTranslation": "Me lavo la cara al levantarme.",
+        "containsUnknownKanji": [
+          "朝",
+          "起",
+          "洗"
+        ]
+      },
+      {
+        "word": "笑顔",
+        "reading": "えがお",
+        "meaning": "sonrisa",
+        "example": "彼女の笑顔は素敵です。",
+        "exampleReading": "かのじょのえがおはすてきです。",
+        "exampleTranslation": "Su sonrisa es encantadora.",
+        "containsUnknownKanji": [
+          "笑",
+          "彼",
+          "女",
+          "素",
+          "敵"
+        ]
+      },
+      {
+        "word": "顔色",
+        "reading": "かおいろ",
+        "meaning": "color de rostro, semblante",
+        "example": "顔色が悪いですね。",
+        "exampleReading": "かおいろがわるいですね。",
+        "exampleTranslation": "Tienes mala cara.",
+        "containsUnknownKanji": [
+          "色",
+          "悪"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "今日はとても嬉しそうな顔ですね。",
+          "reading": "きょうはとてもうれしそうなかおですね。",
+          "translation": "Hoy tienes una cara muy contenta."
+        },
+        {
+          "speaker": "B",
+          "text": "はい、試験に合格しました。",
+          "reading": "はい、しけんにごうかくしました。",
+          "translation": "Sí, aprobé el examen."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "お母さんに顔が似ていますね。",
+        "reading": "おかあさんにかおがにていますね。",
+        "question": "¿A quién se parece?",
+        "answer": "a su madre",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "kanji": "手",
+    "level": "N4",
+    "meanings": [
+      "mano"
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "て"
+    ],
+    "radicals": [
+      "手"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Los dedos y la palma: una mano abierta.",
+    "vocabulary": [
+      {
+        "word": "手",
+        "reading": "て",
+        "meaning": "mano",
+        "example": "手を洗ってください。",
+        "exampleReading": "てをあらってください。",
+        "exampleTranslation": "Lávate las manos.",
+        "containsUnknownKanji": [
+          "洗"
+        ]
+      },
+      {
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": "carta",
+        "example": "友達に手紙を書きました。",
+        "exampleReading": "ともだちにてがみをかきました。",
+        "exampleTranslation": "Le escribí una carta a un amigo.",
+        "containsUnknownKanji": [
+          "友",
+          "達",
+          "紙",
+          "書"
+        ]
+      },
+      {
+        "word": "上手",
+        "reading": "じょうず",
+        "meaning": "hábil",
+        "example": "彼女は料理が上手です。",
+        "exampleReading": "かのじょはりょうりがじょうずです。",
+        "exampleTranslation": "Ella cocina muy bien.",
+        "containsUnknownKanji": [
+          "彼",
+          "女",
+          "料",
+          "理",
+          "上"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "日本語がお上手ですね。",
+          "reading": "にほんごがおじょうずですね。",
+          "translation": "Hablas muy bien japonés."
+        },
+        {
+          "speaker": "B",
+          "text": "いえいえ、まだまだです。もっと練習しなければ。",
+          "reading": "いえいえ、まだまだです。もっとれんしゅうしなければ。",
+          "translation": "No, no, todavía me falta mucho. Necesito practicar más."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "手が冷たいですね。",
+        "reading": "てがつめたいですね。",
+        "question": "¿Qué le pasa a las manos?",
+        "answer": "están frías",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "kanji": "足",
+    "level": "N4",
+    "meanings": [
+      "pie",
+      "pierna",
+      "suficiente"
+    ],
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "あし",
+      "た"
+    ],
+    "radicals": [
+      "足"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una rodilla con pie: la pierna.",
+    "vocabulary": [
+      {
+        "word": "足",
+        "reading": "あし",
+        "meaning": "pie, pierna",
+        "example": "長い時間歩いて足が痛いです。",
+        "exampleReading": "ながいじかんあるいてあしがいたいです。",
+        "exampleTranslation": "Me duelen los pies por caminar mucho tiempo.",
+        "containsUnknownKanji": [
+          "長",
+          "時",
+          "間",
+          "歩",
+          "痛"
+        ]
+      },
+      {
+        "word": "不足",
+        "reading": "ふそく",
+        "meaning": "insuficiencia",
+        "example": "睡眠不足で頭が痛いです。",
+        "exampleReading": "すいみんぶそくであたまがいたいです。",
+        "exampleTranslation": "Me duele la cabeza por falta de sueño.",
+        "containsUnknownKanji": [
+          "不",
+          "睡",
+          "眠",
+          "頭",
+          "痛"
+        ]
+      },
+      {
+        "word": "満足",
+        "reading": "まんぞく",
+        "meaning": "satisfacción",
+        "example": "結果に満足しています。",
+        "exampleReading": "けっかにまんぞくしています。",
+        "exampleTranslation": "Estoy satisfecho con el resultado.",
+        "containsUnknownKanji": [
+          "満",
+          "結",
+          "果"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "どうしたんですか。足を引きずっていますね。",
+          "reading": "どうしたんですか。あしをひきずっていますね。",
+          "translation": "¿Qué pasó? Estás cojeando."
+        },
+        {
+          "speaker": "B",
+          "text": "サッカーで足をけがしてしまいました。",
+          "reading": "サッカーであしをけがしてしまいました。",
+          "translation": "Me lastimé el pie jugando fútbol."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "運動不足だと思います。",
+        "reading": "うんどうぶそくだとおもいます。",
+        "question": "¿Qué cree que le falta?",
+        "answer": "ejercicio",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "kanji": "耳",
+    "level": "N4",
+    "meanings": [
+      "oreja",
+      "oído"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "みみ"
+    ],
+    "radicals": [
+      "耳"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Una oreja dibujada de frente.",
+    "vocabulary": [
+      {
+        "word": "耳",
+        "reading": "みみ",
+        "meaning": "oreja",
+        "example": "耳が痛いので病院に行きます。",
+        "exampleReading": "みみがいたいのでびょういんにいきます。",
+        "exampleTranslation": "Me duele el oído, voy al hospital.",
+        "containsUnknownKanji": [
+          "痛",
+          "病",
+          "院",
+          "行"
+        ]
+      },
+      {
+        "word": "早耳",
+        "reading": "はやみみ",
+        "meaning": "estar bien informado",
+        "example": "彼はいつも早耳ですね。",
+        "exampleReading": "かれはいつもはやみみですね。",
+        "exampleTranslation": "Él siempre se entera rápido.",
+        "containsUnknownKanji": [
+          "彼",
+          "早"
+        ]
+      },
+      {
+        "word": "耳鼻科",
+        "reading": "じびか",
+        "meaning": "otorrinolaringología",
+        "example": "耳鼻科に行ってきました。",
+        "exampleReading": "じびかにいってきました。",
+        "exampleTranslation": "Fui al otorrino.",
+        "containsUnknownKanji": [
+          "鼻",
+          "科",
+          "行"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "最近、耳が聞こえにくいんです。",
+          "reading": "さいきん、みみがきこえにくいんです。",
+          "translation": "Últimamente no escucho bien."
+        },
+        {
+          "speaker": "B",
+          "text": "一度耳鼻科で診てもらった方がいいですよ。",
+          "reading": "いちどじびかでみてもらったほうがいいですよ。",
+          "translation": "Deberías ir al otorrino al menos una vez."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "日本語は耳で覚えた方がいいです。",
+        "reading": "にほんごはみみでおぼえたほうがいいです。",
+        "question": "¿Cómo recomienda aprender japonés?",
+        "answer": "de oído",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "kanji": "声",
+    "level": "N4",
+    "meanings": [
+      "voz"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "こえ"
+    ],
+    "radicals": [
+      "声"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Un sonido que sale de la persona: la voz.",
+    "vocabulary": [
+      {
+        "word": "声",
+        "reading": "こえ",
+        "meaning": "voz",
+        "example": "大きい声で話してください。",
+        "exampleReading": "おおきいこえではなしてください。",
+        "exampleTranslation": "Habla en voz alta, por favor.",
+        "containsUnknownKanji": [
+          "大",
+          "話"
+        ]
+      },
+      {
+        "word": "声優",
+        "reading": "せいゆう",
+        "meaning": "actor de voz",
+        "example": "彼女は有名な声優です。",
+        "exampleReading": "かのじょはゆうめいなせいゆうです。",
+        "exampleTranslation": "Ella es una actriz de voz famosa.",
+        "containsUnknownKanji": [
+          "彼",
+          "女",
+          "有",
+          "名",
+          "優"
+        ]
+      },
+      {
+        "word": "小声",
+        "reading": "こごえ",
+        "meaning": "voz baja",
+        "example": "小声で話しましょう。",
+        "exampleReading": "こごえではなしましょう。",
+        "exampleTranslation": "Hablemos en voz baja.",
+        "containsUnknownKanji": [
+          "小",
+          "話"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "ここでは静かにしてください。",
+          "reading": "ここではしずかにしてください。",
+          "translation": "Guarden silencio aquí, por favor."
+        },
+        {
+          "speaker": "B",
+          "text": "すみません。声を小さくします。",
+          "reading": "すみません。こえをちいさくします。",
+          "translation": "Disculpe. Bajaré la voz."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "隣の部屋から声が聞こえます。",
+        "reading": "となりのへやからこえがきこえます。",
+        "question": "¿De dónde se escucha la voz?",
+        "answer": "del cuarto de al lado",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "kanji": "心",
+    "level": "N4",
+    "meanings": [
+      "corazón",
+      "mente"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "こころ"
+    ],
+    "radicals": [
+      "心"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Un corazón latiendo con tres puntos de emoción.",
+    "vocabulary": [
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "corazón, mente",
+        "example": "心が落ち着きました。",
+        "exampleReading": "こころがおちつきました。",
+        "exampleTranslation": "Mi corazón se tranquilizó.",
+        "containsUnknownKanji": [
+          "落",
+          "着"
+        ]
+      },
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "tranquilidad",
+        "example": "試験に受かって安心しました。",
+        "exampleReading": "しけんにうかってあんしんしました。",
+        "exampleTranslation": "Aprobé el examen y me tranquilicé.",
+        "containsUnknownKanji": [
+          "安",
+          "試",
+          "験",
+          "受"
+        ]
+      },
+      {
+        "word": "心配",
+        "reading": "しんぱい",
+        "meaning": "preocupación",
+        "example": "母はいつも心配しています。",
+        "exampleReading": "はははいつもしんぱいしています。",
+        "exampleTranslation": "Mi madre siempre se preocupa.",
+        "containsUnknownKanji": [
+          "母",
+          "配"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "来月の試験が心配です。",
+          "reading": "らいげつのしけんがしんぱいです。",
+          "translation": "Me preocupa el examen del próximo mes."
+        },
+        {
+          "speaker": "B",
+          "text": "大丈夫ですよ。毎日勉強すれば安心できます。",
+          "reading": "だいじょうぶですよ。まいにちべんきょうすればあんしんできます。",
+          "translation": "Tranquilo. Si estudias todos los días estarás bien."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "心配しないでください。",
+        "reading": "しんぱいしないでください。",
+        "question": "¿Qué le piden?",
+        "answer": "que no se preocupe",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "kanji": "痛",
+    "level": "N4",
+    "meanings": [
+      "doler"
+    ],
+    "onyomi": [
+      "ツウ"
+    ],
+    "kunyomi": [
+      "いた"
+    ],
+    "radicals": [
+      "疒",
+      "甬"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "La enfermedad que atraviesa: el dolor.",
+    "vocabulary": [
+      {
+        "word": "痛い",
+        "reading": "いたい",
+        "meaning": "doler",
+        "example": "お腹が痛いです。",
+        "exampleReading": "おなかがいたいです。",
+        "exampleTranslation": "Me duele el estómago.",
+        "containsUnknownKanji": [
+          "腹"
+        ]
+      },
+      {
+        "word": "頭痛",
+        "reading": "ずつう",
+        "meaning": "dolor de cabeza",
+        "example": "頭痛薬をください。",
+        "exampleReading": "ずつうやくをください。",
+        "exampleTranslation": "Dame un analgésico, por favor.",
+        "containsUnknownKanji": [
+          "頭",
+          "薬"
+        ]
+      },
+      {
+        "word": "痛み",
+        "reading": "いたみ",
+        "meaning": "dolor (sustantivo)",
+        "example": "痛みが引きました。",
+        "exampleReading": "いたみがひきました。",
+        "exampleTranslation": "El dolor cedió.",
+        "containsUnknownKanji": [
+          "引"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "どこが痛いですか。",
+          "reading": "どこがいたいですか。",
+          "translation": "¿Dónde le duele?"
+        },
+        {
+          "speaker": "B",
+          "text": "ここです。昨日から右の肩が痛いんです。",
+          "reading": "ここです。きのうからみぎのかたがいたいんです。",
+          "translation": "Aquí. Desde ayer me duele el hombro derecho."
+        },
+        {
+          "speaker": "A",
+          "text": "じゃあ、レントゲンを撮りましょう。",
+          "reading": "じゃあ、レントゲンをとりましょう。",
+          "translation": "Entonces tomemos una radiografía."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "走った後、足が痛いです。",
+        "reading": "はしったあと、あしがいたいです。",
+        "question": "¿Qué le duele después de correr?",
+        "answer": "los pies",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "kanji": "病",
+    "level": "N4",
+    "meanings": [
+      "enfermedad"
+    ],
+    "onyomi": [
+      "ビョウ"
+    ],
+    "kunyomi": [
+      "やまい",
+      "や"
+    ],
+    "radicals": [
+      "疒",
+      "丙"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "El cuerpo enfermo postrado en cama.",
+    "vocabulary": [
+      {
+        "word": "病気",
+        "reading": "びょうき",
+        "meaning": "enfermedad",
+        "example": "病気で学校を休みました。",
+        "exampleReading": "びょうきでがっこうをやすみました。",
+        "exampleTranslation": "Falté a la escuela por enfermedad.",
+        "containsUnknownKanji": [
+          "気",
+          "学",
+          "校",
+          "休"
+        ]
+      },
+      {
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "hospital",
+        "example": "病院で検査を受けました。",
+        "exampleReading": "びょういんでけんさをうけました。",
+        "exampleTranslation": "Me hicieron un examen en el hospital.",
+        "containsUnknownKanji": [
+          "院",
+          "検",
+          "査",
+          "受"
+        ]
+      },
+      {
+        "word": "病人",
+        "reading": "びょうにん",
+        "meaning": "enfermo (persona)",
+        "example": "病人のお見舞いに行きました。",
+        "exampleReading": "びょうにんのおみまいにいきました。",
+        "exampleTranslation": "Fui a visitar a un enfermo.",
+        "containsUnknownKanji": [
+          "人",
+          "見",
+          "舞",
+          "行"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "山田さんは今日も休みですか。",
+          "reading": "やまださんはきょうもやすみですか。",
+          "translation": "¿El señor Yamada también descansa hoy?"
+        },
+        {
+          "speaker": "B",
+          "text": "ええ、病気がまだ治っていないみたいです。",
+          "reading": "ええ、びょうきがまだなおっていないみたいです。",
+          "translation": "Sí, parece que aún no se recupera de la enfermedad."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "病院は駅の近くにあります。",
+        "reading": "びょういんはえきのちかくにあります。",
+        "question": "¿Dónde está el hospital?",
+        "answer": "cerca de la estación",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "kanji": "薬",
+    "level": "N4",
+    "meanings": [
+      "medicina"
+    ],
+    "onyomi": [
+      "ヤク"
+    ],
+    "kunyomi": [
+      "くすり"
+    ],
+    "radicals": [
+      "⺾",
+      "楽"
+    ],
+    "strokeCount": 16,
+    "mnemonic": "La planta que da alegría al enfermo: medicina.",
+    "vocabulary": [
+      {
+        "word": "薬",
+        "reading": "くすり",
+        "meaning": "medicina",
+        "example": "毎朝薬を飲みます。",
+        "exampleReading": "まいあさくすりをのみます。",
+        "exampleTranslation": "Tomo medicina todas las mañanas.",
+        "containsUnknownKanji": [
+          "毎",
+          "朝",
+          "飲"
+        ]
+      },
+      {
+        "word": "薬局",
+        "reading": "やっきょく",
+        "meaning": "farmacia",
+        "example": "薬局で薬を買いました。",
+        "exampleReading": "やっきょくでくすりをかいました。",
+        "exampleTranslation": "Compré medicina en la farmacia.",
+        "containsUnknownKanji": [
+          "局",
+          "買"
+        ]
+      },
+      {
+        "word": "薬指",
+        "reading": "くすりゆび",
+        "meaning": "dedo anular",
+        "example": "薬指に指輪をはめる。",
+        "exampleReading": "くすりゆびにゆびわをはめる。",
+        "exampleTranslation": "Pongo el anillo en el dedo anular.",
+        "containsUnknownKanji": [
+          "指",
+          "輪"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この薬は食後に飲んでください。",
+          "reading": "このくすりはしょくごにのんでください。",
+          "translation": "Tome esta medicina después de comer."
+        },
+        {
+          "speaker": "B",
+          "text": "分かりました。一日に何回飲みますか。",
+          "reading": "わかりました。いちにちになんかいのみますか。",
+          "translation": "Entendido. ¿Cuántas veces al día?"
+        },
+        {
+          "speaker": "A",
+          "text": "一日三回、毎食後です。",
+          "reading": "いちにちさんかい、まいしょくごです。",
+          "translation": "Tres veces al día, después de cada comida."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "薬を飲み忘れました。",
+        "reading": "くすりをのみわすれました。",
+        "question": "¿Qué olvidó hacer?",
+        "answer": "tomar la medicina",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "kanji": "医",
+    "level": "N4",
+    "meanings": [
+      "medicina",
+      "médico"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "匚",
+      "矢"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una flecha dentro de una caja: herramienta del médico.",
+    "vocabulary": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "médico",
+        "example": "医者に診てもらいました。",
+        "exampleReading": "いしゃにみてもらいました。",
+        "exampleTranslation": "Me revisó el médico.",
+        "containsUnknownKanji": [
+          "者",
+          "診"
+        ]
+      },
+      {
+        "word": "医学",
+        "reading": "いがく",
+        "meaning": "medicina (disciplina)",
+        "example": "大学で医学を学んでいます。",
+        "exampleReading": "だいがくでいがくをまなんでいます。",
+        "exampleTranslation": "Estudio medicina en la universidad.",
+        "containsUnknownKanji": [
+          "大",
+          "学"
+        ]
+      },
+      {
+        "word": "歯医者",
+        "reading": "はいしゃ",
+        "meaning": "dentista",
+        "example": "歯医者の予約を取りました。",
+        "exampleReading": "はいしゃのよやくをとりました。",
+        "exampleTranslation": "Saqué cita con el dentista.",
+        "containsUnknownKanji": [
+          "歯",
+          "者",
+          "予",
+          "約",
+          "取"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "お医者さんは何と言っていましたか。",
+          "reading": "おいしゃさんはなんといっていましたか。",
+          "translation": "¿Qué dijo el médico?"
+        },
+        {
+          "speaker": "B",
+          "text": "三日間休んだ方がいいと言われました。",
+          "reading": "みっかかんやすんだほうがいいといわれました。",
+          "translation": "Me dijo que es mejor descansar tres días."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "彼女は医者になりたいです。",
+        "reading": "かのじょはいしゃになりたいです。",
+        "question": "¿Qué quiere ser ella?",
+        "answer": "médica",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "kanji": "元",
+    "level": "N4",
+    "meanings": [
+      "origen",
+      "saludable"
+    ],
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "radicals": [
+      "二",
+      "儿"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Una persona con piernas firmes: la raíz de la energía.",
+    "vocabulary": [
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "saludable, animado",
+        "example": "お元気ですか。",
+        "exampleReading": "おげんきですか。",
+        "exampleTranslation": "¿Cómo estás?",
+        "containsUnknownKanji": [
+          "気"
+        ]
+      },
+      {
+        "word": "地元",
+        "reading": "じもと",
+        "meaning": "lugar de origen",
+        "example": "地元に帰りたいです。",
+        "exampleReading": "じもとにかえりたいです。",
+        "exampleTranslation": "Quiero volver a mi pueblo natal.",
+        "containsUnknownKanji": [
+          "地",
+          "帰"
+        ]
+      },
+      {
+        "word": "元日",
+        "reading": "がんじつ",
+        "meaning": "día de año nuevo",
+        "example": "元日は家族で過ごします。",
+        "exampleReading": "がんじつはかぞくですごします。",
+        "exampleTranslation": "Paso el día de año nuevo en familia.",
+        "containsUnknownKanji": [
+          "日",
+          "家",
+          "族",
+          "過"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "久しぶり！元気だった？",
+          "reading": "ひさしぶり！げんきだった？",
+          "translation": "¡Cuánto tiempo! ¿Cómo has estado?"
+        },
+        {
+          "speaker": "B",
+          "text": "うん、元気だよ。そっちは？",
+          "reading": "うん、げんきだよ。そっちは？",
+          "translation": "Sí, bien. ¿Y tú?"
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "元気になってよかったです。",
+        "reading": "げんきになってよかったです。",
+        "question": "¿Por qué está contento?",
+        "answer": "porque se recuperó",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "kanji": "死",
+    "level": "N4",
+    "meanings": [
+      "morir"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "し"
+    ],
+    "radicals": [
+      "歹",
+      "匕"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Huesos que caen: la muerte.",
+    "vocabulary": [
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "morir",
+        "example": "花が死んでしまいました。",
+        "exampleReading": "はながしんでしまいました。",
+        "exampleTranslation": "La flor se murió.",
+        "containsUnknownKanji": [
+          "花"
+        ]
+      },
+      {
+        "word": "死亡",
+        "reading": "しぼう",
+        "meaning": "fallecimiento",
+        "example": "事故で死亡した人がいます。",
+        "exampleReading": "じこでしぼうしたひとがいます。",
+        "exampleTranslation": "Hay personas fallecidas en el accidente.",
+        "containsUnknownKanji": [
+          "亡",
+          "事",
+          "故",
+          "人"
+        ]
+      },
+      {
+        "word": "必死",
+        "reading": "ひっし",
+        "meaning": "desesperado",
+        "example": "必死に走りました。",
+        "exampleReading": "ひっしにはしりました。",
+        "exampleTranslation": "Corrí desesperadamente.",
+        "containsUnknownKanji": [
+          "必",
+          "走"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この植物、枯れそうですね。",
+          "reading": "このしょくぶつ、かれそうですね。",
+          "translation": "Esta planta parece que se va a secar."
+        },
+        {
+          "speaker": "B",
+          "text": "水をあげないと死んでしまいますよ。",
+          "reading": "みずをあげないとしんでしまいますよ。",
+          "translation": "Si no le das agua, se va a morir."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "必死に勉強しました。",
+        "reading": "ひっしにべんきょうしました。",
+        "question": "¿Cómo estudió?",
+        "answer": "desesperadamente",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "kanji": "悪",
+    "level": "N4",
+    "meanings": [
+      "malo"
+    ],
+    "onyomi": [
+      "アク"
+    ],
+    "kunyomi": [
+      "わる"
+    ],
+    "radicals": [
+      "亚",
+      "心"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Un corazón presionado: lo malo.",
+    "vocabulary": [
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "meaning": "malo",
+        "example": "天気が悪いですね。",
+        "exampleReading": "てんきがわるいですね。",
+        "exampleTranslation": "Hace mal tiempo.",
+        "containsUnknownKanji": [
+          "天",
+          "気"
+        ]
+      },
+      {
+        "word": "悪口",
+        "reading": "わるくち",
+        "meaning": "hablar mal de alguien",
+        "example": "人の悪口を言わないでください。",
+        "exampleReading": "ひとのわるくちをいわないでください。",
+        "exampleTranslation": "No hables mal de los demás.",
+        "containsUnknownKanji": [
+          "人",
+          "口",
+          "言"
+        ]
+      },
+      {
+        "word": "最悪",
+        "reading": "さいあく",
+        "meaning": "lo peor",
+        "example": "今日は最悪の日でした。",
+        "exampleReading": "きょうはさいあくのひでした。",
+        "exampleTranslation": "Hoy fue el peor día.",
+        "containsUnknownKanji": [
+          "最",
+          "今",
+          "日"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この料理、味が悪くないですか。",
+          "reading": "このりょうり、あじがわるくないですか。",
+          "translation": "¿No está mala esta comida?"
+        },
+        {
+          "speaker": "B",
+          "text": "そうですか？私は美味しいと思いますが。",
+          "reading": "そうですか？わたしはおいしいとおもいますが。",
+          "translation": "¿Sí? A mí me parece rica."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "気分が悪くなりました。",
+        "reading": "きぶんがわるくなりました。",
+        "question": "¿Qué le pasó?",
+        "answer": "se sintió mal",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "kanji": "暖",
+    "level": "N4",
+    "meanings": [
+      "cálido",
+      "tibio"
+    ],
+    "onyomi": [
+      "ダン"
+    ],
+    "kunyomi": [
+      "あたた"
+    ],
+    "radicals": [
+      "日",
+      "爰"
+    ],
+    "strokeCount": 13,
+    "mnemonic": "El sol que da calor a las manos: calidez.",
+    "vocabulary": [
+      {
+        "word": "暖かい",
+        "reading": "あたたかい",
+        "meaning": "cálido",
+        "example": "今日は暖かいですね。",
+        "exampleReading": "きょうはあたたかいですね。",
+        "exampleTranslation": "Hoy está cálido.",
+        "containsUnknownKanji": [
+          "今",
+          "日"
+        ]
+      },
+      {
+        "word": "暖房",
+        "reading": "だんぼう",
+        "meaning": "calefacción",
+        "example": "暖房をつけてください。",
+        "exampleReading": "だんぼうをつけてください。",
+        "exampleTranslation": "Enciende la calefacción, por favor.",
+        "containsUnknownKanji": [
+          "房"
+        ]
+      },
+      {
+        "word": "温暖",
+        "reading": "おんだん",
+        "meaning": "templado",
+        "example": "この地域は温暖な気候です。",
+        "exampleReading": "このちいきはおんだんなきこうです。",
+        "exampleTranslation": "Esta zona tiene clima templado.",
+        "containsUnknownKanji": [
+          "温",
+          "地",
+          "域",
+          "気",
+          "候"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "部屋が寒いですね。暖房をつけましょうか。",
+          "reading": "へやがさむいですね。だんぼうをつけましょうか。",
+          "translation": "El cuarto está frío. ¿Enciendo la calefacción?"
+        },
+        {
+          "speaker": "B",
+          "text": "お願いします。暖かくなるとうれしいです。",
+          "reading": "おねがいします。あたたかくなるとうれしいです。",
+          "translation": "Por favor. Me alegrará cuando se caliente."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "春になると暖かくなります。",
+        "reading": "はるになるとあたたかくなります。",
+        "question": "¿Cuándo se pone cálido?",
+        "answer": "en primavera",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "kanji": "涼",
+    "level": "N4",
+    "meanings": [
+      "fresco"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "すず"
+    ],
+    "radicals": [
+      "氵",
+      "京"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Agua de la capital: frescura.",
+    "vocabulary": [
+      {
+        "word": "涼しい",
+        "reading": "すずしい",
+        "meaning": "fresco",
+        "example": "山の上は涼しいです。",
+        "exampleReading": "やまのうえはすずしいです。",
+        "exampleTranslation": "En la cima de la montaña es fresco.",
+        "containsUnknownKanji": [
+          "山",
+          "上"
+        ]
+      },
+      {
+        "word": "涼む",
+        "reading": "すずむ",
+        "meaning": "refrescarse",
+        "example": "木陰で涼みましょう。",
+        "exampleReading": "こかげですずみましょう。",
+        "exampleTranslation": "Refresquémonos a la sombra del árbol.",
+        "containsUnknownKanji": [
+          "木",
+          "陰"
+        ]
+      },
+      {
+        "word": "清涼",
+        "reading": "せいりょう",
+        "meaning": "refrescante",
+        "example": "清涼飲料水を買いました。",
+        "exampleReading": "せいりょういんりょうすいをかいました。",
+        "exampleTranslation": "Compré una bebida refrescante.",
+        "containsUnknownKanji": [
+          "清",
+          "飲",
+          "料",
+          "水",
+          "買"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "今日は風が涼しいですね。",
+          "reading": "きょうはかぜがすずしいですね。",
+          "translation": "Hoy corre una brisa fresca."
+        },
+        {
+          "speaker": "B",
+          "text": "ええ、秋が近づいていますね。",
+          "reading": "ええ、あきがちかづいていますね。",
+          "translation": "Sí, se acerca el otoño."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "夕方になると涼しくなります。",
+        "reading": "ゆうがたになるとすずしくなります。",
+        "question": "¿Cuándo refresca?",
+        "answer": "por la tarde",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "kanji": "暑",
+    "level": "N4",
+    "meanings": [
+      "caluroso"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "あつ"
+    ],
+    "radicals": [
+      "日",
+      "者"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "El sol sobre una persona: calor.",
+    "vocabulary": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "meaning": "caluroso",
+        "example": "今日はとても暑いです。",
+        "exampleReading": "きょうはとてもあついです。",
+        "exampleTranslation": "Hoy hace mucho calor.",
+        "containsUnknownKanji": [
+          "今",
+          "日"
+        ]
+      },
+      {
+        "word": "暑さ",
+        "reading": "あつさ",
+        "meaning": "calor (sustantivo)",
+        "example": "この暑さには慣れません。",
+        "exampleReading": "このあつさにはなれません。",
+        "exampleTranslation": "No me acostumbro a este calor.",
+        "containsUnknownKanji": [
+          "慣"
+        ]
+      },
+      {
+        "word": "蒸し暑い",
+        "reading": "むしあつい",
+        "meaning": "bochornoso",
+        "example": "日本の夏は蒸し暑いです。",
+        "exampleReading": "にほんのなつはむしあついです。",
+        "exampleTranslation": "El verano en Japón es bochornoso.",
+        "containsUnknownKanji": [
+          "蒸",
+          "日",
+          "本",
+          "夏"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "暑いですね。何か冷たいものを飲みませんか。",
+          "reading": "あついですね。なにかつめたいものをのみませんか。",
+          "translation": "Hace calor, ¿no? ¿Tomamos algo frío?"
+        },
+        {
+          "speaker": "B",
+          "text": "いいですね。アイスコーヒーにしましょう。",
+          "reading": "いいですね。アイスコーヒーにしましょう。",
+          "translation": "Suena bien. Pidamos café helado."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "夏はとても暑くなります。",
+        "reading": "なつはとてもあつくなります。",
+        "question": "¿En qué estación hace calor?",
+        "answer": "夏",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "kanji": "寒",
+    "level": "N4",
+    "meanings": [
+      "frío"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "さむ"
+    ],
+    "radicals": [
+      "宀"
+    ],
+    "strokeCount": 12,
+    "mnemonic": "Bajo el techo, entre la hierba helada: frío.",
+    "vocabulary": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "meaning": "frío (clima)",
+        "example": "今日はとても寒いです。",
+        "exampleReading": "きょうはとてもさむいです。",
+        "exampleTranslation": "Hoy hace mucho frío.",
+        "containsUnknownKanji": [
+          "今",
+          "日"
+        ]
+      },
+      {
+        "word": "寒さ",
+        "reading": "さむさ",
+        "meaning": "frío (sustantivo)",
+        "example": "寒さに弱いです。",
+        "exampleReading": "さむさによわいです。",
+        "exampleTranslation": "Soy sensible al frío.",
+        "containsUnknownKanji": [
+          "弱"
+        ]
+      },
+      {
+        "word": "寒気",
+        "reading": "さむけ",
+        "meaning": "escalofrío",
+        "example": "寒気がするので休みます。",
+        "exampleReading": "さむけがするのでやすみます。",
+        "exampleTranslation": "Tengo escalofríos, así que descanso.",
+        "containsUnknownKanji": [
+          "気",
+          "休"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "寒くないですか。窓を閉めましょうか。",
+          "reading": "さむくないですか。まどをしめましょうか。",
+          "translation": "¿No tienes frío? ¿Cierro la ventana?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、お願いします。少し寒いです。",
+          "reading": "はい、おねがいします。すこしさむいです。",
+          "translation": "Sí, por favor. Tengo un poco de frío."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "北海道の冬は寒いです。",
+        "reading": "ほっかいどうのふゆはさむいです。",
+        "question": "¿Dónde es frío el invierno?",
+        "answer": "北海道",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "kanji": "冷",
+    "level": "N4",
+    "meanings": [
+      "frío (al tacto)",
+      "enfriar"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "つめ",
+      "ひ",
+      "さ"
+    ],
+    "radicals": [
+      "冫",
+      "令"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Hielo y una orden: enfriar.",
+    "vocabulary": [
+      {
+        "word": "冷たい",
+        "reading": "つめたい",
+        "meaning": "frío (al tacto)",
+        "example": "冷たい水をください。",
+        "exampleReading": "つめたいみずをください。",
+        "exampleTranslation": "Agua fría, por favor.",
+        "containsUnknownKanji": [
+          "水"
+        ]
+      },
+      {
+        "word": "冷蔵庫",
+        "reading": "れいぞうこ",
+        "meaning": "refrigerador",
+        "example": "牛乳を冷蔵庫に入れてください。",
+        "exampleReading": "ぎゅうにゅうをれいぞうこにいれてください。",
+        "exampleTranslation": "Pon la leche en el refrigerador.",
+        "containsUnknownKanji": [
+          "蔵",
+          "庫",
+          "牛",
+          "乳",
+          "入"
+        ]
+      },
+      {
+        "word": "冷房",
+        "reading": "れいぼう",
+        "meaning": "aire acondicionado",
+        "example": "冷房が効きすぎています。",
+        "exampleReading": "れいぼうがききすぎています。",
+        "exampleTranslation": "El aire acondicionado está muy fuerte.",
+        "containsUnknownKanji": [
+          "房",
+          "効"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "冷房をつけてもいいですか。暑くて。",
+          "reading": "れいぼうをつけてもいいですか。あつくて。",
+          "translation": "¿Puedo prender el aire acondicionado? Hace calor."
+        },
+        {
+          "speaker": "B",
+          "text": "もちろん。私も暑いと思っていました。",
+          "reading": "もちろん。わたしもあついとおもっていました。",
+          "translation": "Claro. Yo también pensaba que hace calor."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "ビールは冷たい方がいいです。",
+        "reading": "ビールはつめたいほうがいいです。",
+        "question": "¿Cómo prefiere la cerveza?",
+        "answer": "fría",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "kanji": "春",
+    "level": "N4",
+    "meanings": [
+      "primavera"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "radicals": [
+      "日",
+      "屯"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "El sol que despierta las semillas: primavera.",
+    "vocabulary": [
+      {
+        "word": "春",
+        "reading": "はる",
+        "meaning": "primavera",
+        "example": "春になると桜が咲きます。",
+        "exampleReading": "はるになるとさくらがさきます。",
+        "exampleTranslation": "En primavera florecen los cerezos.",
+        "containsUnknownKanji": [
+          "桜",
+          "咲"
+        ]
+      },
+      {
+        "word": "春休み",
+        "reading": "はるやすみ",
+        "meaning": "vacaciones de primavera",
+        "example": "春休みに旅行しました。",
+        "exampleReading": "はるやすみにりょこうしました。",
+        "exampleTranslation": "Viajé en vacaciones de primavera.",
+        "containsUnknownKanji": [
+          "休",
+          "旅",
+          "行"
+        ]
+      },
+      {
+        "word": "青春",
+        "reading": "せいしゅん",
+        "meaning": "juventud",
+        "example": "青春の思い出です。",
+        "exampleReading": "せいしゅんのおもいでです。",
+        "exampleTranslation": "Es un recuerdo de juventud.",
+        "containsUnknownKanji": [
+          "青",
+          "思",
+          "出"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "日本の春はどうですか。",
+          "reading": "にほんのはるはどうですか。",
+          "translation": "¿Cómo es la primavera en Japón?"
+        },
+        {
+          "speaker": "B",
+          "text": "桜がきれいで、一番好きな季節です。",
+          "reading": "さくらがきれいで、いちばんすきなきせつです。",
+          "translation": "Los cerezos son hermosos, es mi estación favorita."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "春が一番好きな季節です。",
+        "reading": "はるがいちばんすきなきせつです。",
+        "question": "¿Cuál es su estación favorita?",
+        "answer": "春",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "kanji": "夏",
+    "level": "N4",
+    "meanings": [
+      "verano"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "radicals": [
+      "夊"
+    ],
+    "strokeCount": 10,
+    "mnemonic": "Una persona grande bajo el sol intenso: verano.",
+    "vocabulary": [
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "meaning": "verano",
+        "example": "夏は海に行きます。",
+        "exampleReading": "なつはうみにいきます。",
+        "exampleTranslation": "En verano voy al mar.",
+        "containsUnknownKanji": [
+          "海",
+          "行"
+        ]
+      },
+      {
+        "word": "夏休み",
+        "reading": "なつやすみ",
+        "meaning": "vacaciones de verano",
+        "example": "夏休みが楽しみです。",
+        "exampleReading": "なつやすみがたのしみです。",
+        "exampleTranslation": "Espero con ganas las vacaciones de verano.",
+        "containsUnknownKanji": [
+          "休",
+          "楽"
+        ]
+      },
+      {
+        "word": "真夏",
+        "reading": "まなつ",
+        "meaning": "pleno verano",
+        "example": "真夏の暑さは厳しいです。",
+        "exampleReading": "まなつのあつさはきびしいです。",
+        "exampleTranslation": "El calor del pleno verano es duro.",
+        "containsUnknownKanji": [
+          "真",
+          "暑",
+          "厳"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "夏休みの予定はもう決めましたか。",
+          "reading": "なつやすみのよていはもうきめましたか。",
+          "translation": "¿Ya decidiste tus planes para las vacaciones de verano?"
+        },
+        {
+          "speaker": "B",
+          "text": "沖縄に行こうと思っています。",
+          "reading": "おきなわにいこうとおもっています。",
+          "translation": "Estoy pensando ir a Okinawa."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "夏に花火を見ました。",
+        "reading": "なつにはなびをみました。",
+        "question": "¿Qué vio en verano?",
+        "answer": "fuegos artificiales",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "kanji": "秋",
+    "level": "N4",
+    "meanings": [
+      "otoño"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき"
+    ],
+    "radicals": [
+      "禾",
+      "火"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "El fuego del grano maduro: otoño de cosecha.",
+    "vocabulary": [
+      {
+        "word": "秋",
+        "reading": "あき",
+        "meaning": "otoño",
+        "example": "秋は紅葉がきれいです。",
+        "exampleReading": "あきはこうようがきれいです。",
+        "exampleTranslation": "En otoño las hojas son hermosas.",
+        "containsUnknownKanji": [
+          "紅",
+          "葉"
+        ]
+      },
+      {
+        "word": "秋分",
+        "reading": "しゅうぶん",
+        "meaning": "equinoccio de otoño",
+        "example": "秋分の日は祝日です。",
+        "exampleReading": "しゅうぶんのひはしゅくじつです。",
+        "exampleTranslation": "El día del equinoccio de otoño es feriado.",
+        "containsUnknownKanji": [
+          "分",
+          "日",
+          "祝"
+        ]
+      },
+      {
+        "word": "秋風",
+        "reading": "あきかぜ",
+        "meaning": "brisa otoñal",
+        "example": "秋風が気持ちいいです。",
+        "exampleReading": "あきかぜがきもちいいです。",
+        "exampleTranslation": "La brisa otoñal se siente bien.",
+        "containsUnknownKanji": [
+          "風",
+          "気",
+          "持"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "秋になりましたね。涼しくなってきました。",
+          "reading": "あきになりましたね。すずしくなってきました。",
+          "translation": "Ya es otoño. Empezó a refrescar."
+        },
+        {
+          "speaker": "B",
+          "text": "秋は食べ物もおいしい季節ですよね。",
+          "reading": "あきはたべものもおいしいきせつですよね。",
+          "translation": "El otoño también es la estación de la buena comida."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "秋には紅葉を見に行きます。",
+        "reading": "あきにはこうようをみにいきます。",
+        "question": "¿Qué va a ver en otoño?",
+        "answer": "las hojas de otoño",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "kanji": "冬",
+    "level": "N4",
+    "meanings": [
+      "invierno"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "radicals": [
+      "夂"
+    ],
+    "strokeCount": 5,
+    "mnemonic": "Hielo cayendo suavemente: invierno.",
+    "vocabulary": [
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "meaning": "invierno",
+        "example": "冬は雪が降ります。",
+        "exampleReading": "ふゆはゆきがふります。",
+        "exampleTranslation": "En invierno nieva.",
+        "containsUnknownKanji": [
+          "雪",
+          "降"
+        ]
+      },
+      {
+        "word": "冬休み",
+        "reading": "ふゆやすみ",
+        "meaning": "vacaciones de invierno",
+        "example": "冬休みにスキーに行きます。",
+        "exampleReading": "ふゆやすみにスキーにいきます。",
+        "exampleTranslation": "Voy a esquiar en vacaciones de invierno.",
+        "containsUnknownKanji": [
+          "休",
+          "行"
+        ]
+      },
+      {
+        "word": "真冬",
+        "reading": "まふゆ",
+        "meaning": "pleno invierno",
+        "example": "真冬は道が凍ります。",
+        "exampleReading": "まふゆはみちがこおります。",
+        "exampleTranslation": "En pleno invierno los caminos se congelan.",
+        "containsUnknownKanji": [
+          "真",
+          "道",
+          "凍"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "冬は何をするのが好きですか。",
+          "reading": "ふゆはなにをするのがすきですか。",
+          "translation": "¿Qué te gusta hacer en invierno?"
+        },
+        {
+          "speaker": "B",
+          "text": "温泉に入るのが好きです。体が温まります。",
+          "reading": "おんせんにはいるのがすきです。からだがあたたまります。",
+          "translation": "Me gusta meterme a las aguas termales. El cuerpo se calienta."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "冬が一番寒い季節です。",
+        "reading": "ふゆがいちばんさむいきせつです。",
+        "question": "¿Cuál es la estación más fría?",
+        "answer": "冬",
+        "answerType": "kanji"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "kanji": "風",
+    "level": "N4",
+    "meanings": [
+      "viento",
+      "estilo"
+    ],
+    "onyomi": [
+      "フウ"
+    ],
+    "kunyomi": [
+      "かぜ"
+    ],
+    "radicals": [
+      "風"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Un insecto dentro de una ráfaga: el viento.",
+    "vocabulary": [
+      {
+        "word": "風",
+        "reading": "かぜ",
+        "meaning": "viento",
+        "example": "今日は風が強いです。",
+        "exampleReading": "きょうはかぜがつよいです。",
+        "exampleTranslation": "Hoy hace mucho viento.",
+        "containsUnknownKanji": [
+          "今",
+          "日",
+          "強"
+        ]
+      },
+      {
+        "word": "風邪",
+        "reading": "かぜ",
+        "meaning": "resfriado",
+        "example": "風邪を引きました。",
+        "exampleReading": "かぜをひきました。",
+        "exampleTranslation": "Me resfrié.",
+        "containsUnknownKanji": [
+          "邪",
+          "引"
+        ]
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "tifón",
+        "example": "台風が近づいています。",
+        "exampleReading": "たいふうがちかづいています。",
+        "exampleTranslation": "Se acerca un tifón.",
+        "containsUnknownKanji": [
+          "台",
+          "近"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "風邪は治りましたか。",
+          "reading": "かぜはなおりましたか。",
+          "translation": "¿Ya se te quitó el resfriado?"
+        },
+        {
+          "speaker": "B",
+          "text": "まだ少し咳が出ますが、だいぶ良くなりました。",
+          "reading": "まだすこしせきがでますが、だいぶよくなりました。",
+          "translation": "Aún tengo un poco de tos, pero ya mejoré bastante."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "風邪を引いたので休みます。",
+        "reading": "かぜをひいたのでやすみます。",
+        "question": "¿Por qué descansa?",
+        "answer": "porque se resfrió",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "kanji": "雪",
+    "level": "N4",
+    "meanings": [
+      "nieve"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "kunyomi": [
+      "ゆき"
+    ],
+    "radicals": [
+      "雨",
+      "彐"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Lluvia que se congela con la mano: nieve.",
+    "vocabulary": [
+      {
+        "word": "雪",
+        "reading": "ゆき",
+        "meaning": "nieve",
+        "example": "今朝雪が降りました。",
+        "exampleReading": "けさゆきがふりました。",
+        "exampleTranslation": "Esta mañana nevó.",
+        "containsUnknownKanji": [
+          "今",
+          "朝",
+          "降"
+        ]
+      },
+      {
+        "word": "雪だるま",
+        "reading": "ゆきだるま",
+        "meaning": "muñeco de nieve",
+        "example": "子供と雪だるまを作りました。",
+        "exampleReading": "こどもとゆきだるまをつくりました。",
+        "exampleTranslation": "Hice un muñeco de nieve con los niños.",
+        "containsUnknownKanji": [
+          "子",
+          "供",
+          "作"
+        ]
+      },
+      {
+        "word": "大雪",
+        "reading": "おおゆき",
+        "meaning": "nevada fuerte",
+        "example": "大雪で電車が止まりました。",
+        "exampleReading": "おおゆきででんしゃがとまりました。",
+        "exampleTranslation": "El tren se detuvo por la nevada.",
+        "containsUnknownKanji": [
+          "大",
+          "電",
+          "車",
+          "止"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "見て！雪が降っていますよ。",
+          "reading": "みて！ゆきがふっていますよ。",
+          "translation": "¡Mira! Está nevando."
+        },
+        {
+          "speaker": "B",
+          "text": "本当だ。きれいですね。でも寒くなりそう。",
+          "reading": "ほんとうだ。きれいですね。でもさむくなりそう。",
+          "translation": "Es verdad. Qué bonito. Pero va a hacer más frío."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "雪の日は学校が休みです。",
+        "reading": "ゆきのひはがっこうがやすみです。",
+        "question": "¿Cuándo no hay clases?",
+        "answer": "los días de nieve",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "kanji": "海",
+    "level": "N4",
+    "meanings": [
+      "mar"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "radicals": [
+      "氵",
+      "毎"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Agua que viene cada día: el mar.",
+    "vocabulary": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "meaning": "mar",
+        "example": "夏は海で泳ぎます。",
+        "exampleReading": "なつはうみでおよぎます。",
+        "exampleTranslation": "En verano nado en el mar.",
+        "containsUnknownKanji": [
+          "夏",
+          "泳"
+        ]
+      },
+      {
+        "word": "海外",
+        "reading": "かいがい",
+        "meaning": "extranjero",
+        "example": "海外に住みたいです。",
+        "exampleReading": "かいがいにすみたいです。",
+        "exampleTranslation": "Quiero vivir en el extranjero.",
+        "containsUnknownKanji": [
+          "外",
+          "住"
+        ]
+      },
+      {
+        "word": "海岸",
+        "reading": "かいがん",
+        "meaning": "costa",
+        "example": "海岸を散歩しましょう。",
+        "exampleReading": "かいがんをさんぽしましょう。",
+        "exampleTranslation": "Paseemos por la costa.",
+        "containsUnknownKanji": [
+          "岸",
+          "散",
+          "歩"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "海に行ったことがありますか。",
+          "reading": "うみにいったことがありますか。",
+          "translation": "¿Has ido al mar?"
+        },
+        {
+          "speaker": "B",
+          "text": "はい、去年沖縄の海に行きました。とてもきれいでした。",
+          "reading": "はい、きょねんおきなわのうみにいきました。とてもきれいでした。",
+          "translation": "Sí, el año pasado fui al mar de Okinawa. Era precioso."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "海の近くに住んでいます。",
+        "reading": "うみのちかくにすんでいます。",
+        "question": "¿Dónde vive?",
+        "answer": "cerca del mar",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "kanji": "空",
+    "level": "N4",
+    "meanings": [
+      "cielo",
+      "vacío"
+    ],
+    "onyomi": [
+      "クウ"
+    ],
+    "kunyomi": [
+      "そら",
+      "あ",
+      "から"
+    ],
+    "radicals": [
+      "穴",
+      "工"
+    ],
+    "strokeCount": 8,
+    "mnemonic": "Un agujero artesanal hacia arriba: el cielo vacío.",
+    "vocabulary": [
+      {
+        "word": "空",
+        "reading": "そら",
+        "meaning": "cielo",
+        "example": "今日の空は青いです。",
+        "exampleReading": "きょうのそらはあおいです。",
+        "exampleTranslation": "El cielo de hoy es azul.",
+        "containsUnknownKanji": [
+          "今",
+          "日",
+          "青"
+        ]
+      },
+      {
+        "word": "空港",
+        "reading": "くうこう",
+        "meaning": "aeropuerto",
+        "example": "空港まで迎えに行きます。",
+        "exampleReading": "くうこうまでむかえにいきます。",
+        "exampleTranslation": "Voy a buscarte al aeropuerto.",
+        "containsUnknownKanji": [
+          "港",
+          "迎",
+          "行"
+        ]
+      },
+      {
+        "word": "空気",
+        "reading": "くうき",
+        "meaning": "aire, atmósfera",
+        "example": "山の空気はきれいです。",
+        "exampleReading": "やまのくうきはきれいです。",
+        "exampleTranslation": "El aire de la montaña es limpio.",
+        "containsUnknownKanji": [
+          "山",
+          "気"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "空がとてもきれいですね。星が見えます。",
+          "reading": "そらがとてもきれいですね。ほしがみえます。",
+          "translation": "El cielo está muy bonito. Se ven las estrellas."
+        },
+        {
+          "speaker": "B",
+          "text": "都会では見られない景色ですね。",
+          "reading": "とかいではみられないけしきですね。",
+          "translation": "Es un paisaje que no se ve en la ciudad."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "空港は遠いです。",
+        "reading": "くうこうはとおいです。",
+        "question": "¿Cómo está el aeropuerto?",
+        "answer": "lejos",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "kanji": "花",
+    "level": "N4",
+    "meanings": [
+      "flor"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "radicals": [
+      "⺾",
+      "化"
+    ],
+    "strokeCount": 7,
+    "mnemonic": "Una planta que se transforma: la flor que abre.",
+    "vocabulary": [
+      {
+        "word": "花",
+        "reading": "はな",
+        "meaning": "flor",
+        "example": "花をもらいました。",
+        "exampleReading": "はなをもらいました。",
+        "exampleTranslation": "Me regalaron flores.",
+        "containsUnknownKanji": []
+      },
+      {
+        "word": "花見",
+        "reading": "はなみ",
+        "meaning": "contemplación de cerezos",
+        "example": "来週花見に行きましょう。",
+        "exampleReading": "らいしゅうはなみにいきましょう。",
+        "exampleTranslation": "Vamos a ver los cerezos la próxima semana.",
+        "containsUnknownKanji": [
+          "来",
+          "週",
+          "見",
+          "行"
+        ]
+      },
+      {
+        "word": "花火",
+        "reading": "はなび",
+        "meaning": "fuegos artificiales",
+        "example": "夏に花火大会があります。",
+        "exampleReading": "なつにはなびたいかいがあります。",
+        "exampleTranslation": "En verano hay festival de fuegos artificiales.",
+        "containsUnknownKanji": [
+          "夏",
+          "火",
+          "大",
+          "会"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "このお花、きれいですね。誰にもらったんですか。",
+          "reading": "このおはな、きれいですね。だれにもらったんですか。",
+          "translation": "Qué flores tan bonitas. ¿Quién te las dio?"
+        },
+        {
+          "speaker": "B",
+          "text": "誕生日に彼氏がくれました。",
+          "reading": "たんじょうびにかれしがくれました。",
+          "translation": "Mi novio me las dio para mi cumpleaños."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "庭に花を植えました。",
+        "reading": "にわにはなをうえました。",
+        "question": "¿Qué plantó en el jardín?",
+        "answer": "flores",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "kanji": "鳥",
+    "level": "N4",
+    "meanings": [
+      "pájaro"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "radicals": [
+      "鳥"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Un ave con cola y alas detalladas.",
+    "vocabulary": [
+      {
+        "word": "鳥",
+        "reading": "とり",
+        "meaning": "pájaro",
+        "example": "庭に鳥が来ました。",
+        "exampleReading": "にわにとりがきました。",
+        "exampleTranslation": "Un pájaro vino al jardín.",
+        "containsUnknownKanji": [
+          "庭",
+          "来"
+        ]
+      },
+      {
+        "word": "焼き鳥",
+        "reading": "やきとり",
+        "meaning": "brochetas de pollo",
+        "example": "焼き鳥を食べに行きませんか。",
+        "exampleReading": "やきとりをたべにいきませんか。",
+        "exampleTranslation": "¿Vamos a comer brochetas de pollo?",
+        "containsUnknownKanji": [
+          "焼",
+          "食",
+          "行"
+        ]
+      },
+      {
+        "word": "野鳥",
+        "reading": "やちょう",
+        "meaning": "ave silvestre",
+        "example": "公園で野鳥を観察しました。",
+        "exampleReading": "こうえんでやちょうをかんさつしました。",
+        "exampleTranslation": "Observé aves silvestres en el parque.",
+        "containsUnknownKanji": [
+          "野",
+          "公",
+          "園",
+          "観",
+          "察"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "あの鳥の名前を知っていますか。",
+          "reading": "あのとりのなまえをしっていますか。",
+          "translation": "¿Sabes el nombre de ese pájaro?"
+        },
+        {
+          "speaker": "B",
+          "text": "メジロだと思います。春によく見かけます。",
+          "reading": "メジロだとおもいます。はるによくみかけます。",
+          "translation": "Creo que es un mejiro. Se ve mucho en primavera."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "朝から鳥の声が聞こえます。",
+        "reading": "あさからとりのこえがきこえます。",
+        "question": "¿Qué se oye desde la mañana?",
+        "answer": "el canto de los pájaros",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "kanji": "犬",
+    "level": "N4",
+    "meanings": [
+      "perro"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "いぬ"
+    ],
+    "radicals": [
+      "犬"
+    ],
+    "strokeCount": 4,
+    "mnemonic": "Un perro grande con un punto que es su nariz.",
+    "vocabulary": [
+      {
+        "word": "犬",
+        "reading": "いぬ",
+        "meaning": "perro",
+        "example": "犬と散歩するのが好きです。",
+        "exampleReading": "いぬとさんぽするのがすきです。",
+        "exampleTranslation": "Me gusta pasear con el perro.",
+        "containsUnknownKanji": [
+          "散",
+          "歩",
+          "好"
+        ]
+      },
+      {
+        "word": "子犬",
+        "reading": "こいぬ",
+        "meaning": "cachorro",
+        "example": "子犬がとてもかわいいです。",
+        "exampleReading": "こいぬがとてもかわいいです。",
+        "exampleTranslation": "El cachorro es muy lindo.",
+        "containsUnknownKanji": [
+          "子"
+        ]
+      },
+      {
+        "word": "番犬",
+        "reading": "ばんけん",
+        "meaning": "perro guardián",
+        "example": "うちには番犬がいます。",
+        "exampleReading": "うちにはばんけんがいます。",
+        "exampleTranslation": "En casa tenemos un perro guardián.",
+        "containsUnknownKanji": [
+          "番"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "犬と猫、どっちが好きですか。",
+          "reading": "いぬとねこ、どっちがすきですか。",
+          "translation": "¿Qué te gustan más, los perros o los gatos?"
+        },
+        {
+          "speaker": "B",
+          "text": "犬です。毎日一緒に走れるから。",
+          "reading": "いぬです。まいにちいっしょにはしれるから。",
+          "translation": "Los perros. Porque puedo correr con ellos todos los días."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "隣の犬がよく吠えます。",
+        "reading": "となりのいぬがよくほえます。",
+        "question": "¿Qué hace el perro del vecino?",
+        "answer": "ladra mucho",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "kanji": "猫",
+    "level": "N4",
+    "meanings": [
+      "gato"
+    ],
+    "onyomi": [
+      "ビョウ"
+    ],
+    "kunyomi": [
+      "ねこ"
+    ],
+    "radicals": [
+      "犭",
+      "苗"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Un animal con brotes de planta: el gato entre las hierbas.",
+    "vocabulary": [
+      {
+        "word": "猫",
+        "reading": "ねこ",
+        "meaning": "gato",
+        "example": "猫を二匹飼っています。",
+        "exampleReading": "ねこをにひきかっています。",
+        "exampleTranslation": "Tengo dos gatos.",
+        "containsUnknownKanji": [
+          "匹",
+          "飼"
+        ]
+      },
+      {
+        "word": "子猫",
+        "reading": "こねこ",
+        "meaning": "gatito",
+        "example": "子猫を拾いました。",
+        "exampleReading": "こねこをひろいました。",
+        "exampleTranslation": "Recogí un gatito.",
+        "containsUnknownKanji": [
+          "子",
+          "拾"
+        ]
+      },
+      {
+        "word": "猫舌",
+        "reading": "ねこじた",
+        "meaning": "sensible al calor (al comer)",
+        "example": "私は猫舌です。",
+        "exampleReading": "わたしはねこじたです。",
+        "exampleTranslation": "No tolero las comidas calientes.",
+        "containsUnknownKanji": [
+          "舌",
+          "私"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "この猫、名前は何ですか。",
+          "reading": "このねこ、なまえはなんですか。",
+          "translation": "¿Cómo se llama este gato?"
+        },
+        {
+          "speaker": "B",
+          "text": "ミケです。三年前に拾ったんです。",
+          "reading": "ミケです。さんねんまえにひろったんです。",
+          "translation": "Mke. Lo recogí hace tres años."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "猫がソファで寝ています。",
+        "reading": "ねこがソファでねています。",
+        "question": "¿Qué hace el gato?",
+        "answer": "duerme en el sofá",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "kanji": "魚",
+    "level": "N4",
+    "meanings": [
+      "pez",
+      "pescado"
+    ],
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "うお",
+      "さかな"
+    ],
+    "radicals": [
+      "魚"
+    ],
+    "strokeCount": 11,
+    "mnemonic": "Un pez con cola y escamas detalladas.",
+    "vocabulary": [
+      {
+        "word": "魚",
+        "reading": "さかな",
+        "meaning": "pescado",
+        "example": "魚が好きです。",
+        "exampleReading": "さかながすきです。",
+        "exampleTranslation": "Me gusta el pescado.",
+        "containsUnknownKanji": [
+          "好"
+        ]
+      },
+      {
+        "word": "金魚",
+        "reading": "きんぎょ",
+        "meaning": "pez dorado",
+        "example": "金魚を飼っています。",
+        "exampleReading": "きんぎょをかっています。",
+        "exampleTranslation": "Tengo un pez dorado.",
+        "containsUnknownKanji": [
+          "金",
+          "飼"
+        ]
+      },
+      {
+        "word": "魚屋",
+        "reading": "さかなや",
+        "meaning": "pescadería",
+        "example": "魚屋で新鮮な魚を買いました。",
+        "exampleReading": "さかなやでしんせんなさかなをかいました。",
+        "exampleTranslation": "Compré pescado fresco en la pescadería.",
+        "containsUnknownKanji": [
+          "屋",
+          "新",
+          "鮮",
+          "買"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "肉と魚、どっちにしますか。",
+          "reading": "にくとさかな、どっちにしますか。",
+          "translation": "¿Qué prefieres, carne o pescado?"
+        },
+        {
+          "speaker": "B",
+          "text": "今日は魚にします。焼き魚がいいです。",
+          "reading": "きょうはさかなにします。やきざかながいいです。",
+          "translation": "Hoy pescado. Me gustaría pescado a la parrilla."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "日本人は魚をよく食べます。",
+        "reading": "にほんじんはさかなをよくたべます。",
+        "question": "¿Qué comen mucho los japoneses?",
+        "answer": "pescado",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "kanji": "肉",
+    "level": "N4",
+    "meanings": [
+      "carne"
+    ],
+    "onyomi": [
+      "ニク"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "肉"
+    ],
+    "strokeCount": 6,
+    "mnemonic": "Un trozo de carne con fibras visibles.",
+    "vocabulary": [
+      {
+        "word": "肉",
+        "reading": "にく",
+        "meaning": "carne",
+        "example": "今日は肉を食べたいです。",
+        "exampleReading": "きょうはにくをたべたいです。",
+        "exampleTranslation": "Hoy quiero comer carne.",
+        "containsUnknownKanji": [
+          "今",
+          "日",
+          "食"
+        ]
+      },
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "carne de res",
+        "example": "牛肉が高くなりました。",
+        "exampleReading": "ぎゅうにくがたかくなりました。",
+        "exampleTranslation": "La carne de res subió de precio.",
+        "containsUnknownKanji": [
+          "牛",
+          "高"
+        ]
+      },
+      {
+        "word": "鶏肉",
+        "reading": "とりにく",
+        "meaning": "carne de pollo",
+        "example": "鶏肉でカレーを作りました。",
+        "exampleReading": "とりにくでカレーをつくりました。",
+        "exampleTranslation": "Hice curry con pollo.",
+        "containsUnknownKanji": [
+          "鶏",
+          "作"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "お肉はどのぐらい焼きますか。",
+          "reading": "おにくはどのぐらいやきますか。",
+          "translation": "¿Cuánto quiere que le cocine la carne?"
+        },
+        {
+          "speaker": "B",
+          "text": "ミディアムでお願いします。",
+          "reading": "ミディアムでおねがいします。",
+          "translation": "Término medio, por favor."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "安い肉を買いました。",
+        "reading": "やすいにくをかいました。",
+        "question": "¿Qué compró?",
+        "answer": "carne barata",
+        "answerType": "meaning"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "kanji": "茶",
+    "level": "N4",
+    "meanings": [
+      "té"
+    ],
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "kunyomi": [],
+    "radicals": [
+      "⺾",
+      "余"
+    ],
+    "strokeCount": 9,
+    "mnemonic": "Una planta con sobras al final: las hojas de té.",
+    "vocabulary": [
+      {
+        "word": "お茶",
+        "reading": "おちゃ",
+        "meaning": "té",
+        "example": "お茶を飲みませんか。",
+        "exampleReading": "おちゃをのみませんか。",
+        "exampleTranslation": "¿Tomamos un té?",
+        "containsUnknownKanji": [
+          "飲"
+        ]
+      },
+      {
+        "word": "茶色",
+        "reading": "ちゃいろ",
+        "meaning": "marrón",
+        "example": "茶色の靴を買いました。",
+        "exampleReading": "ちゃいろのくつをかいました。",
+        "exampleTranslation": "Compré zapatos marrones.",
+        "containsUnknownKanji": [
+          "色",
+          "靴",
+          "買"
+        ]
+      },
+      {
+        "word": "喫茶店",
+        "reading": "きっさてん",
+        "meaning": "cafetería",
+        "example": "喫茶店でコーヒーを飲みました。",
+        "exampleReading": "きっさてんでコーヒーをのみました。",
+        "exampleTranslation": "Tomé café en una cafetería.",
+        "containsUnknownKanji": [
+          "喫",
+          "店",
+          "飲"
+        ]
+      }
+    ],
+    "dialogue": {
+      "turns": [
+        {
+          "speaker": "A",
+          "text": "お茶にしましょうか。",
+          "reading": "おちゃにしましょうか。",
+          "translation": "¿Hacemos una pausa para el té?"
+        },
+        {
+          "speaker": "B",
+          "text": "いいですね。緑茶がありますか。",
+          "reading": "いいですね。りょくちゃがありますか。",
+          "translation": "Suena bien. ¿Hay té verde?"
+        },
+        {
+          "speaker": "A",
+          "text": "はい、ありますよ。お菓子もどうぞ。",
+          "reading": "はい、ありますよ。おかしもどうぞ。",
+          "translation": "Sí. Toma también un dulce."
+        }
+      ]
+    },
+    "listeningPrompts": [
+      {
+        "audio": "毎朝お茶を飲みます。",
+        "reading": "まいあさおちゃをのみます。",
+        "question": "¿Qué toma cada mañana?",
+        "answer": "té",
+        "answerType": "meaning"
       }
     ]
   }

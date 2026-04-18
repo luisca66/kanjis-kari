@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { useProgress } from '@/lib/useProgress';
 import kanjiData from '@/data/kanji-data.json';
 
-const TOTAL_KANJIS = 180;
+const TOTAL_KANJIS = kanjiData.length;
 
 export default function HomePage() {
   const { learnedIds, resetProgress } = useProgress();
